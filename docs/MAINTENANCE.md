@@ -51,9 +51,13 @@ npm run build
 
 3. 检查实际数据、全部引用的图片/户型/路线存在且可读，来源日期真实。数据更新做一轮电脑版页面验收；布局变化再按既有Impeccable设计检查。保持首屏能看到房名、价格、核心事实及主要操作。确保待核、空结果、对比及路线方式显示正确。截图和测试输出放本项目目录，不提交私人浏览记录。
 4. 提交前查看`git status`与差异，保留其他会话的改动，只提交本轮文件。当前开发分支为`codex/ois-homes-site`，沿用[PR #1](https://github.com/lukeliu95/ois-homes/pull/1)，不直接改main、不合并、不打标签。
-5. Vercel已连接GitHub，只推送分支并等该提交SHA的部署为READY。不要再执行`vercel deploy`重复上传。核对项目、SHA和构建结果，再将同一个已验证部署提升到现有正式域名；当前持续发布授权覆盖此步骤。
+5. Vercel已连接GitHub，先推送分支并等该提交SHA的部署为READY。不要执行`vercel deploy`重复上传本地代码。当前开发分支生成Preview；使用[官方提升流程](https://vercel.com/docs/deployments/promote-preview-to-production)，把已核部署对应的同一GitHub提交发布到Production：
 
-需要通过CLI提升已构建的部署时，使用现有授权账号和明确项目/团队范围，先读取并记录旧正式部署以便回滚。API为`POST /v10/projects/{projectId}/promote/{deploymentId}?teamId={teamId}`，不得泄露本地认证信息。若连接状态变化或权限不足，先报告真实阻塞，不新开收费服务或降低保护。
+```sh
+vercel promote <verified-deployment-id> --yes --scope <existing-project-scope> --timeout 50s
+```
+
+平台会为Preview源码生成新的Production构建，须等待新部署READY并再次核对SHA。Preview不能直接使用promote REST接口原地切换，本轮该做法返回422。仅已按Production环境构建的部署可通过`POST /v10/projects/{projectId}/promote/{deploymentId}?teamId={teamId}`直接提升而不重建。先记录旧正式部署以便回滚，使用现有授权账号及明确项目/团队范围，不泄露本地认证信息。当前持续发布授权覆盖此步骤；连接或权限变化时先报告真实阻塞，不新开收费服务或降低保护。
 
 6. 匿名验证正式域名返回200、页面加载本轮提交的数据、图片和路线可打开，再记录实际部署ID、SHA、检查时间和新增数量。PR说明用中文，更新为最终变化；无新增要明确写0，不把复核算新增。
 
