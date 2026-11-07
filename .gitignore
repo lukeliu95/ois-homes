@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.DS_Store
+.impeccable/cache/
+.impeccable/hook.cache.json
+.impeccable/live/
+.impeccable/mocks/
+.impeccable/review/
+docs/qa/*.png
+docs/qa/*.jpg
+docs/qa/*.jpeg
+*.log
