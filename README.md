@@ -28,6 +28,7 @@ npm run dev
 
 ```sh
 npm test
+npm run test:data
 npm run build
 npm run preview
 ```
@@ -43,6 +44,8 @@ python3 scripts/import-listings.py --source /path/to/reviewed-research
 ```
 
 导入器只读取白名单字段和对应真实图片；新增ID须先补人工核过的中文概要与费用，不能把未经核实的门户摘要自动发布。价格、状态、建年月、入住日期、费用变更时，同步更新概要并重新验证。已有图片不表示广告仍然有效；核查失败不能刷新观测时间。
+
+完整准入、每日找房和直接发布步骤见[持续维护说明](docs/MAINTENANCE.md)，实际研究变化见[更新记录](docs/updates/2026-11-07-housing-recheck.md)。
 
 ## 发布
 

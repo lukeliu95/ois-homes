@@ -7,6 +7,8 @@ import {
   DEFAULT_FILTERS,
   filterHomes,
   money,
+  commuteLabel,
+  commuteSummary,
 } from "./domain";
 import type { Filters, Home, Media } from "./domain";
 
@@ -19,6 +21,7 @@ type IconName =
   | "compare"
   | "close"
   | "bike"
+  | "bus"
   | "arrow-left"
   | "arrow-right"
   | "expand"
@@ -70,6 +73,14 @@ function Icon({
         <circle cx="5" cy="17" r="4" />
         <circle cx="19" cy="17" r="4" />
         <path d="m5 17 5-10 6 10H5l5-10h5M9 4h4M16 4h3l2 5" />
+      </>
+    ),
+    bus: (
+      <>
+        <rect x="4" y="3" width="16" height="16" rx="3" />
+        <path d="M4 11h16M8 19v2M16 19v2M8 7h8" />
+        <circle cx="8" cy="15" r="1" />
+        <circle cx="16" cy="15" r="1" />
       </>
     ),
     "arrow-left": <path d="m14 6-6 6 6 6" />,
@@ -404,16 +415,33 @@ function Gallery({ home }: { home: Home }) {
       {category === "route" && home.commute && (
         <div className="route-caption">
           <span>
-            <Icon name="bike" size={16} />
+            <Icon
+              name={home.commute.mode === "transit" ? "bus" : "bike"}
+              size={16}
+            />
             <strong>{home.commute.minutes}分钟</strong> ·{" "}
-            {home.commute.distanceKm}公里 · 爬升{home.commute.ascentM}米
+            {home.commute.mode === "transit" ? (
+              "含步行、候车与换乘"
+            ) : (
+              <>
+                {home.commute.distanceKm !== null &&
+                  `${home.commute.distanceKm}公里`}
+                {home.commute.ascentM !== null &&
+                  ` · 爬升${home.commute.ascentM}米`}
+              </>
+            )}
           </span>
           <a href={home.commute.url} target="_blank" rel="noreferrer">
             打开导航 <Icon name="external" size={13} />
           </a>
           <p>
-            完整公开门牌地址点至OIS，未实骑。{home.commute.note}慢骑情景约
-            {home.commute.slowMinutes}分钟。
+            {home.commute.mode === "transit"
+              ? "全程公交依据，含步行、候车与换乘。"
+              : "完整公开门牌地址点至OIS，未实骑。"}
+            {home.commute.note}
+            {home.commute.mode === "bicycling" &&
+              home.commute.slowMinutes !== null &&
+              `慢骑情景约${home.commute.slowMinutes}分钟。`}
           </p>
         </div>
       )}
@@ -475,7 +503,7 @@ function HomeDetail({
             <strong>{home.layout}</strong> · {home.sizeM2}㎡ · 约
             {Math.floor(ageYears(home.built))}年 ·{" "}
             {home.commute
-              ? `骑车导航${home.commute.minutes}分钟`
+              ? `${commuteLabel(home.commute)}${home.commute.minutes}分钟`
               : "到校路线待核"}
           </p>
         </div>
@@ -549,7 +577,11 @@ function HomeDetail({
               "待核"
             )}
           </strong>
-          <span>{home.commute ? "骑车导航至OIS" : "到OIS的路线"}</span>
+          <span>
+            {home.commute
+              ? `${commuteLabel(home.commute)}至OIS`
+              : "到OIS的路线"}
+          </span>
         </div>
       </div>
       <div className="detail-tabs" role="tablist" aria-label="房源详细资料">
@@ -630,34 +662,48 @@ function HomeDetail({
           (home.commute ? (
             <>
               <div className="commute-heading">
-                <Icon name="bike" size={25} />
+                <Icon
+                  name={home.commute.mode === "transit" ? "bus" : "bike"}
+                  size={25}
+                />
                 <div>
                   <h3>
-                    骑车导航 {home.commute.minutes}分钟 ·{" "}
-                    {home.commute.distanceKm}公里
+                    {commuteLabel(home.commute)} {home.commute.minutes}分钟
+                    {home.commute.distanceKm !== null &&
+                      ` · ${home.commute.distanceKm}公里`}
                   </h3>
                   <p>目的地：箕面市小野原西4-4-16，OIS学校地点</p>
                 </div>
               </div>
-              <p>
-                {home.commute.note}
-                这是地图导航估计，未实骑，也不包括停好自行车后的校内步行。
-              </p>
-              <p>
-                按12公里/小时加3分钟缓冲估算，慢骑约
-                <strong>{home.commute.slowMinutes}分钟</strong>
-                ；返程上坡、上学日路口等候需另核。
-              </p>
-              <p>
-                本套尚未核到包含家到站、候车、换乘和下车步行的20分钟公交方案。
-              </p>
+              <p>{home.commute.note}</p>
+              {home.commute.mode === "transit" ? (
+                <p>
+                  全程时间包含家到站步行、候车、换乘和下车至学校步行，按所核上学日班次估算；实际延误需留余量。
+                </p>
+              ) : (
+                <>
+                  <p>
+                    这是地图导航估计，未实骑，也不包括停好自行车后的校内步行。
+                  </p>
+                  {home.commute.slowMinutes !== null && (
+                    <p>
+                      按12公里/小时加3分钟缓冲估算，慢骑约
+                      <strong>{home.commute.slowMinutes}分钟</strong>
+                      ；返程上坡、上学日路口等候需另核。
+                    </p>
+                  )}
+                  <p>
+                    本套尚未核到包含家到站、候车、换乘和下车步行的20分钟公交方案。
+                  </p>
+                </>
+              )}
               <a
                 className="inline-link"
                 href={home.commute.url}
                 target="_blank"
                 rel="noreferrer"
               >
-                打开这套房到OIS的骑车导航 <Icon name="external" size={14} />
+                查看这套房到OIS的路线依据 <Icon name="external" size={14} />
               </a>
               <small className="source-time">
                 地图观测：{dateLabel(home.commute.observedAt, true)}，日本时间
@@ -820,11 +866,11 @@ function CompareDialog({
             {row("到OIS", (home) =>
               home.commute ? (
                 <>
-                  <strong>骑车导航{home.commute.minutes}分钟</strong>
-                  <p>
-                    {home.commute.distanceKm}公里；慢骑情景约
-                    {home.commute.slowMinutes}分钟
-                  </p>
+                  <strong>
+                    {commuteLabel(home.commute)}
+                    {home.commute.minutes}分钟
+                  </strong>
+                  <p>{commuteSummary(home.commute)}</p>
                   <a
                     className="tiny-link"
                     href={home.commute.url}
@@ -873,7 +919,8 @@ function CompareDialog({
 export default function App() {
   const [filters, setFilters] = useState<Filters>(initialFilters);
   const [selectedId, setSelectedId] = useState(
-    () => new URLSearchParams(location.search).get("house") ?? homes[0].id,
+    () =>
+      new URLSearchParams(location.search).get("house") ?? homes[0]?.id ?? "",
   );
   const [favorites, setFavorites] = useState(() =>
     readSaved("ois-homes-favorites-v1"),
@@ -1128,7 +1175,13 @@ export default function App() {
                           }
                         >
                           <Icon
-                            name={home.commute ? "bike" : "pin"}
+                            name={
+                              home.commute
+                                ? home.commute.mode === "transit"
+                                  ? "bus"
+                                  : "bike"
+                                : "pin"
+                            }
                             size={14}
                           />
                           {home.commute
@@ -1207,7 +1260,7 @@ export default function App() {
               </div>
             )}
             <p className="listing-disclaimer">
-              网页仍展示招租广告，不代表中介已确认空室。到校时间为导航估计，未实骑。
+              网页仍展示招租广告，不代表中介已确认空室。到校时间据路线资料估算，尚未实地通学测量。
             </p>
           </aside>
           {selected ? (

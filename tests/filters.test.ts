@@ -1,11 +1,20 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { DEFAULT_FILTERS, filterHomes, withinAge } from "../src/domain.ts";
+import {
+  DEFAULT_FILTERS,
+  filterHomes,
+  withinAge,
+  commuteLabel,
+  commuteSummary,
+} from "../src/domain.ts";
 import type { Home } from "../src/domain.ts";
 
 const homes = JSON.parse(
-  readFileSync(new URL("../src/data/listings.json", import.meta.url), "utf8"),
+  readFileSync(
+    new URL("./fixtures/homes-2026-11-07.json", import.meta.url),
+    "utf8",
+  ),
 ).homes as Home[];
 const asOf = new Date("2026-11-07T12:00:00+09:00");
 
@@ -78,7 +87,10 @@ test("commute and area sorting use the right values", () => {
 });
 test("public data carries actual media and sources without private file paths", () => {
   assert.equal(new Set(homes.map((home) => home.id)).size, homes.length);
-  for (const home of homes) {
+  const currentHomes = JSON.parse(
+    readFileSync(new URL("../src/data/listings.json", import.meta.url), "utf8"),
+  ).homes as Home[];
+  for (const home of currentHomes) {
     assert.ok(home.rentYen >= 150000 && home.rentYen <= 300000);
     assert.ok(home.photos.some((photo) => photo.kind === "floorplan"));
     assert.ok(home.photos.some((photo) => photo.kind === "exterior"));
@@ -95,4 +107,16 @@ test("public data carries actual media and sources without private file paths", 
       assert.ok(media.sourceUrl.startsWith("https://"));
     }
   }
+});
+
+test("public-transport labels never claim a bicycle route or speed scenario", () => {
+  const transit = {
+    ...homes[0].commute!,
+    mode: "transit" as const,
+    distanceKm: null,
+    ascentM: null,
+    slowMinutes: null,
+  };
+  assert.equal(commuteLabel(transit), "公交全程");
+  assert.equal(commuteSummary(transit), "含步行、候车与换乘");
 });

@@ -4,27 +4,17 @@
     "address": "大阪府箕面市小野原西4-4-16",
     "url": "https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location"
   },
-  "dataAsOf": "2026-11-07T12:11:29+09:00",
+  "dataAsOf": "2026-11-07T14:02:54.185+09:00",
   "homes": [
     {
       "id": "N002",
       "name": "箕面3丁目 A栋",
-      "formalName": "箕面タウンハウスA／箕面市箕面3丁目貸家",
       "neighborhood": "箕面 · 箕面3丁目",
-      "address": "大阪府箕面市箕面3丁目7番27号",
-      "rentYen": 180000,
-      "managementFeeYen": 0,
-      "sizeM2": 105.13,
       "layout": "4LDK",
       "bedrooms": 4,
-      "built": "2011-09",
-      "status": "verified",
-      "statusNote": "已核公开广告和地址级导航，实际空室仍需中介确认",
-      "checkedAt": "2026-11-07T12:05:14+09:00",
       "moveIn": "广告指定12月20日，跨站日期有差异",
       "lease": "普通借家 · 2年",
       "parking": "1台，另1.5万日元/月",
-      "parkingYen": 15000,
       "summary": "四间卧室，更接近20万预算。月租加一个车位19.5万日元，其他费用另计。",
       "attention": [
         "入住日期跨站不一致，当前at home指定2026年12月20日，实际交付日待确认。",
@@ -77,6 +67,16 @@
           "value": "9万日元"
         }
       ],
+      "formalName": "箕面タウンハウスA／箕面市箕面3丁目貸家",
+      "address": "大阪府箕面市箕面3丁目7番27号",
+      "rentYen": 180000,
+      "managementFeeYen": 0,
+      "sizeM2": 105.13,
+      "built": "2011-09",
+      "status": "verified",
+      "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
+      "checkedAt": "2026-11-07T13:59:44.337+09:00",
+      "parkingYen": 15000,
       "photos": [
         {
           "src": "/media/N002/15-able-exterior.jpg",
@@ -237,7 +237,7 @@
         {
           "label": "at home",
           "url": "https://www.athome.co.jp/chintai/1106992437/",
-          "observedAt": "2026-11-07T12:05:14+09:00"
+          "observedAt": "2026-11-07T13:59:44.337+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -250,22 +250,12 @@
     {
       "id": "N001",
       "name": "粟生间谷西 · 车库住宅",
-      "formalName": "間谷西ガレージハウス",
       "neighborhood": "箕面 · 粟生间谷西5丁目",
-      "address": "大阪府箕面市粟生間谷西5丁目13-8",
-      "rentYen": 250000,
-      "managementFeeYen": 0,
-      "sizeM2": 77.83,
       "layout": "1SLDK",
       "bedrooms": 1,
-      "built": "2024-02",
-      "status": "verified",
-      "statusNote": "已核公开广告和地址级导航，实际空室仍需中介确认",
-      "checkedAt": "2026-11-07T12:02:30+09:00",
       "moveIn": "协商或即入住，跨站口径不同",
       "lease": "2年 · 普通或定期借家待核",
       "parking": "广告含2台，尺寸与停放方式待核",
-      "parkingYen": 0,
       "summary": "2024年建，车库是这套房的重点。只有一间卧室，适合重视停车空间的人取舍。",
       "attention": [
         "1楼主要为车库；77.83㎡是广告面积，是否包含车库、净居住面积多少仍待核。",
@@ -294,6 +284,16 @@
           "value": "尚未取得完整报价，不按0计算"
         }
       ],
+      "formalName": "間谷西ガレージハウス",
+      "address": "大阪府箕面市粟生間谷西5丁目13-8",
+      "rentYen": 250000,
+      "managementFeeYen": 0,
+      "sizeM2": 77.83,
+      "built": "2024-02",
+      "status": "verified",
+      "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
+      "checkedAt": "2026-11-07T13:59:30.955+09:00",
+      "parkingYen": 0,
       "photos": [
         {
           "src": "/media/N001/01.jpg",
@@ -388,7 +388,7 @@
         {
           "label": "at home",
           "url": "https://www.athome.co.jp/chintai/1108644237/",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-07T13:59:30.955+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -401,22 +401,12 @@
     {
       "id": "N003",
       "name": "箕面3丁目 B栋",
-      "formalName": "箕面市・シャーメゾン井筒実業株式会社邸 B000",
       "neighborhood": "箕面 · 箕面3丁目",
-      "address": "大阪府箕面市箕面3丁目6番25号",
-      "rentYen": 240000,
-      "managementFeeYen": 0,
-      "sizeM2": 125.5,
       "layout": "4LDK",
       "bedrooms": 4,
-      "built": "2009-02",
-      "status": "verified",
-      "statusNote": "已核公开广告和地址级导航，实际空室仍需中介确认",
-      "checkedAt": "2026-11-07T12:11:29+09:00",
       "moveIn": "广告标即入住，实际空室待确认",
       "lease": "2年 · 普通或定期借家待核",
       "parking": "广告含停车，台数待核",
-      "parkingYen": 0,
       "summary": "125.5㎡，三间洋室加一间和室。月租24万日元，另有50万不可退契约金。",
       "attention": [
         "月租较20万目标高4万；官方的50万契约一时金不可退还，另有押金5万。",
@@ -473,6 +463,16 @@
           "value": "新月租1个月"
         }
       ],
+      "formalName": "箕面市・シャーメゾン井筒実業株式会社邸 B000",
+      "address": "大阪府箕面市箕面3丁目6番25号",
+      "rentYen": 240000,
+      "managementFeeYen": 0,
+      "sizeM2": 125.5,
+      "built": "2009-02",
+      "status": "verified",
+      "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
+      "checkedAt": "2026-11-07T14:00:01.951+09:00",
+      "parkingYen": 0,
       "photos": [
         {
           "src": "/media/N003/13-official-floorplan.jpg",
@@ -604,7 +604,7 @@
         {
           "label": "积水住宅官方",
           "url": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/",
-          "observedAt": "2026-11-07T12:11:29+09:00"
+          "observedAt": "2026-11-07T14:00:01.951+09:00"
         }
       ],
       "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/"
@@ -612,26 +612,17 @@
     {
       "id": "N004",
       "name": "箕面6丁目独栋",
-      "formalName": "箕面市箕面6丁目貸家",
       "neighborhood": "箕面 · 箕面6丁目",
-      "address": "箕面6丁目仅街区，无公开完整门牌本轮未得",
-      "rentYen": 160000,
-      "managementFeeYen": 0,
-      "sizeM2": 79.67,
       "layout": "3LDK",
       "bedrooms": 3,
-      "built": "2007-02",
-      "status": "pending",
-      "statusNote": "完整门牌和到校路线待核",
-      "checkedAt": "2026-11-07T12:10:11+09:00",
       "moveIn": "广告标即入住，实际空室待确认",
       "lease": "定期借家至2037年3月；法人普通借家可商谈",
       "parking": "1台免费，第2台另1万日元/月",
-      "parkingYen": 0,
       "summary": "16万日元的年轻独栋线索；缺完整门牌和到校路线，暂不列入20分钟已核结果。",
       "attention": [
         "当前只公开到箕面6丁目，没有取得对应这套房的完整门牌，不能给出准确到校时间。",
-        "SUUMO明确写定期借家至2037年3月，法人普通借家可商谈；不把另一站的2年字段当普通租约。"
+        "SUUMO明确写定期借家至2037年3月，法人普通借家可商谈；不把另一站的2年字段当普通租约。",
+        "发现同价同面积的东、西栋历史线索，尚不能把完整门牌唯一对应到当前出租栋；不绘制猜测路线。"
       ],
       "fees": [
         {
@@ -655,6 +646,16 @@
           "value": "完整报价待核"
         }
       ],
+      "formalName": "箕面市箕面6丁目貸家",
+      "address": "箕面6丁目仅街区，无公开完整门牌本轮未得",
+      "rentYen": 160000,
+      "managementFeeYen": 0,
+      "sizeM2": 79.67,
+      "built": "2007-02",
+      "status": "pending",
+      "statusNote": "完整门牌和到校路线待核",
+      "checkedAt": "2026-11-07T14:02:54.185+09:00",
+      "parkingYen": 0,
       "photos": [
         {
           "src": "/media/N004/01.jpg",
@@ -678,15 +679,21 @@
         {
           "label": "at home",
           "url": "https://www.athome.co.jp/chintai/1132443225/",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-07T14:02:54.185+09:00"
         },
         {
           "label": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100532872761/",
           "observedAt": "2026-11-07T12:19:41+09:00"
+        },
+        {
+          "label": "KIWAMI不动产",
+          "url": "https://www.kiwami-estate.jp/area_c1/bknarea_ki27220/%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A26%E4%B8%81%E7%9B%AE%E8%B2%B8%E5%AE%B6/room84851188.html",
+          "observedAt": "2026-11-07T14:00:39+09:00"
         }
       ],
       "sourceUrl": "https://www.athome.co.jp/chintai/1132443225/"
     }
-  ]
+  ],
+  "archive": []
 }

@@ -41,9 +41,9 @@ export interface Home {
   commute: null | {
     mode: "bicycling" | "transit";
     minutes: number;
-    distanceKm: number;
-    ascentM: number;
-    slowMinutes: number;
+    distanceKm: number | null;
+    ascentM: number | null;
+    slowMinutes: number | null;
     note: string;
     url: string;
     observedAt: string;
@@ -134,6 +134,20 @@ export function money(yen: number): string {
   return yen >= 10000
     ? `${Number((yen / 10000).toFixed(3))}万日元`
     : `${yen.toLocaleString("zh-CN")}日元`;
+}
+
+export function commuteLabel(commute: NonNullable<Home["commute"]>): string {
+  return commute.mode === "transit" ? "公交全程" : "骑车导航";
+}
+
+export function commuteSummary(commute: NonNullable<Home["commute"]>): string {
+  if (commute.mode === "transit") return "含步行、候车与换乘";
+  return [
+    commute.distanceKm === null ? "" : `${commute.distanceKm}公里`,
+    commute.slowMinutes === null ? "" : `慢骑情景约${commute.slowMinutes}分钟`,
+  ]
+    .filter(Boolean)
+    .join("；");
 }
 
 export function dateLabel(value: string, time = false): string {

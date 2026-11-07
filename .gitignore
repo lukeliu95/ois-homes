@@ -15,3 +15,5 @@ docs/qa/*.png
 docs/qa/*.jpg
 docs/qa/*.jpeg
 *.log
+__pycache__/
+*.pyc
