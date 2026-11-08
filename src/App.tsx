@@ -851,11 +851,7 @@ function CompareDialog({
             {row("面积 / 户型", (home) => (
               <>
                 {home.sizeM2}㎡ · {home.layout}
-                <p>
-                  {home.id === "N001"
-                    ? "仅1间卧室，面积是否含车库待核"
-                    : `${home.bedrooms}间卧室`}
-                </p>
+                <p>{home.areaNote ?? `${home.bedrooms}间卧室`}</p>
               </>
             ))}
             {row(

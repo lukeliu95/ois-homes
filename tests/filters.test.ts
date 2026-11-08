@@ -7,6 +7,7 @@ import {
   withinAge,
   commuteLabel,
   commuteSummary,
+  money,
 } from "../src/domain.ts";
 import type { Home } from "../src/domain.ts";
 
@@ -119,4 +120,11 @@ test("public-transport labels never claim a bicycle route or speed scenario", ()
   };
   assert.equal(commuteLabel(transit), "公交全程");
   assert.equal(commuteSummary(transit), "含步行、候车与换乘");
+});
+
+test("unlisted fees are distinct from a confirmed zero charge", () => {
+  assert.equal(money(null), "待确认");
+  assert.equal(money(0), "无");
+  assert.equal(money(8000), "8,000日元");
+  assert.equal(money(15000), "1.5万日元");
 });

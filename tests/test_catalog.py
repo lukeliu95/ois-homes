@@ -53,7 +53,11 @@ class PublicationGuards(unittest.TestCase):
     def test_unknown_fees_are_not_zero(self):
         record = candidate()
         record['management_fee_yen'] = None
-        self.assertIn('management fee unknown', qualification_errors(record, TODAY))
+        # Rent is the hard budget; unknown extras must remain unknown.
+        self.assertEqual(qualification_errors(record, TODAY), [])
+        self.assertIsNone(fact_snapshot(record)['management_fee_yen'])
+        record['management_fee_yen'] = -1
+        self.assertTrue(qualification_errors(record, TODAY))
 
     def test_missing_or_overlong_routes_cannot_qualify(self):
         for change in ({'minutes': 21}, {'screenshot': None},

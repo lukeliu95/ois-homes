@@ -4,7 +4,7 @@
     "address": "大阪府箕面市小野原西4-4-16",
     "url": "https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location"
   },
-  "dataAsOf": "2026-11-07T14:02:54.185+09:00",
+  "dataAsOf": "2026-11-08T09:01:33.728+09:00",
   "homes": [
     {
       "id": "N002",
@@ -75,7 +75,7 @@
       "built": "2011-09",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-07T13:59:44.337+09:00",
+      "checkedAt": "2026-11-08T08:58:19.389+09:00",
       "parkingYen": 15000,
       "photos": [
         {
@@ -237,7 +237,7 @@
         {
           "label": "at home",
           "url": "https://www.athome.co.jp/chintai/1106992437/",
-          "observedAt": "2026-11-07T13:59:44.337+09:00"
+          "observedAt": "2026-11-08T08:58:19.389+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -253,14 +253,15 @@
       "neighborhood": "箕面 · 粟生间谷西5丁目",
       "layout": "1SLDK",
       "bedrooms": 1,
-      "moveIn": "协商或即入住，跨站口径不同",
-      "lease": "2年 · 普通或定期借家待核",
+      "moveIn": "SUUMO写协商，另一站写即入住，交付日待确认",
+      "lease": "普通借家 · 2年",
       "parking": "广告含2台，尺寸与停放方式待核",
       "summary": "2024年建，车库是这套房的重点。只有一间卧室，适合重视停车空间的人取舍。",
       "attention": [
-        "1楼主要为车库；77.83㎡是广告面积，是否包含车库、净居住面积多少仍待核。",
-        "两个当前广告的建材和入住日期有冲突，分别写木造/轻钢、协商/即入住。",
-        "月租25万日元，较20万目标高5万；户型原图640×243，放大不会增加细节。"
+        "77.83㎡是两层合计：1楼38.09㎡、2楼39.74㎡。户型中1楼主要是车库，不能按77.83㎡纯住宅面积理解。",
+        "两站建材与入住口径不同：SUUMO写木造、协商；HOME’S写轻钢、即入住，最终材料与交付日待确认。",
+        "月租25万日元，较20万目标高5万；当前原站管理费仅写“—”，尚未核得金额。",
+        "普通借家2年已有同经纪当前广告佐证；原户型图640×243，放大不会增加细节。"
       ],
       "fees": [
         {
@@ -269,7 +270,7 @@
         },
         {
           "label": "管理费",
-          "value": "无"
+          "value": "当前原站未列金额（—），待确认"
         },
         {
           "label": "停车",
@@ -287,13 +288,14 @@
       "formalName": "間谷西ガレージハウス",
       "address": "大阪府箕面市粟生間谷西5丁目13-8",
       "rentYen": 250000,
-      "managementFeeYen": 0,
+      "managementFeeYen": null,
       "sizeM2": 77.83,
       "built": "2024-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-07T13:59:30.955+09:00",
+      "checkedAt": "2026-11-08T09:01:20.535+09:00",
       "parkingYen": 0,
+      "areaNote": "1间卧室；77.83㎡为两层合计，1楼以车库为主",
       "photos": [
         {
           "src": "/media/N001/01.jpg",
@@ -386,17 +388,17 @@
       },
       "sources": [
         {
-          "label": "at home",
-          "url": "https://www.athome.co.jp/chintai/1108644237/",
-          "observedAt": "2026-11-07T13:59:30.955+09:00"
+          "label": "SUUMO",
+          "url": "https://suumo.jp/chintai/bc_100535092205/",
+          "observedAt": "2026-11-08T09:01:20.535+09:00"
         },
         {
           "label": "LIFULL HOME’S",
           "url": "https://www.homes.co.jp/chintai/b-1578820003461/",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-08T08:59:29.383+09:00"
         }
       ],
-      "sourceUrl": "https://www.athome.co.jp/chintai/1108644237/"
+      "sourceUrl": "https://suumo.jp/chintai/bc_100535092205/"
     },
     {
       "id": "N003",
@@ -471,7 +473,7 @@
       "built": "2009-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-07T14:00:01.951+09:00",
+      "checkedAt": "2026-11-08T08:58:28.760+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -604,7 +606,7 @@
         {
           "label": "积水住宅官方",
           "url": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/",
-          "observedAt": "2026-11-07T14:00:01.951+09:00"
+          "observedAt": "2026-11-08T08:58:28.760+09:00"
         }
       ],
       "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/"
@@ -654,7 +656,7 @@
       "built": "2007-02",
       "status": "pending",
       "statusNote": "完整门牌和到校路线待核",
-      "checkedAt": "2026-11-07T14:02:54.185+09:00",
+      "checkedAt": "2026-11-08T08:58:36.094+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -679,7 +681,7 @@
         {
           "label": "at home",
           "url": "https://www.athome.co.jp/chintai/1132443225/",
-          "observedAt": "2026-11-07T14:02:54.185+09:00"
+          "observedAt": "2026-11-08T08:58:36.094+09:00"
         },
         {
           "label": "SUUMO",

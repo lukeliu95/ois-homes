@@ -20,8 +20,9 @@ export interface Home {
   neighborhood: string;
   address: string;
   rentYen: number;
-  managementFeeYen: number;
+  managementFeeYen: number | null;
   sizeM2: number;
+  areaNote?: string;
   layout: string;
   bedrooms: number;
   built: string;
@@ -129,7 +130,8 @@ export function filterHomes(
     });
 }
 
-export function money(yen: number): string {
+export function money(yen: number | null): string {
+  if (yen === null) return "待确认";
   if (yen === 0) return "无";
   return yen >= 10000
     ? `${Number((yen / 10000).toFixed(3))}万日元`
