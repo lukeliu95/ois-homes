@@ -1,0 +1,701 @@
+{
+  "school": {
+    "name": "Osaka International School",
+    "address": "大阪府箕面市小野原西4-4-16",
+    "url": "https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location"
+  },
+  "dataAsOf": "2026-11-12T08:59:06+09:00",
+  "homes": [
+    {
+      "id": "N002",
+      "name": "箕面3丁目 A栋",
+      "neighborhood": "箕面 · 箕面3丁目",
+      "layout": "4LDK",
+      "bedrooms": 4,
+      "moveIn": "广告指定12月20日，跨站日期有差异",
+      "lease": "普通借家 · 2年",
+      "parking": "1台，另1.5万日元/月",
+      "summary": "四间卧室，更接近20万预算。月租加一个车位19.5万日元，其他费用另计。",
+      "attention": [
+        "入住日期跨站不一致，当前at home指定2026年12月20日，实际交付日待确认。",
+        "到校导航15分钟；按12公里/小时加3分钟缓冲，慢骑情景约23分钟。",
+        "除4LDK/4SLDK口径不同，Able与at home的户型房间分配和面积也有差异；先展示主广告at home版本，正式户型待核。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "18万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "无"
+        },
+        {
+          "label": "停车",
+          "value": "1台，1.5万日元/月"
+        },
+        {
+          "label": "每月支持服务",
+          "value": "1,210日元"
+        },
+        {
+          "label": "每月保证费",
+          "value": "月总付额的2%"
+        },
+        {
+          "label": "押金 / 礼金",
+          "value": "无 / 36万日元"
+        },
+        {
+          "label": "初次保证费",
+          "value": "月总付额的50%"
+        },
+        {
+          "label": "清洁 / 换锁 / 消毒",
+          "value": "94,100 / 33,000 / 16,500日元"
+        },
+        {
+          "label": "保险",
+          "value": "2年20,000日元，最终报价待核"
+        },
+        {
+          "label": "中介费（Able来源）",
+          "value": "99,000日元"
+        },
+        {
+          "label": "续约费",
+          "value": "9万日元"
+        }
+      ],
+      "formalName": "箕面タウンハウスA／箕面市箕面3丁目貸家",
+      "address": "大阪府箕面市箕面3丁目7番27号",
+      "rentYen": 180000,
+      "managementFeeYen": 0,
+      "sizeM2": 105.13,
+      "built": "2011-09",
+      "status": "verified",
+      "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
+      "checkedAt": "2026-11-12T08:59:05+09:00",
+      "parkingYen": 15000,
+      "photos": [
+        {
+          "src": "/media/N002/15-able-exterior.jpg",
+          "kind": "exterior",
+          "caption": "房屋外观",
+          "sourceUrl": "https://img.able.co.jp/awsorg/bk/2000/16/77/000000000191677/021/0000000001916770001_20261031152556243.JPG?interpolation=lanczos-none&output-quality=80&resize=846:*",
+          "width": 846,
+          "height": 634
+        },
+        {
+          "src": "/media/N002/01.jpg",
+          "kind": "floorplan",
+          "caption": "户型图（at home主广告版本）",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/PgYNy2cG_lqABUNwgcDWfA==",
+          "width": 640,
+          "height": 451
+        },
+        {
+          "src": "/media/N002/16-able-floorplan.jpg",
+          "kind": "floorplan",
+          "caption": "户型图（Able版本，房间分配不同，待核）",
+          "sourceUrl": "https://img.able.co.jp/awsorg/bk/2000/16/77/000000000191677/011/0000000001916770001_20261031152556232.JPG?interpolation=lanczos-none&output-quality=80&resize=846:*",
+          "width": 846,
+          "height": 634
+        },
+        {
+          "src": "/media/N002/02.jpg",
+          "kind": "exterior",
+          "caption": "房屋外观",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/iLAI64rGSisQzkZW-s-Ywg==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/03.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSPb3QVx1fBLFg==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/04.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSMabYnX-4WsoQ==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/05.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSNYIlW-6x2DTg==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/06.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSMDHPF3ZBem_Q==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/07.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSNSd4eiQyE_UQ==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/08.jpg",
+          "kind": "kitchen",
+          "caption": "厨房",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/b7vf0Yt3a7A6D5_3fxknTA==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/09.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSN3FAUX8Ovu-A==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/10.jpg",
+          "kind": "kitchen",
+          "caption": "厨房",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/b7vf0Yt3a7BJThpA8exZHg==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/11.jpg",
+          "kind": "bath",
+          "caption": "浴室",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/b7vf0Yt3a7CFo3IKuDCmgQ==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/12.jpg",
+          "kind": "washroom",
+          "caption": "洗面台",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/b7vf0Yt3a7CynJsg1mWSeA==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/13.jpg",
+          "kind": "toilet",
+          "caption": "卫生间",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/7RQ4srgFptGlmGpc311enw==",
+          "width": 640,
+          "height": 640
+        },
+        {
+          "src": "/media/N002/14.jpg",
+          "kind": "toilet",
+          "caption": "卫生间",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/qlF_S2yCcPXMrA1y95_skQ==",
+          "width": 640,
+          "height": 640
+        }
+      ],
+      "commute": {
+        "mode": "bicycling",
+        "minutes": 15,
+        "distanceKm": 4,
+        "ascentM": 22,
+        "slowMinutes": 23,
+        "note": "公开完整门牌地址点，出租A栋具体玄关和自行车出口未实地核。",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A23%E4%B8%81%E7%9B%AE7-27&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling",
+        "observedAt": "2026-11-07T12:07:52+09:00",
+        "image": {
+          "src": "/media/N002/route.png",
+          "kind": "route",
+          "caption": "公开门牌到OIS的自行车导航",
+          "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A23%E4%B8%81%E7%9B%AE7-27&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling"
+        }
+      },
+      "sources": [
+        {
+          "label": "いい部屋",
+          "url": "https://www.eheya.net/detail/300001823003376000001/",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "label": "Able",
+          "url": "https://www.able.co.jp/detail/Detail.do?bk=000000763191677001",
+          "observedAt": "2026-11-12T08:59:05+09:00"
+        },
+        {
+          "label": "LIFULL HOME’S",
+          "url": "https://www.homes.co.jp/chintai/b-1168730108247/",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "sourceUrl": "https://www.athome.co.jp/chintai/1106992437/"
+    },
+    {
+      "id": "N001",
+      "name": "粟生间谷西 · 车库住宅",
+      "neighborhood": "箕面 · 粟生间谷西5丁目",
+      "layout": "1SLDK",
+      "bedrooms": 1,
+      "moveIn": "SUUMO写协商，另一站写即入住，交付日待确认",
+      "lease": "普通借家 · 2年",
+      "parking": "广告含2台，尺寸与停放方式待核",
+      "summary": "2024年建，车库是这套房的重点。只有一间卧室，适合重视停车空间的人取舍。",
+      "attention": [
+        "77.83㎡是两层合计：1楼38.09㎡、2楼39.74㎡。户型中1楼主要是车库，不能按77.83㎡纯住宅面积理解。",
+        "两站建材与入住口径不同：SUUMO写木造、协商；HOME’S写轻钢、即入住，最终材料与交付日待确认。",
+        "月租25万日元，较20万目标高5万；当前原站管理费仅写“—”，尚未核得金额。",
+        "普通借家2年已有同经纪当前广告佐证；原户型图640×243，放大不会增加细节。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "25万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "当前原站未列金额（—），待确认"
+        },
+        {
+          "label": "停车",
+          "value": "广告含2台，实际尺寸待核"
+        },
+        {
+          "label": "押金 / 礼金",
+          "value": "无 / 50万日元"
+        },
+        {
+          "label": "其他初期费用",
+          "value": "尚未取得完整报价，不按0计算"
+        }
+      ],
+      "formalName": "間谷西ガレージハウス",
+      "address": "大阪府箕面市粟生間谷西5丁目13-8",
+      "rentYen": 250000,
+      "managementFeeYen": null,
+      "sizeM2": 77.83,
+      "built": "2024-02",
+      "status": "verified",
+      "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
+      "checkedAt": "2026-11-12T08:59:05+09:00",
+      "parkingYen": 0,
+      "areaNote": "1间卧室；77.83㎡为两层合计，1楼以车库为主",
+      "photos": [
+        {
+          "src": "/media/N001/01.jpg",
+          "kind": "floorplan",
+          "caption": "原始户型图",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/otRZMRofdz9Cr9LCPGl1EQ==",
+          "width": 640,
+          "height": 243
+        },
+        {
+          "src": "/media/N001/02.jpg",
+          "kind": "exterior",
+          "caption": "房屋外观",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/otRZMRofdz_SAqvrJziy6g==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N001/03.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/otRZMRofdz-mDbZk0oP3RQ==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N001/04.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/sihIp6PU001FtTVgOY4QdA==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N001/05.jpg",
+          "kind": "kitchen",
+          "caption": "厨房",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/sihIp6PU002IQSS2aH_nnw==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N001/07.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/E28sRCxG1GhH-8PwSq08nw==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N001/11.jpg",
+          "kind": "toilet",
+          "caption": "卫生间",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/E28sRCxG1GghlTNumiGpXw==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N001/18.jpg",
+          "kind": "washroom",
+          "caption": "洗面台",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/a9oLFxup-m9_TS85LrJKIQ==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N001/20.jpg",
+          "kind": "bath",
+          "caption": "浴室",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/a9oLFxup-m-7-kMlg1CB8g==",
+          "width": 640,
+          "height": 480
+        }
+      ],
+      "commute": {
+        "mode": "bicycling",
+        "minutes": 13,
+        "distanceKm": 3.1,
+        "ascentM": 19,
+        "slowMinutes": 18.5,
+        "note": "公开完整门牌地址点，具体玄关和自行车出口未实地核。",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%B2%9F%E7%94%9F%E9%96%93%E8%B0%B7%E8%A5%BF5%E4%B8%81%E7%9B%AE13-8&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling",
+        "observedAt": "2026-11-07T12:04:59+09:00",
+        "image": {
+          "src": "/media/N001/route.png",
+          "kind": "route",
+          "caption": "公开门牌到OIS的自行车导航",
+          "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%B2%9F%E7%94%9F%E9%96%93%E8%B0%B7%E8%A5%BF5%E4%B8%81%E7%9B%AE13-8&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling"
+        }
+      },
+      "sources": [
+        {
+          "label": "SUUMO",
+          "url": "https://suumo.jp/chintai/bc_100535092205/",
+          "observedAt": "2026-11-12T08:59:05+09:00"
+        },
+        {
+          "label": "LIFULL HOME’S",
+          "url": "https://www.homes.co.jp/chintai/b-1578820003461/",
+          "observedAt": "2026-11-08T08:59:29.383+09:00"
+        }
+      ],
+      "sourceUrl": "https://suumo.jp/chintai/bc_100535092205/"
+    },
+    {
+      "id": "N003",
+      "name": "箕面3丁目 B栋",
+      "neighborhood": "箕面 · 箕面3丁目",
+      "layout": "4LDK",
+      "bedrooms": 4,
+      "moveIn": "广告标即入住，实际空室待确认",
+      "lease": "2年 · 普通或定期借家待核",
+      "parking": "广告含停车，台数待核",
+      "summary": "125.5㎡，三间洋室加一间和室。月租21.5万日元，另有45万不可退契约金。",
+      "attention": [
+        "官方月租已从24万降至21.5万，较20万目标高1.5万；不可退契约金从50万降至45万，另有押金5万。",
+        "A/B栋共用3-6-25门牌，官方广告明确对应B000，但实际玄关未现场核查。",
+        "到校导航15分钟；按12公里/小时加3分钟缓冲，慢骑情景约23.5分钟。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "21.5万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "无"
+        },
+        {
+          "label": "停车",
+          "value": "包含，台数待核"
+        },
+        {
+          "label": "每月支持服务",
+          "value": "1,320日元"
+        },
+        {
+          "label": "每月保证费",
+          "value": "月租等费用的2%"
+        },
+        {
+          "label": "押金",
+          "value": "5万日元"
+        },
+        {
+          "label": "不可退契约金",
+          "value": "45万日元"
+        },
+        {
+          "label": "初次保证费",
+          "value": "33,000日元"
+        },
+        {
+          "label": "清洁 / 换锁",
+          "value": "150,000 / 16,500日元"
+        },
+        {
+          "label": "中介费（at home来源）",
+          "value": "1.1个月租金"
+        },
+        {
+          "label": "保险",
+          "value": "必须，金额待核"
+        },
+        {
+          "label": "续约费",
+          "value": "新月租1个月"
+        }
+      ],
+      "formalName": "箕面市・シャーメゾン井筒実業株式会社邸 B000",
+      "address": "大阪府箕面市箕面3丁目6番25号",
+      "rentYen": 215000,
+      "managementFeeYen": 0,
+      "sizeM2": 125.5,
+      "built": "2009-02",
+      "status": "verified",
+      "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
+      "checkedAt": "2026-11-12T08:59:05+09:00",
+      "parkingYen": 0,
+      "photos": [
+        {
+          "src": "/media/N003/13-official-floorplan.jpg",
+          "kind": "floorplan",
+          "caption": "原始户型图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/layout/0/500/m1421040170b000.jpg",
+          "width": 831,
+          "height": 800
+        },
+        {
+          "src": "/media/N003/01.jpg",
+          "kind": "floorplan",
+          "caption": "原始户型图",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/84I7yhORlrZG9T_WUrh02g==",
+          "width": 640,
+          "height": 616
+        },
+        {
+          "src": "/media/N003/02.jpg",
+          "kind": "exterior",
+          "caption": "房屋外观",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/2P8n2JqJrFZOeEV7Pj1qeg==",
+          "width": 375,
+          "height": 500
+        },
+        {
+          "src": "/media/N003/03.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BoNAQB9a_b5Zw==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N003/04.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BoNCKTQI0fxzA==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N003/05.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BqKUD6Y3tHdaA==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N003/06.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BpnFiitaszY9Q==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N003/07.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJAe1UGtEI0Vw==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N003/08.jpg",
+          "kind": "interior",
+          "caption": "室内实拍",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJl_LuUKrYPWw==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N003/09.jpg",
+          "kind": "kitchen",
+          "caption": "厨房",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vIC-m3Z9etFqA==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N003/10.jpg",
+          "kind": "washroom",
+          "caption": "洗面台",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vIJzenWKj7h1Q==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N003/11.jpg",
+          "kind": "bath",
+          "caption": "浴室",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJ9NgPBGdtWOQ==",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N003/12.jpg",
+          "kind": "toilet",
+          "caption": "卫生间",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJ4E7fKQ3q3Pw==",
+          "width": 640,
+          "height": 480
+        }
+      ],
+      "commute": {
+        "mode": "bicycling",
+        "minutes": 15,
+        "distanceKm": 4.1,
+        "ascentM": 22,
+        "slowMinutes": 23.5,
+        "note": "官方把完整门牌3-6-25绑定到B000；A/B共用门牌地址点，B栋具体入口未实地核。",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A23%E4%B8%81%E7%9B%AE6-25&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling",
+        "observedAt": "2026-11-07T12:11:36+09:00",
+        "image": {
+          "src": "/media/N003/route.png",
+          "kind": "route",
+          "caption": "公开门牌到OIS的自行车导航",
+          "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A23%E4%B8%81%E7%9B%AE6-25&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling"
+        }
+      },
+      "sources": [
+        {
+          "label": "at home",
+          "url": "https://www.athome.co.jp/chintai/1141163017/",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "label": "积水住宅官方",
+          "url": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/",
+          "observedAt": "2026-11-12T08:59:05+09:00"
+        }
+      ],
+      "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/"
+    },
+    {
+      "id": "N004",
+      "name": "箕面6丁目独栋",
+      "neighborhood": "箕面 · 箕面6丁目",
+      "layout": "3LDK",
+      "bedrooms": 3,
+      "moveIn": "广告标即入住，实际空室待确认",
+      "lease": "定期借家至2037年3月；法人普通借家可商谈",
+      "parking": "1台免费，第2台另1万日元/月",
+      "summary": "16万日元的年轻独栋线索；缺完整门牌和到校路线，暂不列入20分钟已核结果。",
+      "attention": [
+        "当前只公开到箕面6丁目，没有取得对应这套房的完整门牌，不能给出准确到校时间。",
+        "SUUMO明确写定期借家至2037年3月，法人普通借家可商谈；不把另一站的2年字段当普通租约。",
+        "发现同价同面积的东、西栋历史线索，尚不能把完整门牌唯一对应到当前出租栋；不绘制猜测路线。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "16万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "无"
+        },
+        {
+          "label": "停车",
+          "value": "1台免费，第2台另1万日元/月"
+        },
+        {
+          "label": "押金 / 礼金",
+          "value": "16万 / 32万日元"
+        },
+        {
+          "label": "其他费用",
+          "value": "完整报价待核"
+        }
+      ],
+      "formalName": "箕面市箕面6丁目貸家",
+      "address": "箕面6丁目仅街区，无公开完整门牌本轮未得",
+      "rentYen": 160000,
+      "managementFeeYen": 0,
+      "sizeM2": 79.67,
+      "built": "2007-02",
+      "status": "pending",
+      "statusNote": "完整门牌和到校路线待核",
+      "checkedAt": "2026-11-12T08:59:06+09:00",
+      "parkingYen": 0,
+      "photos": [
+        {
+          "src": "/media/N004/01.jpg",
+          "kind": "floorplan",
+          "caption": "原始户型图",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/hMUemlKCdF7W0OxTy8zg8w==",
+          "width": 640,
+          "height": 495
+        },
+        {
+          "src": "/media/N004/02.jpg",
+          "kind": "exterior",
+          "caption": "房屋外观",
+          "sourceUrl": "https://www.athome.co.jp/image_files/path/sKatloyyExr18fesklnSkQ==",
+          "width": 640,
+          "height": 480
+        }
+      ],
+      "commute": null,
+      "sources": [
+        {
+          "label": "at home",
+          "url": "https://www.athome.co.jp/chintai/1132443225/",
+          "observedAt": "2026-11-07T12:10:11+09:00"
+        },
+        {
+          "label": "www.minoh-ichiba.jp",
+          "url": "https://www.minoh-ichiba.jp/chintai/detail-65ec02af83588c61da811414/",
+          "observedAt": "2026-11-12T08:59:06+09:00"
+        },
+        {
+          "label": "SUUMO",
+          "url": "https://suumo.jp/chintai/bc_100532872761/",
+          "observedAt": "2026-11-07T12:19:41+09:00"
+        },
+        {
+          "label": "KIWAMI不动产",
+          "url": "https://www.kiwami-estate.jp/area_c1/bknarea_ki27220/%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A26%E4%B8%81%E7%9B%AE%E8%B2%B8%E5%AE%B6/room84851188.html",
+          "observedAt": "2026-11-07T14:00:39+09:00"
+        }
+      ],
+      "sourceUrl": "https://www.athome.co.jp/chintai/1132443225/"
+    }
+  ],
+  "archive": []
+}

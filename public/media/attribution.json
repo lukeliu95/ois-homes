@@ -1,0 +1,346 @@
+[
+  {
+    "file": "/media/N002/16-able-floorplan.jpg",
+    "sourceUrl": "https://img.able.co.jp/awsorg/bk/2000/16/77/000000000191677/011/0000000001916770001_20261031152556232.JPG?interpolation=lanczos-none&output-quality=80&resize=846:*",
+    "observedAt": "2026-11-07",
+    "kind": "floorplan",
+    "generated": false,
+    "sourceSha256": "f9525562a7df229fa6b13c48b2b452b015b775c999e12a6aa9ea7194217b6e48"
+  },
+  {
+    "file": "/media/N002/01.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/PgYNy2cG_lqABUNwgcDWfA==",
+    "observedAt": "2026-11-07",
+    "kind": "floorplan",
+    "generated": false,
+    "sourceSha256": "30f2d9f2016e41eb7783507c529b5e879f51be08599b70ee4f8f9fcf43bf9332"
+  },
+  {
+    "file": "/media/N002/02.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/iLAI64rGSisQzkZW-s-Ywg==",
+    "observedAt": "2026-11-07",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "4fc8bdff8ca781079e1054560c8e82f28b0148b75861c194fd8532222ce9ae07"
+  },
+  {
+    "file": "/media/N002/03.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSPb3QVx1fBLFg==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "e6315d0621d95c30e923f1e50cada52b7f2ea0bd9d26222a6fdb369f9a982a2f"
+  },
+  {
+    "file": "/media/N002/04.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSMabYnX-4WsoQ==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "24339c351bb52af3e671faf36c1bbb6f6720133355b67739aae9be6c3035c011"
+  },
+  {
+    "file": "/media/N002/05.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSNYIlW-6x2DTg==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "9e5edaddeeb220363ac8d83bb129830c8480987bc43d287cc5c58db3e52b233b"
+  },
+  {
+    "file": "/media/N002/06.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSMDHPF3ZBem_Q==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "d10983bb60dd6bcf18df1aa822dffedc2d5d861c46d7532a14ab2c940833095c"
+  },
+  {
+    "file": "/media/N002/07.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSNSd4eiQyE_UQ==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "885e542a800b7e3fcff5d3b7498f53319883e127e220319143f521891c29e13d"
+  },
+  {
+    "file": "/media/N002/08.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/b7vf0Yt3a7A6D5_3fxknTA==",
+    "observedAt": "2026-11-07",
+    "kind": "kitchen",
+    "generated": false,
+    "sourceSha256": "87d5d151886781fe80eebacc9090726481ff05514674c43330411749a11a896c"
+  },
+  {
+    "file": "/media/N002/09.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/-_ZC9DtEwSN3FAUX8Ovu-A==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "a4bec3707ecf9cf6002794dc3e501eac7e16b3336248b73bb557bffd8f90ca30"
+  },
+  {
+    "file": "/media/N002/10.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/b7vf0Yt3a7BJThpA8exZHg==",
+    "observedAt": "2026-11-07",
+    "kind": "kitchen",
+    "generated": false,
+    "sourceSha256": "4913d919cf6fe709bfa733c736738c0a1ab8abef14aa0d2bd7355c9dddac36f1"
+  },
+  {
+    "file": "/media/N002/11.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/b7vf0Yt3a7CFo3IKuDCmgQ==",
+    "observedAt": "2026-11-07",
+    "kind": "bath",
+    "generated": false,
+    "sourceSha256": "11855fea4f3d459c774fc6582a20e9e6682f548b99276341af76ff4babb14366"
+  },
+  {
+    "file": "/media/N002/12.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/b7vf0Yt3a7CynJsg1mWSeA==",
+    "observedAt": "2026-11-07",
+    "kind": "washroom",
+    "generated": false,
+    "sourceSha256": "3e56e8952eba2ecf0edbb6f967bafe8970d800a6101f2839130c28194dc2d988"
+  },
+  {
+    "file": "/media/N002/13.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/7RQ4srgFptGlmGpc311enw==",
+    "observedAt": "2026-11-07",
+    "kind": "toilet",
+    "generated": false,
+    "sourceSha256": "08d85c9e01451f6286d49a10804f387cf8cfa4ed0aecfbe2577ef23a58ab3d73"
+  },
+  {
+    "file": "/media/N002/14.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/qlF_S2yCcPXMrA1y95_skQ==",
+    "observedAt": "2026-11-07",
+    "kind": "toilet",
+    "generated": false,
+    "sourceSha256": "d3428e3777d88dbd9c381f24625d039270a2e7d32253f235ad4ebc3f8e9edadb"
+  },
+  {
+    "file": "/media/N002/15-able-exterior.jpg",
+    "sourceUrl": "https://img.able.co.jp/awsorg/bk/2000/16/77/000000000191677/021/0000000001916770001_20261031152556243.JPG?interpolation=lanczos-none&output-quality=80&resize=846:*",
+    "observedAt": "2026-11-07",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "fe351d2d30b7f863eea99bda94cbcbe1eb45181180f027580d4b35243cbb8416"
+  },
+  {
+    "file": "/media/N002/route.png",
+    "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A23%E4%B8%81%E7%9B%AE7-27&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling",
+    "observedAt": "2026-11-07T12:07:52+09:00",
+    "kind": "route",
+    "generated": false,
+    "sourceSha256": "f80b6ef44c6ac4e6f81c820d2d9b2782f20e588ff141bbc82d1b3da2db13b7b3"
+  },
+  {
+    "file": "/media/N001/01.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/otRZMRofdz9Cr9LCPGl1EQ==",
+    "observedAt": "2026-11-07",
+    "kind": "floorplan",
+    "generated": false,
+    "sourceSha256": "78fecd2f0c45cb0cc46f2cf0c1c9258ccea1009aa79af8bf6bb9e2ebb2864a63"
+  },
+  {
+    "file": "/media/N001/02.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/otRZMRofdz_SAqvrJziy6g==",
+    "observedAt": "2026-11-07",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "0ba773d09cd329a4f312caa06e04398a1361ae2f4ccd31297392e1d2c8f7694e"
+  },
+  {
+    "file": "/media/N001/03.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/otRZMRofdz-mDbZk0oP3RQ==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "5c8210a01eb9503b9b134400e19849ea7425b3e6ab96acdd9468cf1b04ed22dd"
+  },
+  {
+    "file": "/media/N001/04.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/sihIp6PU001FtTVgOY4QdA==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "125b99c96cb22c6289b29c79e516e3f82d31471a84702651f9098cae55974c81"
+  },
+  {
+    "file": "/media/N001/05.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/sihIp6PU002IQSS2aH_nnw==",
+    "observedAt": "2026-11-07",
+    "kind": "kitchen",
+    "generated": false,
+    "sourceSha256": "8decda9a48a024f958bb7b39d27c0fc9c62e7d16808b7a9b398746f9d59b79fd"
+  },
+  {
+    "file": "/media/N001/07.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/E28sRCxG1GhH-8PwSq08nw==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "a19a8042016485d2d1bdd0a516c864e7d84c8403bcf95ae208fdaf317b401528"
+  },
+  {
+    "file": "/media/N001/11.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/E28sRCxG1GghlTNumiGpXw==",
+    "observedAt": "2026-11-07",
+    "kind": "toilet",
+    "generated": false,
+    "sourceSha256": "1611f4bad1af1a9afc63937241614337e14944cb2026d3ce9e776f6ebc768629"
+  },
+  {
+    "file": "/media/N001/18.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/a9oLFxup-m9_TS85LrJKIQ==",
+    "observedAt": "2026-11-07",
+    "kind": "washroom",
+    "generated": false,
+    "sourceSha256": "16c692b5d1f3052ec2eb08d3ef1b5b6a1beabcaa1e530455a787778f14a515b2"
+  },
+  {
+    "file": "/media/N001/20.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/a9oLFxup-m-7-kMlg1CB8g==",
+    "observedAt": "2026-11-07",
+    "kind": "bath",
+    "generated": false,
+    "sourceSha256": "761538bed87e70ce51e27240b011eb0bbd2130821e204245cafd67e4d0ab5f6c"
+  },
+  {
+    "file": "/media/N001/route.png",
+    "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%B2%9F%E7%94%9F%E9%96%93%E8%B0%B7%E8%A5%BF5%E4%B8%81%E7%9B%AE13-8&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling",
+    "observedAt": "2026-11-07T12:04:59+09:00",
+    "kind": "route",
+    "generated": false,
+    "sourceSha256": "bb9972cd0c131e03cc061f5c0f5300062f2889a47d1ba718a2440b68ce5d7359"
+  },
+  {
+    "file": "/media/N003/13-official-floorplan.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/layout/0/500/m1421040170b000.jpg",
+    "observedAt": "2026-11-07",
+    "kind": "floorplan",
+    "generated": false,
+    "sourceSha256": "69a50195e19259add52f20304780ea990a8a416d8743d4ebf88535dbef7334fc"
+  },
+  {
+    "file": "/media/N003/01.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/84I7yhORlrZG9T_WUrh02g==",
+    "observedAt": "2026-11-07",
+    "kind": "floorplan",
+    "generated": false,
+    "sourceSha256": "3a65d9b7d711fe2b9cce73dfed6eea67ba6709671523a2cc981e04db3e0bcc9b"
+  },
+  {
+    "file": "/media/N003/02.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/2P8n2JqJrFZOeEV7Pj1qeg==",
+    "observedAt": "2026-11-07",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "072d8494a77f2489549a0508a6e32f93e34eb3d6609dc1cdc50b004aeb801ba4"
+  },
+  {
+    "file": "/media/N003/03.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BoNAQB9a_b5Zw==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "42ea0140230c02c6d1921e71c092f6b02636461565834c4becf60ade3cb28cb7"
+  },
+  {
+    "file": "/media/N003/04.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BoNCKTQI0fxzA==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "349e5cc29e9b81e00648d980be868d423f897eb99f25410f98c55dabddf8030d"
+  },
+  {
+    "file": "/media/N003/05.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BqKUD6Y3tHdaA==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "0b473cd401d2876f1b1213f376a5f12564ff65caa9907b1d2ef2299590ac7a80"
+  },
+  {
+    "file": "/media/N003/06.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BpnFiitaszY9Q==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "e681698e8d0af6ca58abd4a948e02dfcffb353e8facc39cbb66af665867f655f"
+  },
+  {
+    "file": "/media/N003/07.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJAe1UGtEI0Vw==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "e6d48673735ca48e8c73cd282a3fc35e7985e36844f94d26ea13ddc18b8b0f6c"
+  },
+  {
+    "file": "/media/N003/08.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJl_LuUKrYPWw==",
+    "observedAt": "2026-11-07",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "c851c431b07d5518d16476feb2a58cbe0bf8f423891eafb4e688683b8077e7a4"
+  },
+  {
+    "file": "/media/N003/09.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vIC-m3Z9etFqA==",
+    "observedAt": "2026-11-07",
+    "kind": "kitchen",
+    "generated": false,
+    "sourceSha256": "7f609cc2427e468549798b90976ae9771ec54d5c3f5b63c585ec710daac58a57"
+  },
+  {
+    "file": "/media/N003/10.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vIJzenWKj7h1Q==",
+    "observedAt": "2026-11-07",
+    "kind": "washroom",
+    "generated": false,
+    "sourceSha256": "d7d9bfed43d4ce3baa9aad8a20d075f035babfebfe283410d99855efe487d374"
+  },
+  {
+    "file": "/media/N003/11.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJ9NgPBGdtWOQ==",
+    "observedAt": "2026-11-07",
+    "kind": "bath",
+    "generated": false,
+    "sourceSha256": "42044b3176bedf5e99a622e31211c8ada04769990b6d3d0d06e08e6179c90468"
+  },
+  {
+    "file": "/media/N003/12.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJ4E7fKQ3q3Pw==",
+    "observedAt": "2026-11-07",
+    "kind": "toilet",
+    "generated": false,
+    "sourceSha256": "d2f63ae5e71a765ebd4d95535fb26c3d981b4c5d31980bf7d0afc998d780f2a5"
+  },
+  {
+    "file": "/media/N003/route.png",
+    "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A23%E4%B8%81%E7%9B%AE6-25&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling",
+    "observedAt": "2026-11-07T12:11:36+09:00",
+    "kind": "route",
+    "generated": false,
+    "sourceSha256": "99520a2dc9a2c974dc631378cf7ac633fa20b0ff173986c1fe9eeaf0e88a35fb"
+  },
+  {
+    "file": "/media/N004/01.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/hMUemlKCdF7W0OxTy8zg8w==",
+    "observedAt": "2026-11-07",
+    "kind": "floorplan",
+    "generated": false,
+    "sourceSha256": "e9ea238aad4029911d75ee274043da6ab89fcd9c21ab5d7a4853838fcb07ffd4"
+  },
+  {
+    "file": "/media/N004/02.jpg",
+    "sourceUrl": "https://www.athome.co.jp/image_files/path/sKatloyyExr18fesklnSkQ==",
+    "observedAt": "2026-11-07",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "14dd71512ed35625ff6ed302fa0cb817a5494a364e71003fb7144f98892abe60"
+  }
+]

@@ -1,0 +1,507 @@
+{
+  "schemaVersion": 1,
+  "homes": {
+    "N002": {
+      "name": "箕面3丁目 A栋",
+      "neighborhood": "箕面 · 箕面3丁目",
+      "layout": "4LDK",
+      "bedrooms": 4,
+      "moveIn": "广告指定12月20日，跨站日期有差异",
+      "lease": "普通借家 · 2年",
+      "parking": "1台，另1.5万日元/月",
+      "summary": "四间卧室，更接近20万预算。月租加一个车位19.5万日元，其他费用另计。",
+      "attention": [
+        "入住日期跨站不一致，当前at home指定2026年12月20日，实际交付日待确认。",
+        "到校导航15分钟；按12公里/小时加3分钟缓冲，慢骑情景约23分钟。",
+        "除4LDK/4SLDK口径不同，Able与at home的户型房间分配和面积也有差异；先展示主广告at home版本，正式户型待核。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "18万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "无"
+        },
+        {
+          "label": "停车",
+          "value": "1台，1.5万日元/月"
+        },
+        {
+          "label": "每月支持服务",
+          "value": "1,210日元"
+        },
+        {
+          "label": "每月保证费",
+          "value": "月总付额的2%"
+        },
+        {
+          "label": "押金 / 礼金",
+          "value": "无 / 36万日元"
+        },
+        {
+          "label": "初次保证费",
+          "value": "月总付额的50%"
+        },
+        {
+          "label": "清洁 / 换锁 / 消毒",
+          "value": "94,100 / 33,000 / 16,500日元"
+        },
+        {
+          "label": "保险",
+          "value": "2年20,000日元，最终报价待核"
+        },
+        {
+          "label": "中介费（Able来源）",
+          "value": "99,000日元"
+        },
+        {
+          "label": "续约费",
+          "value": "9万日元"
+        }
+      ],
+      "reviewedFacts": {
+        "rent_yen": 180000,
+        "management_fee_yen": 0,
+        "built_year_month": "2011-09",
+        "built_date": null,
+        "size_m2": 105.13,
+        "layout": "4LDK（另HOME'S为4SLDK，储物空间口径有差）",
+        "public_address": "大阪府箕面市箕面3丁目7番27号",
+        "deposit_yen": 0,
+        "key_money_yen": 360000,
+        "nonrefundable_contract_one_time_yen": null,
+        "parking": {
+          "spaces": 1,
+          "fee_yen": 15000,
+          "note": ""
+        },
+        "lease": {
+          "type": "ordinary",
+          "term_months": 24,
+          "note": "普通2年有当前Able与いい部屋广告佐证"
+        },
+        "move_in": "at home指定2026-12-20；Able12月中旬；HOME'S11月下旬；いい部屋応相談，需核最终交付日",
+        "extra_costs": {
+          "cleaning_yen": 94100,
+          "key_exchange_yen": 33000,
+          "disinfection_yen": 16500,
+          "support_yen_month": 1210,
+          "guarantee_initial": "月总付额50%",
+          "guarantee_monthly": "月总付额2%",
+          "broker_able_yen": 99000,
+          "insurance": "at home2年20000円；最终口径待合同",
+          "renewal_yen": 90000
+        },
+        "qualification_status": "verified_match",
+        "listing_status": "advertised",
+        "building_type": "detached_house",
+        "unresolved_type_conflicts": [],
+        "route": {
+          "mode": "bicycling",
+          "minutes": 15,
+          "distance_km": 4,
+          "elevation_up_m": 22,
+          "slow_scenario_minutes": 23,
+          "address_match_verified": true,
+          "origin_precision": "exact_address",
+          "address_to_school": true,
+          "destination_verified": true,
+          "includes_waiting_and_transfer": null
+        }
+      },
+      "mediaOrder": [
+        "15-able-exterior.jpg",
+        "01.jpg",
+        "16-able-floorplan.jpg",
+        "02.jpg",
+        "03.jpg",
+        "04.jpg",
+        "05.jpg",
+        "06.jpg",
+        "07.jpg",
+        "08.jpg",
+        "09.jpg",
+        "10.jpg",
+        "11.jpg",
+        "12.jpg",
+        "13.jpg",
+        "14.jpg"
+      ],
+      "captionOverrides": {
+        "15-able-exterior.jpg": "房屋外观",
+        "01.jpg": "户型图（at home主广告版本）",
+        "16-able-floorplan.jpg": "户型图（Able版本，房间分配不同，待核）",
+        "02.jpg": "房屋外观",
+        "03.jpg": "室内实拍",
+        "04.jpg": "室内实拍",
+        "05.jpg": "室内实拍",
+        "06.jpg": "室内实拍",
+        "07.jpg": "室内实拍",
+        "08.jpg": "厨房",
+        "09.jpg": "室内实拍",
+        "10.jpg": "厨房",
+        "11.jpg": "浴室",
+        "12.jpg": "洗面台",
+        "13.jpg": "卫生间",
+        "14.jpg": "卫生间"
+      },
+      "addressSourceObservedAt": "2026-11-07",
+      "extraSources": [],
+      "publishPending": false
+    },
+    "N003": {
+      "name": "箕面3丁目 B栋",
+      "neighborhood": "箕面 · 箕面3丁目",
+      "layout": "4LDK",
+      "bedrooms": 4,
+      "moveIn": "广告标即入住，实际空室待确认",
+      "lease": "2年 · 普通或定期借家待核",
+      "parking": "广告含停车，台数待核",
+      "summary": "125.5㎡，三间洋室加一间和室。月租21.5万日元，另有45万不可退契约金。",
+      "attention": [
+        "官方月租已从24万降至21.5万，较20万目标高1.5万；不可退契约金从50万降至45万，另有押金5万。",
+        "A/B栋共用3-6-25门牌，官方广告明确对应B000，但实际玄关未现场核查。",
+        "到校导航15分钟；按12公里/小时加3分钟缓冲，慢骑情景约23.5分钟。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "21.5万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "无"
+        },
+        {
+          "label": "停车",
+          "value": "包含，台数待核"
+        },
+        {
+          "label": "每月支持服务",
+          "value": "1,320日元"
+        },
+        {
+          "label": "每月保证费",
+          "value": "月租等费用的2%"
+        },
+        {
+          "label": "押金",
+          "value": "5万日元"
+        },
+        {
+          "label": "不可退契约金",
+          "value": "45万日元"
+        },
+        {
+          "label": "初次保证费",
+          "value": "33,000日元"
+        },
+        {
+          "label": "清洁 / 换锁",
+          "value": "150,000 / 16,500日元"
+        },
+        {
+          "label": "中介费（at home来源）",
+          "value": "1.1个月租金"
+        },
+        {
+          "label": "保险",
+          "value": "必须，金额待核"
+        },
+        {
+          "label": "续约费",
+          "value": "新月租1个月"
+        }
+      ],
+      "reviewedFacts": {
+        "rent_yen": 215000,
+        "management_fee_yen": 0,
+        "built_year_month": "2009-02",
+        "built_date": null,
+        "size_m2": 125.5,
+        "layout": "4LDK",
+        "public_address": "大阪府箕面市箕面3丁目6番25号",
+        "deposit_yen": 50000,
+        "key_money_yen": null,
+        "nonrefundable_contract_one_time_yen": 450000,
+        "parking": {
+          "spaces": null,
+          "fee_yen": 0,
+          "note": "台数未明"
+        },
+        "lease": {
+          "type": "unknown",
+          "term_months": 24,
+          "note": "广告写2年，普通借家或定期借家尚未标明"
+        },
+        "move_in": "即時",
+        "extra_costs": {
+          "support_yen_month": 1320,
+          "cleaning_yen": 150000,
+          "key_exchange_yen": 16500,
+          "guarantee_initial_yen": 33000,
+          "guarantee_monthly": "月賃料等2%",
+          "broker": "at home1.1个月",
+          "insurance": "必须，金额未标"
+        },
+        "qualification_status": "verified_match",
+        "listing_status": "advertised",
+        "building_type": "detached_house",
+        "unresolved_type_conflicts": [],
+        "route": {
+          "mode": "bicycling",
+          "minutes": 15,
+          "distance_km": 4.1,
+          "elevation_up_m": 22,
+          "slow_scenario_minutes": 23.5,
+          "address_match_verified": true,
+          "origin_precision": "exact_address",
+          "address_to_school": true,
+          "destination_verified": true,
+          "includes_waiting_and_transfer": null
+        }
+      },
+      "mediaOrder": [
+        "13-official-floorplan.jpg",
+        "01.jpg",
+        "02.jpg",
+        "03.jpg",
+        "04.jpg",
+        "05.jpg",
+        "06.jpg",
+        "07.jpg",
+        "08.jpg",
+        "09.jpg",
+        "10.jpg",
+        "11.jpg",
+        "12.jpg"
+      ],
+      "captionOverrides": {
+        "13-official-floorplan.jpg": "原始户型图",
+        "01.jpg": "原始户型图",
+        "02.jpg": "房屋外观",
+        "03.jpg": "室内实拍",
+        "04.jpg": "室内实拍",
+        "05.jpg": "室内实拍",
+        "06.jpg": "室内实拍",
+        "07.jpg": "室内实拍",
+        "08.jpg": "室内实拍",
+        "09.jpg": "厨房",
+        "10.jpg": "洗面台",
+        "11.jpg": "浴室",
+        "12.jpg": "卫生间"
+      },
+      "addressSourceObservedAt": "2026-11-07",
+      "extraSources": [],
+      "publishPending": false
+    },
+    "N001": {
+      "name": "粟生间谷西 · 车库住宅",
+      "neighborhood": "箕面 · 粟生间谷西5丁目",
+      "layout": "1SLDK",
+      "bedrooms": 1,
+      "moveIn": "SUUMO写协商，另一站写即入住，交付日待确认",
+      "lease": "普通借家 · 2年",
+      "parking": "广告含2台，尺寸与停放方式待核",
+      "summary": "2024年建，车库是这套房的重点。只有一间卧室，适合重视停车空间的人取舍。",
+      "attention": [
+        "77.83㎡是两层合计：1楼38.09㎡、2楼39.74㎡。户型中1楼主要是车库，不能按77.83㎡纯住宅面积理解。",
+        "两站建材与入住口径不同：SUUMO写木造、协商；HOME’S写轻钢、即入住，最终材料与交付日待确认。",
+        "月租25万日元，较20万目标高5万；当前原站管理费仅写“—”，尚未核得金额。",
+        "普通借家2年已有同经纪当前广告佐证；原户型图640×243，放大不会增加细节。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "25万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "当前原站未列金额（—），待确认"
+        },
+        {
+          "label": "停车",
+          "value": "广告含2台，实际尺寸待核"
+        },
+        {
+          "label": "押金 / 礼金",
+          "value": "无 / 50万日元"
+        },
+        {
+          "label": "其他初期费用",
+          "value": "尚未取得完整报价，不按0计算"
+        }
+      ],
+      "reviewedFacts": {
+        "rent_yen": 250000,
+        "management_fee_yen": null,
+        "built_year_month": "2024-02",
+        "built_date": null,
+        "size_m2": 77.83,
+        "layout": "SUUMO1SLDK；HOME'S1LDK",
+        "public_address": "大阪府箕面市粟生間谷西5丁目13-8",
+        "deposit_yen": 0,
+        "key_money_yen": 500000,
+        "nonrefundable_contract_one_time_yen": null,
+        "parking": {
+          "spaces": 2,
+          "fee_yen": 0,
+          "note": "广告写2台免费；车位尺寸及并排/纵列方式待核"
+        },
+        "lease": {
+          "type": "ordinary",
+          "term_months": 24,
+          "note": "同一富士ホームSUUMO物件代码612389明确普通借家2年；与旧at home管理号262160000612389同屋匹配。"
+        },
+        "move_in": "SUUMO相談；HOME'S即時，交付日仍需核",
+        "extra_costs": null,
+        "qualification_status": "verified_match",
+        "listing_status": "advertised",
+        "building_type": "detached_house",
+        "unresolved_type_conflicts": [],
+        "route": {
+          "mode": "bicycling",
+          "minutes": 13,
+          "distance_km": 3.1,
+          "elevation_up_m": 19,
+          "slow_scenario_minutes": 18.5,
+          "address_match_verified": true,
+          "origin_precision": "exact_address",
+          "address_to_school": true,
+          "destination_verified": true,
+          "includes_waiting_and_transfer": null
+        }
+      },
+      "mediaOrder": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg",
+        "04.jpg",
+        "05.jpg",
+        "07.jpg",
+        "11.jpg",
+        "18.jpg",
+        "20.jpg"
+      ],
+      "captionOverrides": {
+        "01.jpg": "原始户型图",
+        "02.jpg": "房屋外观",
+        "03.jpg": "室内实拍",
+        "04.jpg": "室内实拍",
+        "05.jpg": "厨房",
+        "07.jpg": "室内实拍",
+        "11.jpg": "卫生间",
+        "18.jpg": "洗面台",
+        "20.jpg": "浴室"
+      },
+      "addressSourceObservedAt": "2026-11-07",
+      "extraSources": [
+        {
+          "label": "LIFULL HOME’S",
+          "url": "https://www.homes.co.jp/chintai/b-1578820003461/",
+          "observedAt": "2026-11-08T08:59:29.383+09:00"
+        }
+      ],
+      "publishPending": false,
+      "areaNote": "1间卧室；77.83㎡为两层合计，1楼以车库为主"
+    },
+    "N004": {
+      "name": "箕面6丁目独栋",
+      "neighborhood": "箕面 · 箕面6丁目",
+      "layout": "3LDK",
+      "bedrooms": 3,
+      "moveIn": "广告标即入住，实际空室待确认",
+      "lease": "定期借家至2037年3月；法人普通借家可商谈",
+      "parking": "1台免费，第2台另1万日元/月",
+      "summary": "16万日元的年轻独栋线索；缺完整门牌和到校路线，暂不列入20分钟已核结果。",
+      "attention": [
+        "当前只公开到箕面6丁目，没有取得对应这套房的完整门牌，不能给出准确到校时间。",
+        "SUUMO明确写定期借家至2037年3月，法人普通借家可商谈；不把另一站的2年字段当普通租约。",
+        "发现同价同面积的东、西栋历史线索，尚不能把完整门牌唯一对应到当前出租栋；不绘制猜测路线。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "16万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "无"
+        },
+        {
+          "label": "停车",
+          "value": "1台免费，第2台另1万日元/月"
+        },
+        {
+          "label": "押金 / 礼金",
+          "value": "16万 / 32万日元"
+        },
+        {
+          "label": "其他费用",
+          "value": "完整报价待核"
+        }
+      ],
+      "reviewedFacts": {
+        "rent_yen": 160000,
+        "management_fee_yen": 0,
+        "built_year_month": "2007-02",
+        "built_date": null,
+        "size_m2": 79.67,
+        "layout": "3LDK",
+        "public_address": "箕面6丁目仅街区，无公开完整门牌本轮未得",
+        "deposit_yen": 160000,
+        "key_money_yen": 320000,
+        "nonrefundable_contract_one_time_yen": null,
+        "parking": {
+          "spaces": 1,
+          "fee_yen": 0,
+          "note": "SUUMO写第2台每月1万；尺寸待核"
+        },
+        "lease": {
+          "type": "fixed_term",
+          "end_year_month": "2037-03",
+          "note": "SUUMO現招：定期借家2037年3月まで；法人契約普通借家相談可。at home仅2年未标类型，冲突待核"
+        },
+        "move_in": "现广告即入住，实际空室待确认",
+        "extra_costs": null,
+        "qualification_status": "pending",
+        "listing_status": "advertised",
+        "building_type": "detached_house",
+        "unresolved_type_conflicts": [],
+        "route": {
+          "mode": null,
+          "minutes": null,
+          "distance_km": null,
+          "elevation_up_m": null,
+          "slow_scenario_minutes": null,
+          "address_match_verified": null,
+          "origin_precision": null,
+          "address_to_school": null,
+          "destination_verified": null,
+          "includes_waiting_and_transfer": null
+        }
+      },
+      "mediaOrder": ["01.jpg", "02.jpg"],
+      "captionOverrides": {
+        "01.jpg": "原始户型图",
+        "02.jpg": "房屋外观"
+      },
+      "addressSourceObservedAt": "2026-11-07",
+      "extraSources": [
+        {
+          "label": "SUUMO",
+          "url": "https://suumo.jp/chintai/bc_100532872761/",
+          "observedAt": "2026-11-07T12:19:41+09:00"
+        },
+        {
+          "label": "KIWAMI不动产",
+          "url": "https://www.kiwami-estate.jp/area_c1/bknarea_ki27220/%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A26%E4%B8%81%E7%9B%AE%E8%B2%B8%E5%AE%B6/room84851188.html",
+          "observedAt": "2026-11-07T14:00:39+09:00"
+        }
+      ],
+      "publishPending": true
+    }
+  }
+}
