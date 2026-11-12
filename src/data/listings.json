@@ -4,7 +4,7 @@
     "address": "大阪府箕面市小野原西4-4-16",
     "url": "https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location"
   },
-  "dataAsOf": "2026-11-08T09:01:33.728+09:00",
+  "dataAsOf": "2026-11-12T08:59:06+09:00",
   "homes": [
     {
       "id": "N002",
@@ -75,7 +75,7 @@
       "built": "2011-09",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-08T08:58:19.389+09:00",
+      "checkedAt": "2026-11-12T08:59:05+09:00",
       "parkingYen": 15000,
       "photos": [
         {
@@ -232,12 +232,7 @@
         {
           "label": "Able",
           "url": "https://www.able.co.jp/detail/Detail.do?bk=000000763191677001",
-          "observedAt": "2026-11-07"
-        },
-        {
-          "label": "at home",
-          "url": "https://www.athome.co.jp/chintai/1106992437/",
-          "observedAt": "2026-11-08T08:58:19.389+09:00"
+          "observedAt": "2026-11-12T08:59:05+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -293,7 +288,7 @@
       "built": "2024-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-08T09:01:20.535+09:00",
+      "checkedAt": "2026-11-12T08:59:05+09:00",
       "parkingYen": 0,
       "areaNote": "1间卧室；77.83㎡为两层合计，1楼以车库为主",
       "photos": [
@@ -390,7 +385,7 @@
         {
           "label": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100535092205/",
-          "observedAt": "2026-11-08T09:01:20.535+09:00"
+          "observedAt": "2026-11-12T08:59:05+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -409,16 +404,16 @@
       "moveIn": "广告标即入住，实际空室待确认",
       "lease": "2年 · 普通或定期借家待核",
       "parking": "广告含停车，台数待核",
-      "summary": "125.5㎡，三间洋室加一间和室。月租24万日元，另有50万不可退契约金。",
+      "summary": "125.5㎡，三间洋室加一间和室。月租21.5万日元，另有45万不可退契约金。",
       "attention": [
-        "月租较20万目标高4万；官方的50万契约一时金不可退还，另有押金5万。",
+        "官方月租已从24万降至21.5万，较20万目标高1.5万；不可退契约金从50万降至45万，另有押金5万。",
         "A/B栋共用3-6-25门牌，官方广告明确对应B000，但实际玄关未现场核查。",
         "到校导航15分钟；按12公里/小时加3分钟缓冲，慢骑情景约23.5分钟。"
       ],
       "fees": [
         {
           "label": "月租",
-          "value": "24万日元"
+          "value": "21.5万日元"
         },
         {
           "label": "管理费",
@@ -442,7 +437,7 @@
         },
         {
           "label": "不可退契约金",
-          "value": "50万日元"
+          "value": "45万日元"
         },
         {
           "label": "初次保证费",
@@ -467,13 +462,13 @@
       ],
       "formalName": "箕面市・シャーメゾン井筒実業株式会社邸 B000",
       "address": "大阪府箕面市箕面3丁目6番25号",
-      "rentYen": 240000,
+      "rentYen": 215000,
       "managementFeeYen": 0,
       "sizeM2": 125.5,
       "built": "2009-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-08T08:58:28.760+09:00",
+      "checkedAt": "2026-11-12T08:59:05+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -606,7 +601,7 @@
         {
           "label": "积水住宅官方",
           "url": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/",
-          "observedAt": "2026-11-08T08:58:28.760+09:00"
+          "observedAt": "2026-11-12T08:59:05+09:00"
         }
       ],
       "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/"
@@ -656,7 +651,7 @@
       "built": "2007-02",
       "status": "pending",
       "statusNote": "完整门牌和到校路线待核",
-      "checkedAt": "2026-11-08T08:58:36.094+09:00",
+      "checkedAt": "2026-11-12T08:59:06+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -681,7 +676,12 @@
         {
           "label": "at home",
           "url": "https://www.athome.co.jp/chintai/1132443225/",
-          "observedAt": "2026-11-08T08:58:36.094+09:00"
+          "observedAt": "2026-11-07T12:10:11+09:00"
+        },
+        {
+          "label": "www.minoh-ichiba.jp",
+          "url": "https://www.minoh-ichiba.jp/chintai/detail-65ec02af83588c61da811414/",
+          "observedAt": "2026-11-12T08:59:06+09:00"
         },
         {
           "label": "SUUMO",
