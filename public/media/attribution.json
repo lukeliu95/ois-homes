@@ -342,5 +342,141 @@
     "kind": "exterior",
     "generated": false,
     "sourceSha256": "14dd71512ed35625ff6ed302fa0cb817a5494a364e71003fb7144f98892abe60"
+  },
+  {
+    "file": "/media/N008/g142000930100030000000.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/app/0/500/g142000930100030000000.jpg",
+    "observedAt": "2026-11-14T09:07:00+09:00",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "069c2546c65a14aaf1781395ed752f509ed48563ecd7cd5d033b0700b85e4804"
+  },
+  {
+    "file": "/media/N008/g142000930100030000001.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/app/0/500/g142000930100030000001.jpg",
+    "observedAt": "2026-11-14T09:07:00+09:00",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "9eb66e12d9f7a43baa0bd4450c0f311550453a9d9092868f9ac7aef2ff54f586"
+  },
+  {
+    "file": "/media/N008/g142000930100030000002.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/app/0/500/g142000930100030000002.jpg",
+    "observedAt": "2026-11-14T09:07:00+09:00",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "0d1653e60bccb76db642e935226496397c63172e097ac997b85100a008203685"
+  },
+  {
+    "file": "/media/N008/g142000930100030000003.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/app/0/500/g142000930100030000003.jpg",
+    "observedAt": "2026-11-14T09:07:00+09:00",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "cf8d8bf6d5ba283aa104de6e700c129535742a2bfecfbf38984a365b2a95eca3"
+  },
+  {
+    "file": "/media/N008/g142000930100030000004.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/app/0/500/g142000930100030000004.jpg",
+    "observedAt": "2026-11-14T09:07:00+09:00",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "eccf14d8188ec1d2c7eda05e285f64e6ec25e494a2b6da2b2fdbf4a92b7327a6"
+  },
+  {
+    "file": "/media/N008/m1420009301000b.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/layout/0/500/m1420009301000b.jpg",
+    "observedAt": "2026-11-14T09:07:01+09:00",
+    "kind": "floorplan",
+    "generated": false,
+    "sourceSha256": "c02543c4aded318aab4df3bb08b76d72ea8f695bae4a7ac25f1169e27e106c5d"
+  },
+  {
+    "file": "/media/N008/n14200093010003000b00.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b00.jpg",
+    "observedAt": "2026-11-15T09:10:40+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "2ea03b6562f8b87a91f330a2e901e39ab79e7c2ae5d9626c1243562f26a7ffeb"
+  },
+  {
+    "file": "/media/N008/n14200093010003000b01.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b01.jpg",
+    "observedAt": "2026-11-15T09:10:40+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "213bc476362028d469d4bf98a778923b811a60d946ee131f3795a31a2228cc96"
+  },
+  {
+    "file": "/media/N008/n14200093010003000b02.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b02.jpg",
+    "observedAt": "2026-11-15T09:10:40+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "f0599296a1125f25b36a7e266d3f6d08c9391a69f854f7a4dd0267b9093e752d"
+  },
+  {
+    "file": "/media/N008/n14200093010003000b03.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b03.jpg",
+    "observedAt": "2026-11-15T09:10:40+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "bab6563cdb3bd0fb0152a202d51bac6a2f0e53d198961c4645a57866ba9f0b27"
+  },
+  {
+    "file": "/media/N008/n14200093010003000b04.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b04.jpg",
+    "observedAt": "2026-11-15T09:10:40+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "16c8c01405a7539fd50bab0ed9a223db52e31a14d72dc79145d29c13f0778cf4"
+  },
+  {
+    "file": "/media/N008/n14200093010003000b05.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b05.jpg",
+    "observedAt": "2026-11-15T09:10:40+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "e6c8b30911218a6eb2924d96d7ea20624b5f90eb2256c1c918926549806d4c88"
+  },
+  {
+    "file": "/media/N008/n14200093010003000b06.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b06.jpg",
+    "observedAt": "2026-11-15T09:10:40+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "4c9298566ff5013fcfebe76259d739c8ef21cb7203218c543a380370f377badb"
+  },
+  {
+    "file": "/media/N008/n14200093010003000b07.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b07.jpg",
+    "observedAt": "2026-11-15T09:10:40+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "7d25ba9d322ef1809e9f21b5a0e911b69fa9830c7133dab3fd1b1cc6879eae8e"
+  },
+  {
+    "file": "/media/N008/n14200093010003000b08.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b08.jpg",
+    "observedAt": "2026-11-15T09:10:41+09:00",
+    "kind": "washroom",
+    "generated": false,
+    "sourceSha256": "91fc0ac05137419e7c64b3471a7c5641b8c43439a629b8a4b469e547ad6ecb1e"
+  },
+  {
+    "file": "/media/N008/n14200093010003000b09.jpg",
+    "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b09.jpg",
+    "observedAt": "2026-11-15T09:10:41+09:00",
+    "kind": "bath",
+    "generated": false,
+    "sourceSha256": "bc4e6e551e3526fdc8e61f7ba1d9c66923be5207e20acc4b764c387073fbf9d1"
+  },
+  {
+    "file": "/media/N008/route-20261115.png",
+    "sourceUrl": "https://www.google.com/maps/dir/2-ch%C5%8Dme-4-27+Ishimaru,+Minoh,+Osaka+562-0027/Senri+%26+Osaka+International+Schools+of+Kwansei+Gakuin,+4+Chome-4-16+Onoharanishi,+Minoh,+Osaka+562-0032/@34.8354428,135.4915562,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6000fbb6e262cc05:0xb8e80852c0dff2d1!2m2!1d135.4945132!2d34.8381372!1m5!1m1!1s0x6000fb9e2a69b2f5:0x6090e7d8e5d8ae8!2m2!1d135.5086874!2d34.8294526!3e1?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
+    "observedAt": "2026-11-15T09:09:48+09:00",
+    "kind": "route",
+    "generated": false,
+    "sourceSha256": "b193250d4864439ea97e8064e524c64d2923361bca5b465554f2c3e616c15ff4"
   }
 ]

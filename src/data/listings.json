@@ -4,7 +4,7 @@
     "address": "大阪府箕面市小野原西4-4-16",
     "url": "https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location"
   },
-  "dataAsOf": "2026-11-12T08:59:06+09:00",
+  "dataAsOf": "2026-11-15T09:09:48+09:00",
   "homes": [
     {
       "id": "N002",
@@ -75,7 +75,7 @@
       "built": "2011-09",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-12T08:59:05+09:00",
+      "checkedAt": "2026-11-15T09:03:36+09:00",
       "parkingYen": 15000,
       "photos": [
         {
@@ -232,7 +232,7 @@
         {
           "label": "Able",
           "url": "https://www.able.co.jp/detail/Detail.do?bk=000000763191677001",
-          "observedAt": "2026-11-12T08:59:05+09:00"
+          "observedAt": "2026-11-15T09:03:36+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -288,7 +288,7 @@
       "built": "2024-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-12T08:59:05+09:00",
+      "checkedAt": "2026-11-15T09:03:35+09:00",
       "parkingYen": 0,
       "areaNote": "1间卧室；77.83㎡为两层合计，1楼以车库为主",
       "photos": [
@@ -385,7 +385,7 @@
         {
           "label": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100535092205/",
-          "observedAt": "2026-11-12T08:59:05+09:00"
+          "observedAt": "2026-11-15T09:03:35+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -468,7 +468,7 @@
       "built": "2009-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-12T08:59:05+09:00",
+      "checkedAt": "2026-11-15T09:03:35+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -601,7 +601,7 @@
         {
           "label": "积水住宅官方",
           "url": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/",
-          "observedAt": "2026-11-12T08:59:05+09:00"
+          "observedAt": "2026-11-15T09:03:35+09:00"
         }
       ],
       "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/"
@@ -651,7 +651,7 @@
       "built": "2007-02",
       "status": "pending",
       "statusNote": "完整门牌和到校路线待核",
-      "checkedAt": "2026-11-12T08:59:06+09:00",
+      "checkedAt": "2026-11-15T09:03:37+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -681,7 +681,7 @@
         {
           "label": "www.minoh-ichiba.jp",
           "url": "https://www.minoh-ichiba.jp/chintai/detail-65ec02af83588c61da811414/",
-          "observedAt": "2026-11-12T08:59:06+09:00"
+          "observedAt": "2026-11-15T09:03:37+09:00"
         },
         {
           "label": "SUUMO",
@@ -695,6 +695,238 @@
         }
       ],
       "sourceUrl": "https://www.athome.co.jp/chintai/1132443225/"
+    },
+    {
+      "id": "N008",
+      "name": "石丸2丁目 B栋",
+      "neighborhood": "箕面 · 石丸2丁目",
+      "layout": "3LDK＋储物间",
+      "bedrooms": 3,
+      "moveIn": "广告计划2027年2月上旬，交付日待确认",
+      "lease": "2年 · 普通或定期借家待核",
+      "parking": "广告停车免费，台数待核",
+      "summary": "2022年建，三间卧室加储物间。到校骑车导航8分钟；月租23万，另管理费8,000日元。",
+      "attention": [
+        "计划2027年2月上旬入住；广告在租不等于中介确认空室，实际交付日待确认。",
+        "另有押金10万及60万不可退契约金，清洁、换锁、保证、保险和中介费分别计算。",
+        "官网的“公寓、2楼”字段与两层户型不一致；比对同栋原图及经纪1–2楼整栋信息后收录，未现场核查。",
+        "8分钟为经国道171号的导航估计，未实骑；校门、校内停车后步行及返程未核。慢骑加缓冲的假设约14分钟。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "23万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "8,000日元/月"
+        },
+        {
+          "label": "停车",
+          "value": "免费，台数待核"
+        },
+        {
+          "label": "押金",
+          "value": "10万日元"
+        },
+        {
+          "label": "不可退契约金",
+          "value": "60万日元"
+        },
+        {
+          "label": "每月支持服务",
+          "value": "1,320日元"
+        },
+        {
+          "label": "每月保证费",
+          "value": "月租等费用的2%"
+        },
+        {
+          "label": "初次保证手续费",
+          "value": "33,000日元"
+        },
+        {
+          "label": "清洁 / 换锁",
+          "value": "132,700 / 22,000日元"
+        },
+        {
+          "label": "保险 / 中介费",
+          "value": "需另外支付，完整金额待核，不按0计算"
+        },
+        {
+          "label": "续约费",
+          "value": "新月租1个月"
+        }
+      ],
+      "formalName": "シャーメゾン恵 000B号室",
+      "address": "大阪府箕面市石丸2丁目4番27号",
+      "rentYen": 230000,
+      "managementFeeYen": 8000,
+      "sizeM2": 86.14,
+      "built": "2022-12",
+      "status": "verified",
+      "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
+      "checkedAt": "2026-11-15T09:03:37+09:00",
+      "parkingYen": 0,
+      "photos": [
+        {
+          "src": "/media/N008/g142000930100030000000.jpg",
+          "kind": "exterior",
+          "caption": "官方外观原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/app/0/500/g142000930100030000000.jpg",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "src": "/media/N008/m1420009301000b.jpg",
+          "kind": "floorplan",
+          "caption": "官方完整户型（1F/2F）",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/layout/0/500/m1420009301000b.jpg",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "/media/N008/n14200093010003000b00.jpg",
+          "kind": "interior",
+          "caption": "官方室内原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b00.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N008/n14200093010003000b01.jpg",
+          "kind": "interior",
+          "caption": "官方室内原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b01.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N008/n14200093010003000b02.jpg",
+          "kind": "interior",
+          "caption": "官方室内原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b02.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N008/n14200093010003000b03.jpg",
+          "kind": "interior",
+          "caption": "官方室内原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b03.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N008/n14200093010003000b04.jpg",
+          "kind": "interior",
+          "caption": "官方室内原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b04.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N008/n14200093010003000b05.jpg",
+          "kind": "interior",
+          "caption": "官方室内原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b05.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N008/n14200093010003000b06.jpg",
+          "kind": "interior",
+          "caption": "官方室内原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b06.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N008/n14200093010003000b07.jpg",
+          "kind": "interior",
+          "caption": "官方室内原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b07.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N008/n14200093010003000b08.jpg",
+          "kind": "washroom",
+          "caption": "洗面台原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b08.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N008/n14200093010003000b09.jpg",
+          "kind": "bath",
+          "caption": "浴室原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/other/0/500/n14200093010003000b09.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "/media/N008/g142000930100030000001.jpg",
+          "kind": "exterior",
+          "caption": "官方铭牌原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/app/0/500/g142000930100030000001.jpg",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "src": "/media/N008/g142000930100030000002.jpg",
+          "kind": "exterior",
+          "caption": "官方侧面外观原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/app/0/500/g142000930100030000002.jpg",
+          "width": 500,
+          "height": 333
+        },
+        {
+          "src": "/media/N008/g142000930100030000003.jpg",
+          "kind": "exterior",
+          "caption": "官方入口外观原图",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/app/0/500/g142000930100030000003.jpg",
+          "width": 333,
+          "height": 500
+        },
+        {
+          "src": "/media/N008/g142000930100030000004.jpg",
+          "kind": "exterior",
+          "caption": "官方外观原图（另一角度）",
+          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/app/0/500/g142000930100030000004.jpg",
+          "width": 640,
+          "height": 480
+        }
+      ],
+      "commute": {
+        "mode": "bicycling",
+        "minutes": 8,
+        "distanceKm": 2.2,
+        "ascentM": 8,
+        "slowMinutes": 14,
+        "note": "官方000B完整门牌地址点至正确OIS校址/学校POI；具体玄关、自行车出口及学校入口未实地核。",
+        "url": "https://www.google.com/maps/dir/2-ch%C5%8Dme-4-27+Ishimaru,+Minoh,+Osaka+562-0027/Senri+%26+Osaka+International+Schools+of+Kwansei+Gakuin,+4+Chome-4-16+Onoharanishi,+Minoh,+Osaka+562-0032/@34.8354428,135.4915562,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6000fbb6e262cc05:0xb8e80852c0dff2d1!2m2!1d135.4945132!2d34.8381372!1m5!1m1!1s0x6000fb9e2a69b2f5:0x6090e7d8e5d8ae8!2m2!1d135.5086874!2d34.8294526!3e1?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
+        "observedAt": "2026-11-15T09:09:48+09:00",
+        "image": {
+          "src": "/media/N008/route-20261115.png",
+          "kind": "route",
+          "caption": "公开门牌到OIS的自行车导航",
+          "sourceUrl": "https://www.google.com/maps/dir/2-ch%C5%8Dme-4-27+Ishimaru,+Minoh,+Osaka+562-0027/Senri+%26+Osaka+International+Schools+of+Kwansei+Gakuin,+4+Chome-4-16+Onoharanishi,+Minoh,+Osaka+562-0032/@34.8354428,135.4915562,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6000fbb6e262cc05:0xb8e80852c0dff2d1!2m2!1d135.4945132!2d34.8381372!1m5!1m1!1s0x6000fb9e2a69b2f5:0x6090e7d8e5d8ae8!2m2!1d135.5086874!2d34.8294526!3e1?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
+        }
+      },
+      "sources": [
+        {
+          "label": "www.kiwami-estate.jp",
+          "url": "https://www.kiwami-estate.jp/area_c1/bknarea_ki27220/%E7%AE%95%E9%9D%A2%E5%B8%82%E7%9F%B3%E4%B8%B82%E4%B8%81%E7%9B%AE%E8%B2%B8%E5%AE%B6/room71542746.html",
+          "observedAt": "2026-11-15T09:03:49+09:00"
+        },
+        {
+          "label": "积水住宅官方",
+          "url": "https://www.shamaison.com/osaka/area/27220/000327008032_142000/00000002700803200030001/",
+          "observedAt": "2026-11-15T09:03:37+09:00"
+        }
+      ],
+      "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000327008032_142000/00000002700803200030001/"
     }
   ],
   "archive": []

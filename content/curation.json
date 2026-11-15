@@ -483,7 +483,10 @@
           "includes_waiting_and_transfer": null
         }
       },
-      "mediaOrder": ["01.jpg", "02.jpg"],
+      "mediaOrder": [
+        "01.jpg",
+        "02.jpg"
+      ],
       "captionOverrides": {
         "01.jpg": "原始户型图",
         "02.jpg": "房屋外观"
@@ -502,6 +505,174 @@
         }
       ],
       "publishPending": true
+    },
+    "N008": {
+      "name": "石丸2丁目 B栋",
+      "neighborhood": "箕面 · 石丸2丁目",
+      "layout": "3LDK＋储物间",
+      "bedrooms": 3,
+      "moveIn": "广告计划2027年2月上旬，交付日待确认",
+      "lease": "2年 · 普通或定期借家待核",
+      "parking": "广告停车免费，台数待核",
+      "summary": "2022年建，三间卧室加储物间。到校骑车导航8分钟；月租23万，另管理费8,000日元。",
+      "attention": [
+        "计划2027年2月上旬入住；广告在租不等于中介确认空室，实际交付日待确认。",
+        "另有押金10万及60万不可退契约金，清洁、换锁、保证、保险和中介费分别计算。",
+        "官网的“公寓、2楼”字段与两层户型不一致；比对同栋原图及经纪1–2楼整栋信息后收录，未现场核查。",
+        "8分钟为经国道171号的导航估计，未实骑；校门、校内停车后步行及返程未核。慢骑加缓冲的假设约14分钟。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "23万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "8,000日元/月"
+        },
+        {
+          "label": "停车",
+          "value": "免费，台数待核"
+        },
+        {
+          "label": "押金",
+          "value": "10万日元"
+        },
+        {
+          "label": "不可退契约金",
+          "value": "60万日元"
+        },
+        {
+          "label": "每月支持服务",
+          "value": "1,320日元"
+        },
+        {
+          "label": "每月保证费",
+          "value": "月租等费用的2%"
+        },
+        {
+          "label": "初次保证手续费",
+          "value": "33,000日元"
+        },
+        {
+          "label": "清洁 / 换锁",
+          "value": "132,700 / 22,000日元"
+        },
+        {
+          "label": "保险 / 中介费",
+          "value": "需另外支付，完整金额待核，不按0计算"
+        },
+        {
+          "label": "续约费",
+          "value": "新月租1个月"
+        }
+      ],
+      "reviewedFacts": {
+        "rent_yen": 230000,
+        "management_fee_yen": 8000,
+        "built_year_month": "2022-12",
+        "built_date": null,
+        "size_m2": 86.14,
+        "layout": "3LDK+S(納戸)",
+        "public_address": "大阪府箕面市石丸2丁目4番27号",
+        "deposit_yen": 100000,
+        "key_money_yen": null,
+        "nonrefundable_contract_one_time_yen": 600000,
+        "parking": {
+          "spaces": null,
+          "fee_yen": 0,
+          "note": "官方标停车免费，台数未核。"
+        },
+        "lease": {
+          "type": "unknown",
+          "term_months": 24,
+          "note": "官方契约2年；普通/定期未明确。"
+        },
+        "move_in": "2027年2月上旬（广告计划，实际空室未确认）",
+        "extra_costs": [
+          {
+            "label": "每月支持服务",
+            "amount_yen": 1320
+          },
+          {
+            "label": "初期清洁",
+            "amount_yen": 132700
+          },
+          {
+            "label": "初期换锁",
+            "amount_yen": 22000
+          },
+          {
+            "label": "初次保证手续费",
+            "amount_yen": 33000
+          },
+          {
+            "label": "每月保证费",
+            "note": "月租等的2%；保险、中介费等完整报价未知，不填0。"
+          }
+        ],
+        "qualification_status": "verified_match",
+        "listing_status": "advertised",
+        "building_type": "detached_house",
+        "unresolved_type_conflicts": [],
+        "route": {
+          "mode": "bicycling",
+          "minutes": 8,
+          "distance_km": 2.2,
+          "elevation_up_m": 8,
+          "slow_scenario_minutes": 14,
+          "address_match_verified": true,
+          "origin_precision": "exact_address",
+          "address_to_school": true,
+          "destination_verified": true,
+          "includes_waiting_and_transfer": null
+        }
+      },
+      "mediaOrder": [
+        "g142000930100030000000.jpg",
+        "m1420009301000b.jpg",
+        "n14200093010003000b00.jpg",
+        "n14200093010003000b01.jpg",
+        "n14200093010003000b02.jpg",
+        "n14200093010003000b03.jpg",
+        "n14200093010003000b04.jpg",
+        "n14200093010003000b05.jpg",
+        "n14200093010003000b06.jpg",
+        "n14200093010003000b07.jpg",
+        "n14200093010003000b08.jpg",
+        "n14200093010003000b09.jpg",
+        "g142000930100030000001.jpg",
+        "g142000930100030000002.jpg",
+        "g142000930100030000003.jpg",
+        "g142000930100030000004.jpg"
+      ],
+      "captionOverrides": {
+        "g142000930100030000000.jpg": "官方外观原图",
+        "g142000930100030000001.jpg": "官方铭牌原图",
+        "g142000930100030000002.jpg": "官方侧面外观原图",
+        "g142000930100030000003.jpg": "官方入口外观原图",
+        "g142000930100030000004.jpg": "官方外观原图（另一角度）",
+        "m1420009301000b.jpg": "官方完整户型（1F/2F）",
+        "n14200093010003000b00.jpg": "官方室内原图",
+        "n14200093010003000b01.jpg": "官方室内原图",
+        "n14200093010003000b02.jpg": "官方室内原图",
+        "n14200093010003000b03.jpg": "官方室内原图",
+        "n14200093010003000b04.jpg": "官方室内原图",
+        "n14200093010003000b05.jpg": "官方室内原图",
+        "n14200093010003000b06.jpg": "官方室内原图",
+        "n14200093010003000b07.jpg": "官方室内原图",
+        "n14200093010003000b08.jpg": "洗面台原图",
+        "n14200093010003000b09.jpg": "浴室原图"
+      },
+      "addressSourceObservedAt": "2026-11-15T09:03:37+09:00",
+      "extraSources": [
+        {
+          "label": "KIWAMI整栋广告及原图",
+          "url": "https://www.kiwami-estate.jp/area_c1/bknarea_ki27220/%E7%AE%95%E9%9D%A2%E5%B8%82%E7%9F%B3%E4%B8%B82%E4%B8%81%E7%9B%AE%E8%B2%B8%E5%AE%B6/room71542746.html",
+          "observedAt": "2026-11-15T09:03:49+09:00"
+        }
+      ],
+      "publishPending": false
     }
   }
 }
