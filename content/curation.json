@@ -156,18 +156,19 @@
       "neighborhood": "箕面 · 箕面3丁目",
       "layout": "4LDK",
       "bedrooms": 4,
-      "moveIn": "广告标即入住，实际空室待确认",
+      "moveIn": "已撤出当前结果；结束前曾标即入住",
       "lease": "2年 · 普通或定期借家待核",
       "parking": "广告含停车，台数待核",
-      "summary": "125.5㎡，三间洋室加一间和室。月租21.5万日元，另有45万不可退契约金。",
+      "summary": "官方当前无空室，已撤出可租列表。21.5万为撤出前最后有效报价，原始资料保留归档。",
       "attention": [
+        "官方B000房间链接已转回000227001862建物页并显示当前无空室，故撤出当前可租结果。こだて賃貸对应广告也已结束；大阪賃貸ラボ及goo仍留21.5万挂牌，当前招租状态有冲突，未向中介确认，不断言全市场已租。21.5万为撤出前最后有效报价，原照片、户型和路线保留归档。",
         "官方月租已从24万降至21.5万，较20万目标高1.5万；不可退契约金从50万降至45万，另有押金5万。",
         "A/B栋共用3-6-25门牌，官方广告明确对应B000，但实际玄关未现场核查。",
         "到校导航15分钟；按12公里/小时加3分钟缓冲，慢骑情景约23.5分钟。"
       ],
       "fees": [
         {
-          "label": "月租",
+          "label": "撤出前最后有效月租",
           "value": "21.5万日元"
         },
         {
@@ -246,8 +247,8 @@
           "broker": "at home1.1个月",
           "insurance": "必须，金额未标"
         },
-        "qualification_status": "verified_match",
-        "listing_status": "advertised",
+        "qualification_status": "withdrawn",
+        "listing_status": "withdrawn",
         "building_type": "detached_house",
         "unresolved_type_conflicts": [],
         "route": {

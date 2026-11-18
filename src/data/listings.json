@@ -4,7 +4,7 @@
     "address": "大阪府箕面市小野原西4-4-16",
     "url": "https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location"
   },
-  "dataAsOf": "2026-11-15T09:09:48+09:00",
+  "dataAsOf": "2026-11-18T09:02:56+09:00",
   "homes": [
     {
       "id": "N002",
@@ -75,7 +75,7 @@
       "built": "2011-09",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-15T09:03:36+09:00",
+      "checkedAt": "2026-11-18T09:02:55+09:00",
       "parkingYen": 15000,
       "photos": [
         {
@@ -232,7 +232,7 @@
         {
           "label": "Able",
           "url": "https://www.able.co.jp/detail/Detail.do?bk=000000763191677001",
-          "observedAt": "2026-11-15T09:03:36+09:00"
+          "observedAt": "2026-11-18T09:02:55+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -288,7 +288,7 @@
       "built": "2024-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-15T09:03:35+09:00",
+      "checkedAt": "2026-11-18T09:02:55+09:00",
       "parkingYen": 0,
       "areaNote": "1间卧室；77.83㎡为两层合计，1楼以车库为主",
       "photos": [
@@ -385,7 +385,7 @@
         {
           "label": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100535092205/",
-          "observedAt": "2026-11-15T09:03:35+09:00"
+          "observedAt": "2026-11-18T09:02:55+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -394,217 +394,6 @@
         }
       ],
       "sourceUrl": "https://suumo.jp/chintai/bc_100535092205/"
-    },
-    {
-      "id": "N003",
-      "name": "箕面3丁目 B栋",
-      "neighborhood": "箕面 · 箕面3丁目",
-      "layout": "4LDK",
-      "bedrooms": 4,
-      "moveIn": "广告标即入住，实际空室待确认",
-      "lease": "2年 · 普通或定期借家待核",
-      "parking": "广告含停车，台数待核",
-      "summary": "125.5㎡，三间洋室加一间和室。月租21.5万日元，另有45万不可退契约金。",
-      "attention": [
-        "官方月租已从24万降至21.5万，较20万目标高1.5万；不可退契约金从50万降至45万，另有押金5万。",
-        "A/B栋共用3-6-25门牌，官方广告明确对应B000，但实际玄关未现场核查。",
-        "到校导航15分钟；按12公里/小时加3分钟缓冲，慢骑情景约23.5分钟。"
-      ],
-      "fees": [
-        {
-          "label": "月租",
-          "value": "21.5万日元"
-        },
-        {
-          "label": "管理费",
-          "value": "无"
-        },
-        {
-          "label": "停车",
-          "value": "包含，台数待核"
-        },
-        {
-          "label": "每月支持服务",
-          "value": "1,320日元"
-        },
-        {
-          "label": "每月保证费",
-          "value": "月租等费用的2%"
-        },
-        {
-          "label": "押金",
-          "value": "5万日元"
-        },
-        {
-          "label": "不可退契约金",
-          "value": "45万日元"
-        },
-        {
-          "label": "初次保证费",
-          "value": "33,000日元"
-        },
-        {
-          "label": "清洁 / 换锁",
-          "value": "150,000 / 16,500日元"
-        },
-        {
-          "label": "中介费（at home来源）",
-          "value": "1.1个月租金"
-        },
-        {
-          "label": "保险",
-          "value": "必须，金额待核"
-        },
-        {
-          "label": "续约费",
-          "value": "新月租1个月"
-        }
-      ],
-      "formalName": "箕面市・シャーメゾン井筒実業株式会社邸 B000",
-      "address": "大阪府箕面市箕面3丁目6番25号",
-      "rentYen": 215000,
-      "managementFeeYen": 0,
-      "sizeM2": 125.5,
-      "built": "2009-02",
-      "status": "verified",
-      "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-15T09:03:35+09:00",
-      "parkingYen": 0,
-      "photos": [
-        {
-          "src": "/media/N003/13-official-floorplan.jpg",
-          "kind": "floorplan",
-          "caption": "原始户型图",
-          "sourceUrl": "https://img.shamaison.com/sys/housing_imgs/new142000/layout/0/500/m1421040170b000.jpg",
-          "width": 831,
-          "height": 800
-        },
-        {
-          "src": "/media/N003/01.jpg",
-          "kind": "floorplan",
-          "caption": "原始户型图",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/84I7yhORlrZG9T_WUrh02g==",
-          "width": 640,
-          "height": 616
-        },
-        {
-          "src": "/media/N003/02.jpg",
-          "kind": "exterior",
-          "caption": "房屋外观",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/2P8n2JqJrFZOeEV7Pj1qeg==",
-          "width": 375,
-          "height": 500
-        },
-        {
-          "src": "/media/N003/03.jpg",
-          "kind": "interior",
-          "caption": "室内实拍",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BoNAQB9a_b5Zw==",
-          "width": 640,
-          "height": 480
-        },
-        {
-          "src": "/media/N003/04.jpg",
-          "kind": "interior",
-          "caption": "室内实拍",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BoNCKTQI0fxzA==",
-          "width": 640,
-          "height": 480
-        },
-        {
-          "src": "/media/N003/05.jpg",
-          "kind": "interior",
-          "caption": "室内实拍",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BqKUD6Y3tHdaA==",
-          "width": 640,
-          "height": 480
-        },
-        {
-          "src": "/media/N003/06.jpg",
-          "kind": "interior",
-          "caption": "室内实拍",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/pLQzWvXO2BpnFiitaszY9Q==",
-          "width": 640,
-          "height": 480
-        },
-        {
-          "src": "/media/N003/07.jpg",
-          "kind": "interior",
-          "caption": "室内实拍",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJAe1UGtEI0Vw==",
-          "width": 640,
-          "height": 480
-        },
-        {
-          "src": "/media/N003/08.jpg",
-          "kind": "interior",
-          "caption": "室内实拍",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJl_LuUKrYPWw==",
-          "width": 640,
-          "height": 480
-        },
-        {
-          "src": "/media/N003/09.jpg",
-          "kind": "kitchen",
-          "caption": "厨房",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vIC-m3Z9etFqA==",
-          "width": 640,
-          "height": 480
-        },
-        {
-          "src": "/media/N003/10.jpg",
-          "kind": "washroom",
-          "caption": "洗面台",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vIJzenWKj7h1Q==",
-          "width": 640,
-          "height": 480
-        },
-        {
-          "src": "/media/N003/11.jpg",
-          "kind": "bath",
-          "caption": "浴室",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJ9NgPBGdtWOQ==",
-          "width": 640,
-          "height": 480
-        },
-        {
-          "src": "/media/N003/12.jpg",
-          "kind": "toilet",
-          "caption": "卫生间",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/6GZ8ZSoC7vJ4E7fKQ3q3Pw==",
-          "width": 640,
-          "height": 480
-        }
-      ],
-      "commute": {
-        "mode": "bicycling",
-        "minutes": 15,
-        "distanceKm": 4.1,
-        "ascentM": 22,
-        "slowMinutes": 23.5,
-        "note": "官方把完整门牌3-6-25绑定到B000；A/B共用门牌地址点，B栋具体入口未实地核。",
-        "url": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A23%E4%B8%81%E7%9B%AE6-25&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling",
-        "observedAt": "2026-11-07T12:11:36+09:00",
-        "image": {
-          "src": "/media/N003/route.png",
-          "kind": "route",
-          "caption": "公开门牌到OIS的自行车导航",
-          "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A23%E4%B8%81%E7%9B%AE6-25&destination=Osaka%20International%20School%20%E7%AE%95%E9%9D%A2%E5%B8%82&travelmode=bicycling"
-        }
-      },
-      "sources": [
-        {
-          "label": "at home",
-          "url": "https://www.athome.co.jp/chintai/1141163017/",
-          "observedAt": "2026-11-07"
-        },
-        {
-          "label": "积水住宅官方",
-          "url": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/",
-          "observedAt": "2026-11-15T09:03:35+09:00"
-        }
-      ],
-      "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/"
     },
     {
       "id": "N004",
@@ -651,7 +440,7 @@
       "built": "2007-02",
       "status": "pending",
       "statusNote": "完整门牌和到校路线待核",
-      "checkedAt": "2026-11-15T09:03:37+09:00",
+      "checkedAt": "2026-11-18T09:02:56+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -681,7 +470,7 @@
         {
           "label": "www.minoh-ichiba.jp",
           "url": "https://www.minoh-ichiba.jp/chintai/detail-65ec02af83588c61da811414/",
-          "observedAt": "2026-11-15T09:03:37+09:00"
+          "observedAt": "2026-11-18T09:02:56+09:00"
         },
         {
           "label": "SUUMO",
@@ -766,7 +555,7 @@
       "built": "2022-12",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-15T09:03:37+09:00",
+      "checkedAt": "2026-11-18T09:02:56+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -923,11 +712,21 @@
         {
           "label": "积水住宅官方",
           "url": "https://www.shamaison.com/osaka/area/27220/000327008032_142000/00000002700803200030001/",
-          "observedAt": "2026-11-15T09:03:37+09:00"
+          "observedAt": "2026-11-18T09:02:56+09:00"
         }
       ],
       "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000327008032_142000/00000002700803200030001/"
     }
   ],
-  "archive": []
+  "archive": [
+    {
+      "id": "N003",
+      "name": "箕面市・シャーメゾン井筒実業株式会社邸 B000",
+      "source_url": "https://www.shamaison.com/osaka/area/27220/000227001862_142000/00000002700186200020001/",
+      "rent_yen": 215000,
+      "built_year_month": "2009-02",
+      "qualification_status": "withdrawn",
+      "status_note": "官方B000房间链接已转回000227001862建物页并显示当前无空室，故撤出当前可租结果。こだて賃貸对应广告也已结束；大阪賃貸ラボ及goo仍留21.5万挂牌，当前招租状态有冲突，未向中介确认，不断言全市场已租。21.5万为撤出前最后有效报价，原照片、户型和路线保留归档。"
+    }
+  ]
 }
