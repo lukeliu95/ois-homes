@@ -478,5 +478,125 @@
     "kind": "route",
     "generated": false,
     "sourceSha256": "b193250d4864439ea97e8064e524c64d2923361bca5b465554f2c3e616c15ff4"
+  },
+  {
+    "file": "/media/N007/20261119-exterior.jpg",
+    "sourceUrl": "https://img.able.co.jp/awsorg/bk/2000/67/60/000000000756760/021/0000000007567600001_20261118112054642.JPG?interpolation=lanczos-none&output-quality=80&resize=846:*",
+    "observedAt": "2026-11-19T21:28:53+09:00",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "ead448904eeb14490f9628fbc501c0fb58df5a1556c386fa0dd2572e25f8f497"
+  },
+  {
+    "file": "/media/N007/20261119-entry.jpg",
+    "sourceUrl": "https://img.able.co.jp/awsorg/bk/2000/67/60/000000000756760/031/0000000007567600001_20261118112054795.JPG?interpolation=lanczos-none&output-quality=80&resize=846:*",
+    "observedAt": "2026-11-19T21:28:54+09:00",
+    "kind": "other",
+    "generated": false,
+    "sourceSha256": "a805912c8232507073162a8213d4dc487909c8b5483991a3c9ef7d278cc9e489"
+  },
+  {
+    "file": "/media/N007/20261119-parking.jpg",
+    "sourceUrl": "https://img.able.co.jp/awsorg/bk/2000/67/60/000000000756760/073/0000000007567600001_20261118112054760.JPG?interpolation=lanczos-none&output-quality=80&resize=846:*",
+    "observedAt": "2026-11-19T21:28:54+09:00",
+    "kind": "other",
+    "generated": false,
+    "sourceSha256": "c34ccdc039902a532fe48a2160e97ef175fc0e645f9ada095d66444cb741487a"
+  },
+  {
+    "file": "/media/N007/20261119-exterior-angle.jpg",
+    "sourceUrl": "https://img.able.co.jp/awsorg/bk/2000/67/60/000000000756760/074/0000000007567600001_20261118112054736.JPG?interpolation=lanczos-none&output-quality=80&resize=846:*",
+    "observedAt": "2026-11-19T21:28:55+09:00",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "796ffa26f8efa2dd4b3fb85c52bb8ba96baba2ea2affc9f2b7c3887dfa0ab6e4"
+  },
+  {
+    "file": "/media/N007/20261119-floor-plan.jpg",
+    "sourceUrl": "https://img.able.co.jp/awsorg/bk/2000/67/60/000000000756760/011/0000000007567600001_20261118112054479.JPG?interpolation=lanczos-none&output-quality=80&resize=846:*",
+    "observedAt": "2026-11-19T21:28:55+09:00",
+    "kind": "floorplan",
+    "generated": false,
+    "sourceSha256": "4f2dd82dcc6210f41a06d60b2a7446c49db38cd34f77f94f29ee7d6bfaaece0a"
+  },
+  {
+    "file": "/media/N007/20261109-followup-03.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/208/100527787208/100527787208_ro.jpg",
+    "observedAt": "2026-11-09T23:24:42+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "aa4f5f110ce40a8ea15e288f33e7d08157bc44435dcd856afa2b18a83218e1cf"
+  },
+  {
+    "file": "/media/N007/20261109-followup-04.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/208/100527787208/100527787208_3o.jpg",
+    "observedAt": "2026-11-09T23:24:43+09:00",
+    "kind": "kitchen",
+    "generated": false,
+    "sourceSha256": "ec10874258f3f4af23571dbb96215d527f91bd96d8a7449961e3c0f6f1292fc4"
+  },
+  {
+    "file": "/media/N007/20261109-followup-05.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/208/100527787208/100527787208_4o.jpg",
+    "observedAt": "2026-11-09T23:24:43+09:00",
+    "kind": "bath",
+    "generated": false,
+    "sourceSha256": "cf238b4bdbce63b79d5f21430ab2ecc93a92349c335910383aa2300b422cf7a2"
+  },
+  {
+    "file": "/media/N007/20261109-followup-06.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/208/100527787208/100527787208_6o.jpg",
+    "observedAt": "2026-11-09T23:24:43+09:00",
+    "kind": "toilet",
+    "generated": false,
+    "sourceSha256": "fdef440b01a9231f48a0bf1af9c63c9b8e84f8349f2da7298b75842e78b9f843"
+  },
+  {
+    "file": "/media/N007/20261109-followup-07.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/208/100527787208/100527787208_7o.jpg",
+    "observedAt": "2026-11-09T23:24:43+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "16f2605590aaebd10c6e649a0f47099015dfedf62bc16cc1b9bfe6d3f4ae334a"
+  },
+  {
+    "file": "/media/N007/20261109-followup-08.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/208/100527787208/100527787208_5o.jpg",
+    "observedAt": "2026-11-09T23:24:43+09:00",
+    "kind": "washroom",
+    "generated": false,
+    "sourceSha256": "6bf06c05919333fa677eeabe9e9cbbb1ffd70de4d34bb306a568577bc66bafb8"
+  },
+  {
+    "file": "/media/N007/20261109-followup-09.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/208/100527787208/100527787208_9o.jpg",
+    "observedAt": "2026-11-09T23:24:43+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "7e45502e53416e0771a005c7e6e7b70fa0d5b866b96d0864cec654f3feee0c38"
+  },
+  {
+    "file": "/media/N007/20261109-followup-10.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/208/100527787208/100527787208_11o.jpg",
+    "observedAt": "2026-11-09T23:24:43+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "eaf8ded6fc2105289d0fa1a18167694c2ad78ac1bc24fa18da0b2c53793bf82d"
+  },
+  {
+    "file": "/media/N007/20261109-followup-11.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/208/100527787208/100527787208_8o.jpg",
+    "observedAt": "2026-11-09T23:24:44+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "4aa0ae35aefbfe0a7224fef53dada8551c557b01db6f37bd436b3300cba2b78f"
+  },
+  {
+    "file": "/media/N007/20261109-followup-14.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/208/100527787208/100527787208_10o.jpg",
+    "observedAt": "2026-11-09T23:24:44+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "1ba11bd60794859b9b7b20a6cf0061d98c81058a9a9c71c791d1e5b8198b4ca7"
   }
 ]

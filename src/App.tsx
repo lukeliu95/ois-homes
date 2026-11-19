@@ -408,7 +408,20 @@ function Gallery({ home }: { home: Home }) {
           <div className="route-pending">
             <Icon name="pin" size={30} />
             <strong>完整门牌与到校路线待核</strong>
-            <p>现有广告只公开到丁目，不能给出准确导航时间。</p>
+            <p>
+              {home.referenceRoute?.note ??
+                "现有广告只公开到丁目，不能给出准确导航时间。"}
+            </p>
+            {category === "route" && home.referenceRoute && (
+              <a
+                className="secondary-button"
+                href={home.referenceRoute.url}
+                target="_blank"
+                rel="noreferrer"
+              >
+                打开参考骑车路线 <Icon name="external" size={13} />
+              </a>
+            )}
           </div>
         )}
       </div>

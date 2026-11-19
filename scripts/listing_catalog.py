@@ -241,7 +241,14 @@ def export_catalog(root, source, curations, today, provenance_script=None):
                 urls.add(extra['url'])
         verified = record['qualification_status'] == 'verified_match'
         parking = record.get('parking')
-        active.append({'id': pid, **{key: curated[key] for key in ('name', 'neighborhood', 'layout', 'bedrooms', 'moveIn', 'lease', 'parking', 'summary', 'attention', 'fees')}, 'formalName': record['name'], 'address': record['public_address'], 'rentYen': record['rent_yen'], 'managementFeeYen': record['management_fee_yen'], 'sizeM2': record['size_m2'], 'built': record['built_year_month'], 'status': 'verified' if verified else 'pending', 'statusNote': '已核公开广告和地址级通学证据，实际空室仍需中介确认' if verified else curated.get('statusNote', '完整门牌和到校路线待核'), 'checkedAt': record['verification']['current_listing']['observed_at'], 'parkingYen': parking.get('fee_yen') if isinstance(parking, dict) else None, **({'areaNote': curated['areaNote']} if curated.get('areaNote') else {}), 'photos': photos, 'commute': commute, 'sources': sources, 'sourceUrl': record['source_url']})
+        listing = {'id': pid, **{key: curated[key] for key in ('name', 'neighborhood', 'layout', 'bedrooms', 'moveIn', 'lease', 'parking', 'summary', 'attention', 'fees')}, 'formalName': record['name'], 'address': record['public_address'], 'rentYen': record['rent_yen'], 'managementFeeYen': record['management_fee_yen'], 'sizeM2': record['size_m2'], 'built': record['built_year_month'], 'status': 'verified' if verified else 'pending', 'statusNote': '已核公开广告和地址级通学证据，实际空室仍需中介确认' if verified else curated.get('statusNote', '完整门牌和到校路线待核'), 'checkedAt': record['verification']['current_listing']['observed_at'], 'parkingYen': parking.get('fee_yen') if isinstance(parking, dict) else None, **({'areaNote': curated['areaNote']} if curated.get('areaNote') else {}), 'photos': photos, 'commute': commute, 'sources': sources, 'sourceUrl': record['source_url']}
+        reference = curated.get('referenceRoute')
+        if reference and not verified:
+            observed = valid_time(reference.get('observedAt'))
+            if not valid_url(reference.get('url')) or not observed or observed > today or not reference.get('note'):
+                raise ValueError(pid + ': reference route needs source, observation date and uncertainty note')
+            listing['referenceRoute'] = {key: reference[key] for key in ('url', 'note', 'observedAt')}
+        active.append(listing)
     observations = [proof['observed_at'] for record in records for proof in (record.get('verification') or {}).values() if valid_time(proof.get('observed_at'))]
     data_as_of = max(observations, default=previous.get('dataAsOf', today.isoformat()))
     payload = {'school': previous.get('school') or {'name': 'Osaka International School', 'address': '大阪府箕面市小野原西4-4-16', 'url': 'https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location'}, 'dataAsOf': data_as_of, 'homes': active, 'archive': archive}

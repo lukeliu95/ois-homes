@@ -674,6 +674,140 @@
         }
       ],
       "publishPending": false
+    },
+    "N007": {
+      "name": "小野原西3丁目 B栋",
+      "neighborhood": "箕面 · 小野原西3丁目",
+      "layout": "4LDK（旧广告将小房列为储物间）",
+      "bedrooms": 4,
+      "moveIn": "广告预计2026年12月上旬，实际竣工及入住日待核",
+      "lease": "普通借家 · 2年",
+      "parking": "1台免费，广告称可停2台，第2台条件待核",
+      "summary": "100.4平方米的两层新建独栋，月租28万日元。现已公开房屋照片和两层户型，完整门牌待核。",
+      "statusNote": "广告只公开到丁目，完整门牌与实际通学待核",
+      "attention": [
+        "广告建月为2026年11月，入住栏仍写建设中、预计12月上旬。实际竣工、入住日及空室待确认。",
+        "原广告显示4LDK。旧广告将约3.8帖的小房标为储物间，具体用途待核。",
+        "押金28万、礼金56万。管理费以实际报价为准，其他费用见下方。"
+      ],
+      "fees": [
+        {
+          "label": "月租",
+          "value": "28万日元"
+        },
+        {
+          "label": "管理费",
+          "value": "Able未列金额，CHINTAI列无"
+        },
+        {
+          "label": "停车",
+          "value": "1台免费，第2台条件待核"
+        },
+        {
+          "label": "押金 / 礼金",
+          "value": "28万 / 56万日元"
+        },
+        {
+          "label": "中介费",
+          "value": "广告列15.4万日元（含税）"
+        },
+        {
+          "label": "其他费用",
+          "value": "初期消毒25,300日元、支持费22,000日元、每月保险等1,250日元，保证费另计"
+        }
+      ],
+      "reviewedFacts": {
+        "rent_yen": 280000,
+        "management_fee_yen": null,
+        "built_year_month": "2026-11",
+        "built_date": null,
+        "size_m2": 100.4,
+        "layout": "4LDK（另一旧版本3LDK+S，3.8帖房口径待核）",
+        "public_address": "大阪府箕面市小野原西3丁目（B棟，仅丁目）",
+        "deposit_yen": 280000,
+        "key_money_yen": 560000,
+        "nonrefundable_contract_one_time_yen": null,
+        "parking": {
+          "spaces": 1,
+          "fee_yen": 0,
+          "note": "Able概要明确1台免费，广告提到可停2台，第2台的费用和尺寸待核。"
+        },
+        "lease": {
+          "type": "ordinary",
+          "term_months": 24,
+          "note": "当前Able明确一般契約2年間，不仅凭2年推断。"
+        },
+        "move_in": "建設中，2026年12月上旬（广告计划，未核实际竣工日）",
+        "extra_costs": [
+          {
+            "label": "初期消毒",
+            "amount_yen": 25300
+          },
+          {
+            "label": "初期支持费",
+            "amount_yen": 22000
+          },
+          {
+            "label": "每月保险等",
+            "amount_yen": 1250
+          },
+          {
+            "label": "中介费（当前广告55%，含税）",
+            "amount_yen": 154000,
+            "note": "Able11/14明确广告金额；符合资格的重复客户138600为另一有条件优惠，不当普通报价。"
+          }
+        ],
+        "qualification_status": "pending",
+        "listing_status": "advertised",
+        "building_type": "detached_house",
+        "unresolved_type_conflicts": [],
+        "route": {
+          "mode": null,
+          "minutes": null,
+          "distance_km": null,
+          "elevation_up_m": null,
+          "slow_scenario_minutes": null,
+          "address_match_verified": null,
+          "origin_precision": null,
+          "address_to_school": null,
+          "destination_verified": null,
+          "includes_waiting_and_transfer": null
+        }
+      },
+      "mediaOrder": [
+        "20261119-exterior.jpg",
+        "20261109-followup-03.jpg",
+        "20261109-followup-04.jpg",
+        "20261109-followup-05.jpg",
+        "20261119-entry.jpg",
+        "20261119-parking.jpg",
+        "20261119-exterior-angle.jpg"
+      ],
+      "captionOverrides": {
+        "20261119-exterior.jpg": "B栋外观",
+        "20261119-exterior-angle.jpg": "B栋侧面",
+        "20261119-entry.jpg": "玄关外侧",
+        "20261119-parking.jpg": "房前停车区",
+        "20261119-floor-plan.jpg": "两层原始户型图"
+      },
+      "extraSources": [
+        {
+          "label": "SUUMO",
+          "url": "https://suumo.jp/chintai/bc_100527787208/",
+          "observedAt": "2026-11-19T21:25:39+09:00"
+        },
+        {
+          "label": "CHINTAI",
+          "url": "https://www.chintai.net/detail/bk/0000001890000000007567600001/",
+          "observedAt": "2026-11-19T21:25:39+09:00"
+        }
+      ],
+      "referenceRoute": {
+        "url": "https://www.google.com/maps/dir/?api=1&origin=34.831684%2C135.510611&destination=Osaka%20International%20School%20of%20Kwansei%20Gakuin%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E5%B0%8F%E9%87%8E%E5%8E%9F%E8%A5%BF4-4-16&travelmode=bicycling",
+        "note": "从广告地图点到OIS骑车约2分钟、300米（11月19日查询）。起点未核实为B栋门牌。",
+        "observedAt": "2026-11-19"
+      },
+      "publishPending": true
     }
   }
 }

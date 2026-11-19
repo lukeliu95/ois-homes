@@ -39,6 +39,7 @@ export interface Home {
   photos: Media[];
   sources: Source[];
   sourceUrl: string;
+  referenceRoute?: { url: string; note: string; observedAt: string };
   commute: null | {
     mode: "bicycling" | "transit";
     minutes: number;
