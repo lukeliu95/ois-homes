@@ -1,0 +1,23 @@
+{
+  "brokenImages": 0,
+  "count": "3套房源",
+  "height": 720,
+  "scrollWidth": 1280,
+  "width": 1280,
+  "exactLabelWorks": 1,
+  "keyboardPrice": {
+    "count": "1套房源",
+    "input": "25"
+  },
+  "primaryFloorplan": {
+    "alt": "户型图（at home主广告版本）",
+    "fit": "contain",
+    "src": "/media/N002/01.jpg"
+  },
+  "mobile": {
+    "scrollWidth": 390,
+    "skipLinkFocused": false,
+    "width": 390
+  },
+  "console": []
+}
