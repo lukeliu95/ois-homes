@@ -4,7 +4,7 @@
     "address": "大阪府箕面市小野原西4-4-16",
     "url": "https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location"
   },
-  "dataAsOf": "2026-11-19T21:25:39+09:00",
+  "dataAsOf": "2026-11-22T09:29:21+09:00",
   "homes": [
     {
       "id": "N002",
@@ -75,7 +75,7 @@
       "built": "2011-09",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-19T09:01:01+09:00",
+      "checkedAt": "2026-11-22T08:56:49+09:00",
       "parkingYen": 15000,
       "photos": [
         {
@@ -232,7 +232,7 @@
         {
           "label": "Able",
           "url": "https://www.able.co.jp/detail/Detail.do?bk=000000763191677001",
-          "observedAt": "2026-11-19T09:01:01+09:00"
+          "observedAt": "2026-11-22T08:56:49+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -288,7 +288,7 @@
       "built": "2024-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-19T09:01:01+09:00",
+      "checkedAt": "2026-11-22T08:56:49+09:00",
       "parkingYen": 0,
       "areaNote": "1间卧室；77.83㎡为两层合计，1楼以车库为主",
       "photos": [
@@ -385,7 +385,7 @@
         {
           "label": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100535092205/",
-          "observedAt": "2026-11-19T09:01:01+09:00"
+          "observedAt": "2026-11-22T08:56:49+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -402,13 +402,13 @@
       "layout": "3LDK",
       "bedrooms": 3,
       "moveIn": "广告标即入住，实际空室待确认",
-      "lease": "定期借家至2037年3月；法人普通借家可商谈",
+      "lease": "定期借家至2037年3月31日，法人普通借家可商谈",
       "parking": "1台免费，第2台另1万日元/月",
-      "summary": "16万日元的年轻独栋线索；缺完整门牌和到校路线，暂不列入20分钟已核结果。",
+      "summary": "月租16万日元的两层独栋。最短骑行导航19分钟、4.9公里，经国道171号。有院子、两处停车空间。",
       "attention": [
-        "当前只公开到箕面6丁目，没有取得对应这套房的完整门牌，不能给出准确到校时间。",
-        "SUUMO明确写定期借家至2037年3月，法人普通借家可商谈；不把另一站的2年字段当普通租约。",
-        "发现同价同面积的东、西栋历史线索，尚不能把完整门牌唯一对应到当前出租栋；不绘制猜测路线。"
+        "最短骑行路线经国道171号，另外两条导航路线为24和25分钟。未实骑。",
+        "原中介标定期借家至2037年3月31日，法人签普通租约可商谈。",
+        "经纪费在原中介与SUUMO的显示不同。火灾保险和租赁保证均需加入，金额待核。"
       ],
       "fees": [
         {
@@ -429,61 +429,143 @@
         },
         {
           "label": "其他费用",
-          "value": "完整报价待核"
+          "value": "火灾保险和租赁保证另计，金额待核。经纪费报价有差异。"
         }
       ],
       "formalName": "箕面市箕面6丁目貸家",
-      "address": "箕面6丁目仅街区，无公开完整门牌本轮未得",
+      "address": "大阪府箕面市箕面6丁目10-11",
       "rentYen": 160000,
       "managementFeeYen": 0,
       "sizeM2": 79.67,
       "built": "2007-02",
-      "status": "pending",
-      "statusNote": "完整门牌和到校路线待核",
-      "checkedAt": "2026-11-19T09:01:01+09:00",
+      "status": "verified",
+      "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
+      "checkedAt": "2026-11-22T08:56:50+09:00",
       "parkingYen": 0,
       "photos": [
         {
-          "src": "/media/N004/01.jpg",
-          "kind": "floorplan",
-          "caption": "原始户型图",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/hMUemlKCdF7W0OxTy8zg8w==",
-          "width": 640,
-          "height": 495
+          "src": "/media/N004/exterior-20261122.jpg",
+          "kind": "exterior",
+          "caption": "房屋正面",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_go.jpg",
+          "width": 1477,
+          "height": 1108
         },
         {
-          "src": "/media/N004/02.jpg",
-          "kind": "exterior",
-          "caption": "房屋外观",
-          "sourceUrl": "https://www.athome.co.jp/image_files/path/sKatloyyExr18fesklnSkQ==",
-          "width": 640,
-          "height": 480
+          "src": "/media/N004/floorplan-20261122.jpg",
+          "kind": "floorplan",
+          "caption": "完整两层户型图",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_co.jpg",
+          "width": 979,
+          "height": 932
+        },
+        {
+          "src": "/media/N004/living-20261122.jpg",
+          "kind": "interior",
+          "caption": "南向客厅",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_ro.jpg",
+          "width": 1108,
+          "height": 1477
+        },
+        {
+          "src": "/media/N004/bedroom-20261122.jpg",
+          "kind": "interior",
+          "caption": "房间实拍",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_9o.jpg",
+          "width": 1108,
+          "height": 1477
+        },
+        {
+          "src": "/media/N004/bath-20261122.jpg",
+          "kind": "bath",
+          "caption": "浴室",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_2o.jpg",
+          "width": 1108,
+          "height": 1477
+        },
+        {
+          "src": "/media/N004/washroom-20261122.jpg",
+          "kind": "washroom",
+          "caption": "洗面台",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_4o.jpg",
+          "width": 1108,
+          "height": 1477
+        },
+        {
+          "src": "/media/N004/toilet-20261122.jpg",
+          "kind": "toilet",
+          "caption": "卫生间",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_3o.jpg",
+          "width": 1108,
+          "height": 1477
+        },
+        {
+          "src": "/media/N004/garden-20261122.jpg",
+          "kind": "other",
+          "caption": "院子",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_6o.jpg",
+          "width": 1108,
+          "height": 1477
+        },
+        {
+          "src": "/media/N004/entry-20261122.jpg",
+          "kind": "other",
+          "caption": "玄关",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_5o.jpg",
+          "width": 1108,
+          "height": 1477
+        },
+        {
+          "src": "/media/N004/parking-20261122.jpg",
+          "kind": "other",
+          "caption": "停车位",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_11o.jpg",
+          "width": 1108,
+          "height": 1477
+        },
+        {
+          "src": "/media/N004/storage-20261122.jpg",
+          "kind": "other",
+          "caption": "收纳",
+          "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_8o.jpg",
+          "width": 1108,
+          "height": 1477
         }
       ],
-      "commute": null,
+      "commute": {
+        "mode": "bicycling",
+        "minutes": 19,
+        "distanceKm": 4.9,
+        "ascentM": 33,
+        "slowMinutes": null,
+        "note": "公开门牌地址点到OIS，最短导航经国道171号。未实骑，房屋出入口、入校口和校内停车后的步行未现场核对。",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A26%E4%B8%81%E7%9B%AE10-11&destination=Senri%20%26%20Osaka%20International%20Schools%20of%20Kwansei%20Gakuin%2C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E5%B0%8F%E9%87%8E%E5%8E%9F%E8%A5%BF4-4-16&travelmode=bicycling",
+        "observedAt": "2026-11-22T09:29:21+09:00",
+        "image": {
+          "src": "/media/N004/route-20261122.png",
+          "kind": "route",
+          "caption": "公开门牌到OIS的自行车导航",
+          "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A26%E4%B8%81%E7%9B%AE10-11&destination=Senri%20%26%20Osaka%20International%20Schools%20of%20Kwansei%20Gakuin%2C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E5%B0%8F%E9%87%8E%E5%8E%9F%E8%A5%BF4-4-16&travelmode=bicycling"
+        }
+      },
       "sources": [
         {
-          "label": "at home",
-          "url": "https://www.athome.co.jp/chintai/1132443225/",
-          "observedAt": "2026-11-07T12:10:11+09:00"
+          "label": "SUUMO",
+          "url": "https://suumo.jp/chintai/bc_100532872761/",
+          "observedAt": "2026-11-22T08:56:51+09:00"
         },
         {
           "label": "www.minoh-ichiba.jp",
           "url": "https://www.minoh-ichiba.jp/chintai/detail-65ec02af83588c61da811414/",
-          "observedAt": "2026-11-19T09:01:01+09:00"
+          "observedAt": "2026-11-22T08:56:50+09:00"
         },
         {
-          "label": "SUUMO",
-          "url": "https://suumo.jp/chintai/bc_100532872761/",
-          "observedAt": "2026-11-07T12:19:41+09:00"
-        },
-        {
-          "label": "KIWAMI不动产",
-          "url": "https://www.kiwami-estate.jp/area_c1/bknarea_ki27220/%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A26%E4%B8%81%E7%9B%AE%E8%B2%B8%E5%AE%B6/room84851188.html",
-          "observedAt": "2026-11-07T14:00:39+09:00"
+          "label": "chintai-lab.jp",
+          "url": "https://chintai-lab.jp/osaka/properties/atbb-6981686291/",
+          "observedAt": "2026-11-22T09:00:25+09:00"
         }
       ],
-      "sourceUrl": "https://www.athome.co.jp/chintai/1132443225/"
+      "sourceUrl": "https://www.minoh-ichiba.jp/chintai/detail-65ec02af83588c61da811414/"
     },
     {
       "id": "N007",
@@ -534,7 +616,7 @@
       "built": "2026-11",
       "status": "pending",
       "statusNote": "广告只公开到丁目，完整门牌与实际通学待核",
-      "checkedAt": "2026-11-19T21:25:39+09:00",
+      "checkedAt": "2026-11-22T08:56:50+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -663,7 +745,7 @@
         {
           "label": "Able",
           "url": "https://www.able.co.jp/kodate/detail/Detail.do?bk=000000189756760001&prefkey=osaka&w=27220037&cf=0&ct=0&sf=0&st=0&b=06&n=B",
-          "observedAt": "2026-11-19T21:25:39+09:00"
+          "observedAt": "2026-11-22T08:56:50+09:00"
         },
         {
           "label": "SUUMO",
@@ -753,7 +835,7 @@
       "built": "2022-12",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-19T09:01:02+09:00",
+      "checkedAt": "2026-11-22T08:56:50+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -910,7 +992,7 @@
         {
           "label": "积水住宅官方",
           "url": "https://www.shamaison.com/osaka/area/27220/000327008032_142000/00000002700803200030001/",
-          "observedAt": "2026-11-19T09:01:02+09:00"
+          "observedAt": "2026-11-22T08:56:50+09:00"
         }
       ],
       "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000327008032_142000/00000002700803200030001/"

@@ -414,13 +414,13 @@
       "layout": "3LDK",
       "bedrooms": 3,
       "moveIn": "广告标即入住，实际空室待确认",
-      "lease": "定期借家至2037年3月；法人普通借家可商谈",
+      "lease": "定期借家至2037年3月31日，法人普通借家可商谈",
       "parking": "1台免费，第2台另1万日元/月",
-      "summary": "16万日元的年轻独栋线索；缺完整门牌和到校路线，暂不列入20分钟已核结果。",
+      "summary": "月租16万日元的两层独栋。最短骑行导航19分钟、4.9公里，经国道171号。有院子、两处停车空间。",
       "attention": [
-        "当前只公开到箕面6丁目，没有取得对应这套房的完整门牌，不能给出准确到校时间。",
-        "SUUMO明确写定期借家至2037年3月，法人普通借家可商谈；不把另一站的2年字段当普通租约。",
-        "发现同价同面积的东、西栋历史线索，尚不能把完整门牌唯一对应到当前出租栋；不绘制猜测路线。"
+        "最短骑行路线经国道171号，另外两条导航路线为24和25分钟。未实骑。",
+        "原中介标定期借家至2037年3月31日，法人签普通租约可商谈。",
+        "经纪费在原中介与SUUMO的显示不同。火灾保险和租赁保证均需加入，金额待核。"
       ],
       "fees": [
         {
@@ -441,7 +441,7 @@
         },
         {
           "label": "其他费用",
-          "value": "完整报价待核"
+          "value": "火灾保险和租赁保证另计，金额待核。经纪费报价有差异。"
         }
       ],
       "reviewedFacts": {
@@ -451,7 +451,7 @@
         "built_date": null,
         "size_m2": 79.67,
         "layout": "3LDK",
-        "public_address": "箕面6丁目仅街区，无公开完整门牌本轮未得",
+        "public_address": "大阪府箕面市箕面6丁目10-11",
         "deposit_yen": 160000,
         "key_money_yen": 320000,
         "nonrefundable_contract_one_time_yen": null,
@@ -463,49 +463,76 @@
         "lease": {
           "type": "fixed_term",
           "end_year_month": "2037-03",
-          "note": "SUUMO現招：定期借家2037年3月まで；法人契約普通借家相談可。at home仅2年未标类型，冲突待核"
+          "note": "原中介明确至2037年3月31日；法人可商谈普通借家。早期转载曾列2年。"
         },
         "move_in": "现广告即入住，实际空室待确认",
-        "extra_costs": null,
-        "qualification_status": "pending",
+        "extra_costs": {
+          "fire_insurance_yen": null,
+          "guarantor_fee_yen": null,
+          "brokerage_note": "原中介网站写月租1个月，SUUMO的条件栏写0.55个月，最终报价待核。"
+        },
+        "qualification_status": "verified_match",
         "listing_status": "advertised",
         "building_type": "detached_house",
         "unresolved_type_conflicts": [],
         "route": {
-          "mode": null,
-          "minutes": null,
-          "distance_km": null,
-          "elevation_up_m": null,
+          "mode": "bicycling",
+          "minutes": 19,
+          "distance_km": 4.9,
+          "elevation_up_m": 33,
           "slow_scenario_minutes": null,
-          "address_match_verified": null,
-          "origin_precision": null,
-          "address_to_school": null,
-          "destination_verified": null,
+          "address_match_verified": true,
+          "origin_precision": "exact_address",
+          "address_to_school": true,
+          "destination_verified": true,
           "includes_waiting_and_transfer": null
         }
       },
       "mediaOrder": [
-        "01.jpg",
-        "02.jpg"
+        "exterior-20261122.jpg",
+        "floorplan-20261122.jpg",
+        "living-20261122.jpg",
+        "bedroom-20261122.jpg",
+        "bath-20261122.jpg",
+        "washroom-20261122.jpg",
+        "toilet-20261122.jpg",
+        "garden-20261122.jpg",
+        "entry-20261122.jpg",
+        "parking-20261122.jpg",
+        "storage-20261122.jpg"
       ],
       "captionOverrides": {
-        "01.jpg": "原始户型图",
-        "02.jpg": "房屋外观"
+        "exterior-20261122.jpg": "房屋正面",
+        "floorplan-20261122.jpg": "完整两层户型图",
+        "living-20261122.jpg": "南向客厅",
+        "bedroom-20261122.jpg": "房间实拍",
+        "bath-20261122.jpg": "浴室",
+        "washroom-20261122.jpg": "洗面台",
+        "toilet-20261122.jpg": "卫生间",
+        "garden-20261122.jpg": "院子",
+        "entry-20261122.jpg": "玄关",
+        "parking-20261122.jpg": "停车位",
+        "storage-20261122.jpg": "收纳"
       },
-      "addressSourceObservedAt": "2026-11-07",
+      "addressSourceObservedAt": "2026-11-22T09:00:25+09:00",
       "extraSources": [
+        {
+          "label": "箕面不动产市场",
+          "url": "https://www.minoh-ichiba.jp/chintai/detail-65ec02af83588c61da811414/",
+          "observedAt": "2026-11-22T08:56:50+09:00"
+        },
         {
           "label": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100532872761/",
-          "observedAt": "2026-11-07T12:19:41+09:00"
+          "observedAt": "2026-11-22T08:56:51+09:00"
         },
         {
-          "label": "KIWAMI不动产",
-          "url": "https://www.kiwami-estate.jp/area_c1/bknarea_ki27220/%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A26%E4%B8%81%E7%9B%AE%E8%B2%B8%E5%AE%B6/room84851188.html",
-          "observedAt": "2026-11-07T14:00:39+09:00"
+          "label": "大阪租房资料页",
+          "url": "https://chintai-lab.jp/osaka/properties/atbb-6981686291/",
+          "observedAt": "2026-11-22T09:00:25+09:00"
         }
       ],
-      "publishPending": true
+      "publishPending": false
     },
     "N008": {
       "name": "石丸2丁目 B栋",

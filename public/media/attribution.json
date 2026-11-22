@@ -598,5 +598,101 @@
     "kind": "interior",
     "generated": false,
     "sourceSha256": "1ba11bd60794859b9b7b20a6cf0061d98c81058a9a9c71c791d1e5b8198b4ca7"
+  },
+  {
+    "file": "/media/N004/exterior-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_go.jpg",
+    "observedAt": "2026-11-22T09:03:31+09:00",
+    "kind": "exterior",
+    "generated": false,
+    "sourceSha256": "c686ad96560cb640905552a0a078a36a6df7315ffa130483b52b6a92708ee70c"
+  },
+  {
+    "file": "/media/N004/floorplan-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_co.jpg",
+    "observedAt": "2026-11-22T09:03:31+09:00",
+    "kind": "floorplan",
+    "generated": false,
+    "sourceSha256": "88b2d5aa93b154e0e401e07902cbfc3aa219d3d2e95ff9191c36e643f6d20f92"
+  },
+  {
+    "file": "/media/N004/living-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_ro.jpg",
+    "observedAt": "2026-11-22T09:03:31+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "5d3ba2f3b36810a899e79c3ab5e770b554e7ed2b32f62f4db8bc7dfb25b799a9"
+  },
+  {
+    "file": "/media/N004/bedroom-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_9o.jpg",
+    "observedAt": "2026-11-22T09:03:31+09:00",
+    "kind": "interior",
+    "generated": false,
+    "sourceSha256": "41ab98d40f53d1ea2b90c575b60f12e9471f7133f35604447a3e288d0b35f059"
+  },
+  {
+    "file": "/media/N004/bath-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_2o.jpg",
+    "observedAt": "2026-11-22T09:03:31+09:00",
+    "kind": "bath",
+    "generated": false,
+    "sourceSha256": "ce77322a2e9e8d04fccf502386ecd64251161b1298dce317f4aba9d4adb9206e"
+  },
+  {
+    "file": "/media/N004/washroom-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_4o.jpg",
+    "observedAt": "2026-11-22T09:03:32+09:00",
+    "kind": "washroom",
+    "generated": false,
+    "sourceSha256": "c6f527fbfee1d5403a8b4f18df866725bffb2ed9c5109aac253c91bbf37aa1a4"
+  },
+  {
+    "file": "/media/N004/toilet-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_3o.jpg",
+    "observedAt": "2026-11-22T09:03:32+09:00",
+    "kind": "toilet",
+    "generated": false,
+    "sourceSha256": "0681e5676b58fdb166f1af24d7891dcaeeb0043922c981a8ac35446c63678c24"
+  },
+  {
+    "file": "/media/N004/garden-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_6o.jpg",
+    "observedAt": "2026-11-22T09:03:32+09:00",
+    "kind": "other",
+    "generated": false,
+    "sourceSha256": "cb5b23717f899ff641e21f5c51bb6afb30b099c597fc50322b9e7bf001aad742"
+  },
+  {
+    "file": "/media/N004/entry-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_5o.jpg",
+    "observedAt": "2026-11-22T09:03:32+09:00",
+    "kind": "other",
+    "generated": false,
+    "sourceSha256": "e055119b7835dea64d8795a59ef90b6a523b84c8b6f234e6a777bf46e747c43c"
+  },
+  {
+    "file": "/media/N004/parking-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_11o.jpg",
+    "observedAt": "2026-11-22T09:03:32+09:00",
+    "kind": "other",
+    "generated": false,
+    "sourceSha256": "e0ad5251b362230bfbdebc0187e71caeb5e7c0bfb1d39b2dec93518c5c41b842"
+  },
+  {
+    "file": "/media/N004/storage-20261122.jpg",
+    "sourceUrl": "https://img01.suumo.com/front/gazo/fr/bukken/761/100532872761/100532872761_8o.jpg",
+    "observedAt": "2026-11-22T09:03:31+09:00",
+    "kind": "other",
+    "generated": false,
+    "sourceSha256": "6804453b27e617f1572ce877cd06e5d14d224822f62aa0453319779ff2b15084"
+  },
+  {
+    "file": "/media/N004/route-20261122.png",
+    "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E7%AE%95%E9%9D%A26%E4%B8%81%E7%9B%AE10-11&destination=Senri%20%26%20Osaka%20International%20Schools%20of%20Kwansei%20Gakuin%2C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E5%B0%8F%E9%87%8E%E5%8E%9F%E8%A5%BF4-4-16&travelmode=bicycling",
+    "observedAt": "2026-11-22T09:29:21+09:00",
+    "kind": "route",
+    "generated": false,
+    "sourceSha256": "e2c19f1307d70c76bcfbe768d628ddff57b1597f6674f19db03ba18920915b48"
   }
 ]
