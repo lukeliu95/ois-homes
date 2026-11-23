@@ -710,12 +710,12 @@
       "moveIn": "广告预计2026年12月上旬，实际竣工及入住日待核",
       "lease": "普通借家 · 2年",
       "parking": "1台免费，广告称可停2台，第2台条件待核",
-      "summary": "100.4平方米的两层新建独栋，月租28万日元。现已公开房屋照片和两层户型，完整门牌待核。",
-      "statusNote": "广告只公开到丁目，完整门牌与实际通学待核",
+      "summary": "28万日元，100.4平方米。小野原西3丁目20-8的两层独栋，按门牌登记坐标到OIS骑车约2分钟。",
+      "statusNote": "已核公开门牌、通学和照片。实际竣工、交付及空室待确认。",
       "attention": [
-        "广告建月为2026年11月，入住栏仍写建设中、预计12月上旬。实际竣工、入住日及空室待确认。",
-        "原广告显示4LDK。旧广告将约3.8帖的小房标为储物间，具体用途待核。",
-        "押金28万、礼金56万。管理费以实际报价为准，其他费用见下方。"
+        "广告建月为2026年11月。Able入住栏仍写建设中、预计12月上旬，另两份广告列12月；实际竣工、入住日和空室待核。",
+        "现刊户型为4LDK，旧广告把约3.8帖的小房列为储物间，具体用途待核。",
+        "不同中介的费用分开列出，签约前可对照各自明细。"
       ],
       "fees": [
         {
@@ -739,8 +739,12 @@
           "value": "广告列15.4万日元（含税）"
         },
         {
-          "label": "其他费用",
+          "label": "其他费用（Able）",
           "value": "初期消毒25,300日元、支持费22,000日元、每月保险等1,250日元，保证费另计"
+        },
+        {
+          "label": "另一中介报价（HOME’S）",
+          "value": "续约费为新租金1个月，保证费初次为月租等50%、以后为月付总额2%，另列灭火器6,930日元。"
         }
       ],
       "reviewedFacts": {
@@ -750,7 +754,7 @@
         "built_date": null,
         "size_m2": 100.4,
         "layout": "4LDK（另一旧版本3LDK+S，3.8帖房口径待核）",
-        "public_address": "大阪府箕面市小野原西3丁目（B棟，仅丁目）",
+        "public_address": "大阪府箕面市小野原西3丁目20-8（B栋）",
         "deposit_yen": 280000,
         "key_money_yen": 560000,
         "nonrefundable_contract_one_time_yen": null,
@@ -784,20 +788,20 @@
             "note": "Able11/14明确广告金额；符合资格的重复客户138600为另一有条件优惠，不当普通报价。"
           }
         ],
-        "qualification_status": "pending",
+        "qualification_status": "verified_match",
         "listing_status": "advertised",
         "building_type": "detached_house",
         "unresolved_type_conflicts": [],
         "route": {
-          "mode": null,
-          "minutes": null,
-          "distance_km": null,
-          "elevation_up_m": null,
+          "mode": "bicycling",
+          "minutes": 2,
+          "distance_km": 0.35,
+          "elevation_up_m": 3,
           "slow_scenario_minutes": null,
-          "address_match_verified": null,
-          "origin_precision": null,
-          "address_to_school": null,
-          "destination_verified": null,
+          "address_match_verified": true,
+          "origin_precision": "exact_address",
+          "address_to_school": true,
+          "destination_verified": true,
           "includes_waiting_and_transfer": null
         }
       },
@@ -815,26 +819,33 @@
         "20261119-exterior-angle.jpg": "B栋侧面",
         "20261119-entry.jpg": "玄关外侧",
         "20261119-parking.jpg": "房前停车区",
-        "20261119-floor-plan.jpg": "两层原始户型图"
+        "20261119-floor-plan.jpg": "两层原始户型图",
+        "route-20261123.png": "门牌登记坐标到OIS的骑车导航"
       },
       "extraSources": [
         {
           "label": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100527787208/",
-          "observedAt": "2026-11-19T21:25:39+09:00"
+          "observedAt": "2026-11-23T09:25:20+09:00"
         },
         {
           "label": "CHINTAI",
           "url": "https://www.chintai.net/detail/bk/0000001890000000007567600001/",
-          "observedAt": "2026-11-19T21:25:39+09:00"
+          "observedAt": "2026-11-23T09:25:21+09:00"
+        },
+        {
+          "label": "LIFULL HOME’S · 绿地公园店",
+          "url": "https://www.homes.co.jp/chintai/b-1490690067987/",
+          "observedAt": "2026-11-23T09:35:11+09:00"
+        },
+        {
+          "label": "Housecom",
+          "url": "https://www.housecom.jp/room_5880509/",
+          "observedAt": "2026-11-23T09:31:10+09:00"
         }
       ],
-      "referenceRoute": {
-        "url": "https://www.google.com/maps/dir/?api=1&origin=34.831684%2C135.510611&destination=Osaka%20International%20School%20of%20Kwansei%20Gakuin%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E5%B0%8F%E9%87%8E%E5%8E%9F%E8%A5%BF4-4-16&travelmode=bicycling",
-        "note": "从广告地图点到OIS骑车约2分钟、300米（11月19日查询）。起点未核实为B栋门牌。",
-        "observedAt": "2026-11-19"
-      },
-      "publishPending": true
+      "publishPending": false,
+      "addressSourceObservedAt": "2026-11-23T09:32:39+09:00"
     }
   }
 }

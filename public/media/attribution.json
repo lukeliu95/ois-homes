@@ -694,5 +694,13 @@
     "kind": "route",
     "generated": false,
     "sourceSha256": "e2c19f1307d70c76bcfbe768d628ddff57b1597f6674f19db03ba18920915b48"
+  },
+  {
+    "file": "/media/N007/route-20261123.png",
+    "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=34.831962418%2C135.510920796&destination=Osaka%20International%20School%20of%20Kwansei%20Gakuin%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E5%B0%8F%E9%87%8E%E5%8E%9F%E8%A5%BF4-4-16&travelmode=bicycling",
+    "observedAt": "2026-11-23T09:33:55+09:00",
+    "kind": "route",
+    "generated": false,
+    "sourceSha256": "ee35d0160a86a2a4b919663e6807bb5ab3a686807a3b3b1f5c28d8fa77eaf8bf"
   }
 ]

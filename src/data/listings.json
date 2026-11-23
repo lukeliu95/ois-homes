@@ -4,7 +4,7 @@
     "address": "大阪府箕面市小野原西4-4-16",
     "url": "https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location"
   },
-  "dataAsOf": "2026-11-22T09:29:21+09:00",
+  "dataAsOf": "2026-11-23T09:33:55+09:00",
   "homes": [
     {
       "id": "N002",
@@ -75,7 +75,7 @@
       "built": "2011-09",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-22T08:56:49+09:00",
+      "checkedAt": "2026-11-23T09:25:19+09:00",
       "parkingYen": 15000,
       "photos": [
         {
@@ -232,7 +232,7 @@
         {
           "label": "Able",
           "url": "https://www.able.co.jp/detail/Detail.do?bk=000000763191677001",
-          "observedAt": "2026-11-22T08:56:49+09:00"
+          "observedAt": "2026-11-23T09:25:19+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -288,7 +288,7 @@
       "built": "2024-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-22T08:56:49+09:00",
+      "checkedAt": "2026-11-23T09:25:19+09:00",
       "parkingYen": 0,
       "areaNote": "1间卧室；77.83㎡为两层合计，1楼以车库为主",
       "photos": [
@@ -385,7 +385,7 @@
         {
           "label": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100535092205/",
-          "observedAt": "2026-11-22T08:56:49+09:00"
+          "observedAt": "2026-11-23T09:25:19+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -440,7 +440,7 @@
       "built": "2007-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-22T08:56:50+09:00",
+      "checkedAt": "2026-11-23T09:25:20+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -557,7 +557,7 @@
         {
           "label": "www.minoh-ichiba.jp",
           "url": "https://www.minoh-ichiba.jp/chintai/detail-65ec02af83588c61da811414/",
-          "observedAt": "2026-11-22T08:56:50+09:00"
+          "observedAt": "2026-11-23T09:25:20+09:00"
         },
         {
           "label": "chintai-lab.jp",
@@ -576,11 +576,11 @@
       "moveIn": "广告预计2026年12月上旬，实际竣工及入住日待核",
       "lease": "普通借家 · 2年",
       "parking": "1台免费，广告称可停2台，第2台条件待核",
-      "summary": "100.4平方米的两层新建独栋，月租28万日元。现已公开房屋照片和两层户型，完整门牌待核。",
+      "summary": "28万日元，100.4平方米。小野原西3丁目20-8的两层独栋，按门牌登记坐标到OIS骑车约2分钟。",
       "attention": [
-        "广告建月为2026年11月，入住栏仍写建设中、预计12月上旬。实际竣工、入住日及空室待确认。",
-        "原广告显示4LDK。旧广告将约3.8帖的小房标为储物间，具体用途待核。",
-        "押金28万、礼金56万。管理费以实际报价为准，其他费用见下方。"
+        "广告建月为2026年11月。Able入住栏仍写建设中、预计12月上旬，另两份广告列12月；实际竣工、入住日和空室待核。",
+        "现刊户型为4LDK，旧广告把约3.8帖的小房列为储物间，具体用途待核。",
+        "不同中介的费用分开列出，签约前可对照各自明细。"
       ],
       "fees": [
         {
@@ -604,19 +604,23 @@
           "value": "广告列15.4万日元（含税）"
         },
         {
-          "label": "其他费用",
+          "label": "其他费用（Able）",
           "value": "初期消毒25,300日元、支持费22,000日元、每月保险等1,250日元，保证费另计"
+        },
+        {
+          "label": "另一中介报价（HOME’S）",
+          "value": "续约费为新租金1个月，保证费初次为月租等50%、以后为月付总额2%，另列灭火器6,930日元。"
         }
       ],
       "formalName": "仮）箕面市小野原西3丁目戸建B棟",
-      "address": "大阪府箕面市小野原西3丁目（B棟，仅丁目）",
+      "address": "大阪府箕面市小野原西3丁目20-8（B栋）",
       "rentYen": 280000,
       "managementFeeYen": null,
       "sizeM2": 100.4,
       "built": "2026-11",
-      "status": "pending",
-      "statusNote": "广告只公开到丁目，完整门牌与实际通学待核",
-      "checkedAt": "2026-11-22T08:56:50+09:00",
+      "status": "verified",
+      "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
+      "checkedAt": "2026-11-23T09:25:20+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -740,30 +744,55 @@
           "height": 700
         }
       ],
-      "commute": null,
+      "commute": {
+        "mode": "bicycling",
+        "minutes": 2,
+        "distanceKm": 0.35,
+        "ascentM": 3,
+        "slowMinutes": null,
+        "note": "按门牌登记资料中20-8的坐标导航，到OIS地址点约2分钟、350米。Google对同一坐标显示相邻20-7标签。未实骑，玄关、学校入口及校内步行未现场核对。",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=34.831962418%2C135.510920796&destination=Osaka%20International%20School%20of%20Kwansei%20Gakuin%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E5%B0%8F%E9%87%8E%E5%8E%9F%E8%A5%BF4-4-16&travelmode=bicycling",
+        "observedAt": "2026-11-23T09:33:55+09:00",
+        "image": {
+          "src": "/media/N007/route-20261123.png",
+          "kind": "route",
+          "caption": "门牌登记坐标到OIS的骑车导航",
+          "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=34.831962418%2C135.510920796&destination=Osaka%20International%20School%20of%20Kwansei%20Gakuin%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E5%B0%8F%E9%87%8E%E5%8E%9F%E8%A5%BF4-4-16&travelmode=bicycling"
+        }
+      },
       "sources": [
+        {
+          "label": "LIFULL HOME’S",
+          "url": "https://www.homes.co.jp/chintai/b-1034430215804/",
+          "observedAt": "2026-11-23T09:32:39+09:00"
+        },
         {
           "label": "Able",
           "url": "https://www.able.co.jp/kodate/detail/Detail.do?bk=000000189756760001&prefkey=osaka&w=27220037&cf=0&ct=0&sf=0&st=0&b=06&n=B",
-          "observedAt": "2026-11-22T08:56:50+09:00"
+          "observedAt": "2026-11-23T09:25:20+09:00"
         },
         {
           "label": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100527787208/",
-          "observedAt": "2026-11-19T21:25:39+09:00"
+          "observedAt": "2026-11-23T09:25:20+09:00"
         },
         {
           "label": "CHINTAI",
           "url": "https://www.chintai.net/detail/bk/0000001890000000007567600001/",
-          "observedAt": "2026-11-19T21:25:39+09:00"
+          "observedAt": "2026-11-23T09:25:21+09:00"
+        },
+        {
+          "label": "LIFULL HOME’S · 绿地公园店",
+          "url": "https://www.homes.co.jp/chintai/b-1490690067987/",
+          "observedAt": "2026-11-23T09:35:11+09:00"
+        },
+        {
+          "label": "Housecom",
+          "url": "https://www.housecom.jp/room_5880509/",
+          "observedAt": "2026-11-23T09:31:10+09:00"
         }
       ],
-      "sourceUrl": "https://www.able.co.jp/kodate/detail/Detail.do?bk=000000189756760001&prefkey=osaka&w=27220037&cf=0&ct=0&sf=0&st=0&b=06&n=B",
-      "referenceRoute": {
-        "url": "https://www.google.com/maps/dir/?api=1&origin=34.831684%2C135.510611&destination=Osaka%20International%20School%20of%20Kwansei%20Gakuin%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E7%AE%95%E9%9D%A2%E5%B8%82%E5%B0%8F%E9%87%8E%E5%8E%9F%E8%A5%BF4-4-16&travelmode=bicycling",
-        "note": "从广告地图点到OIS骑车约2分钟、300米（11月19日查询）。起点未核实为B栋门牌。",
-        "observedAt": "2026-11-19"
-      }
+      "sourceUrl": "https://www.able.co.jp/kodate/detail/Detail.do?bk=000000189756760001&prefkey=osaka&w=27220037&cf=0&ct=0&sf=0&st=0&b=06&n=B"
     },
     {
       "id": "N008",
@@ -835,7 +864,7 @@
       "built": "2022-12",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-22T08:56:50+09:00",
+      "checkedAt": "2026-11-23T09:25:20+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -992,7 +1021,7 @@
         {
           "label": "积水住宅官方",
           "url": "https://www.shamaison.com/osaka/area/27220/000327008032_142000/00000002700803200030001/",
-          "observedAt": "2026-11-22T08:56:50+09:00"
+          "observedAt": "2026-11-23T09:25:20+09:00"
         }
       ],
       "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000327008032_142000/00000002700803200030001/"
