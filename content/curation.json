@@ -6,14 +6,14 @@
       "neighborhood": "箕面 · 箕面3丁目",
       "layout": "4LDK",
       "bedrooms": 4,
-      "moveIn": "广告指定12月20日，跨站日期有差异",
+      "moveIn": "at home写12月20日，Able预计12月中旬，另一中介写协商",
       "lease": "普通借家 · 2年",
       "parking": "1台，另1.5万日元/月",
       "summary": "四间卧室，更接近20万预算。月租加一个车位19.5万日元，其他费用另计。",
       "attention": [
-        "入住日期跨站不一致，当前at home指定2026年12月20日，实际交付日待确认。",
+        "at home指定2026年12月20日，Able预计12月中旬，いい部屋写入住日协商。HOME’S旧广告的11月下旬已结束，实际交付日待确认。",
         "到校导航15分钟；按12公里/小时加3分钟缓冲，慢骑情景约23分钟。",
-        "除4LDK/4SLDK口径不同，Able与at home的户型房间分配和面积也有差异；先展示主广告at home版本，正式户型待核。"
+        "先展示at home主广告户型。Able版的房间分配和面积有差异，待核；HOME’S历史参考写4SLDK。"
       ],
       "fees": [
         {
@@ -67,7 +67,7 @@
         "built_year_month": "2011-09",
         "built_date": null,
         "size_m2": 105.13,
-        "layout": "4LDK（另HOME'S为4SLDK，储物空间口径有差）",
+        "layout": "4LDK（HOME’S历史参考为4SLDK）",
         "public_address": "大阪府箕面市箕面3丁目7番27号",
         "deposit_yen": 0,
         "key_money_yen": 360000,
@@ -80,9 +80,9 @@
         "lease": {
           "type": "ordinary",
           "term_months": 24,
-          "note": "普通2年有当前Able与いい部屋广告佐证"
+          "note": "普通借家2年由当前Able和いい部屋新广告佐证。"
         },
-        "move_in": "at home指定2026-12-20；Able12月中旬；HOME'S11月下旬；いい部屋応相談，需核最终交付日",
+        "move_in": "at home指定2026-12-20；Able预计12月中旬；いい部屋当前广告协商，交付日待确认",
         "extra_costs": {
           "cleaning_yen": 94100,
           "key_exchange_yen": 33000,
@@ -148,7 +148,18 @@
         "14.jpg": "卫生间"
       },
       "addressSourceObservedAt": "2026-11-07",
-      "extraSources": [],
+      "extraSources": [
+        {
+          "label": "at home（主广告）",
+          "url": "https://www.athome.co.jp/chintai/1106992437/",
+          "observedAt": "2026-11-25T08:59:20+09:00"
+        },
+        {
+          "label": "いい部屋（当前广告）",
+          "url": "https://www.eheya.net/detail/300001683083007000001/",
+          "observedAt": "2026-11-25T09:01:01+09:00"
+        }
+      ],
       "publishPending": false
     },
     "N003": {
@@ -303,13 +314,13 @@
       "neighborhood": "箕面 · 粟生间谷西5丁目",
       "layout": "1SLDK",
       "bedrooms": 1,
-      "moveIn": "SUUMO写协商，另一站写即入住，交付日待确认",
+      "moveIn": "当前广告写入住日协商，交付日待确认",
       "lease": "普通借家 · 2年",
       "parking": "广告含2台，尺寸与停放方式待核",
       "summary": "2024年建，车库是这套房的重点。只有一间卧室，适合重视停车空间的人取舍。",
       "attention": [
         "77.83㎡是两层合计：1楼38.09㎡、2楼39.74㎡。户型中1楼主要是车库，不能按77.83㎡纯住宅面积理解。",
-        "两站建材与入住口径不同：SUUMO写木造、协商；HOME’S写轻钢、即入住，最终材料与交付日待确认。",
+        "SUUMO写木造。HOME’S旧广告列轻钢及即入住，现已结束。实际建筑材料和交付日待确认。",
         "月租25万日元，较20万目标高5万；当前原站管理费仅写“—”，尚未核得金额。",
         "普通借家2年已有同经纪当前广告佐证；原户型图640×243，放大不会增加细节。"
       ],
@@ -341,7 +352,7 @@
         "built_year_month": "2024-02",
         "built_date": null,
         "size_m2": 77.83,
-        "layout": "SUUMO1SLDK；HOME'S1LDK",
+        "layout": "SUUMO 1SLDK；HOME’S历史参考1LDK",
         "public_address": "大阪府箕面市粟生間谷西5丁目13-8",
         "deposit_yen": 0,
         "key_money_yen": 500000,
@@ -356,7 +367,7 @@
           "term_months": 24,
           "note": "同一富士ホームSUUMO物件代码612389明确普通借家2年；与旧at home管理号262160000612389同屋匹配。"
         },
-        "move_in": "SUUMO相談；HOME'S即時，交付日仍需核",
+        "move_in": "当前SUUMO：入住日协商，交付日待确认",
         "extra_costs": null,
         "qualification_status": "verified_match",
         "listing_status": "advertised",
@@ -400,7 +411,7 @@
       "addressSourceObservedAt": "2026-11-07",
       "extraSources": [
         {
-          "label": "LIFULL HOME’S",
+          "label": "LIFULL HOME’S（历史门牌参考）",
           "url": "https://www.homes.co.jp/chintai/b-1578820003461/",
           "observedAt": "2026-11-08T08:59:29.383+09:00"
         }

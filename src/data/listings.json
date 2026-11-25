@@ -4,7 +4,7 @@
     "address": "大阪府箕面市小野原西4-4-16",
     "url": "https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location"
   },
-  "dataAsOf": "2026-11-23T09:33:55+09:00",
+  "dataAsOf": "2026-11-25T08:57:26+09:00",
   "homes": [
     {
       "id": "N002",
@@ -12,14 +12,14 @@
       "neighborhood": "箕面 · 箕面3丁目",
       "layout": "4LDK",
       "bedrooms": 4,
-      "moveIn": "广告指定12月20日，跨站日期有差异",
+      "moveIn": "at home写12月20日，Able预计12月中旬，另一中介写协商",
       "lease": "普通借家 · 2年",
       "parking": "1台，另1.5万日元/月",
       "summary": "四间卧室，更接近20万预算。月租加一个车位19.5万日元，其他费用另计。",
       "attention": [
-        "入住日期跨站不一致，当前at home指定2026年12月20日，实际交付日待确认。",
+        "at home指定2026年12月20日，Able预计12月中旬，いい部屋写入住日协商。HOME’S旧广告的11月下旬已结束，实际交付日待确认。",
         "到校导航15分钟；按12公里/小时加3分钟缓冲，慢骑情景约23分钟。",
-        "除4LDK/4SLDK口径不同，Able与at home的户型房间分配和面积也有差异；先展示主广告at home版本，正式户型待核。"
+        "先展示at home主广告户型。Able版的房间分配和面积有差异，待核；HOME’S历史参考写4SLDK。"
       ],
       "fees": [
         {
@@ -75,7 +75,7 @@
       "built": "2011-09",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-23T09:25:19+09:00",
+      "checkedAt": "2026-11-25T08:56:05+09:00",
       "parkingYen": 15000,
       "photos": [
         {
@@ -232,12 +232,22 @@
         {
           "label": "Able",
           "url": "https://www.able.co.jp/detail/Detail.do?bk=000000763191677001",
-          "observedAt": "2026-11-23T09:25:19+09:00"
+          "observedAt": "2026-11-25T08:56:05+09:00"
         },
         {
           "label": "LIFULL HOME’S",
           "url": "https://www.homes.co.jp/chintai/b-1168730108247/",
           "observedAt": "2026-11-07"
+        },
+        {
+          "label": "at home（主广告）",
+          "url": "https://www.athome.co.jp/chintai/1106992437/",
+          "observedAt": "2026-11-25T08:59:20+09:00"
+        },
+        {
+          "label": "いい部屋（当前广告）",
+          "url": "https://www.eheya.net/detail/300001683083007000001/",
+          "observedAt": "2026-11-25T09:01:01+09:00"
         }
       ],
       "sourceUrl": "https://www.athome.co.jp/chintai/1106992437/"
@@ -248,13 +258,13 @@
       "neighborhood": "箕面 · 粟生间谷西5丁目",
       "layout": "1SLDK",
       "bedrooms": 1,
-      "moveIn": "SUUMO写协商，另一站写即入住，交付日待确认",
+      "moveIn": "当前广告写入住日协商，交付日待确认",
       "lease": "普通借家 · 2年",
       "parking": "广告含2台，尺寸与停放方式待核",
       "summary": "2024年建，车库是这套房的重点。只有一间卧室，适合重视停车空间的人取舍。",
       "attention": [
         "77.83㎡是两层合计：1楼38.09㎡、2楼39.74㎡。户型中1楼主要是车库，不能按77.83㎡纯住宅面积理解。",
-        "两站建材与入住口径不同：SUUMO写木造、协商；HOME’S写轻钢、即入住，最终材料与交付日待确认。",
+        "SUUMO写木造。HOME’S旧广告列轻钢及即入住，现已结束。实际建筑材料和交付日待确认。",
         "月租25万日元，较20万目标高5万；当前原站管理费仅写“—”，尚未核得金额。",
         "普通借家2年已有同经纪当前广告佐证；原户型图640×243，放大不会增加细节。"
       ],
@@ -288,7 +298,7 @@
       "built": "2024-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-23T09:25:19+09:00",
+      "checkedAt": "2026-11-25T08:57:26+09:00",
       "parkingYen": 0,
       "areaNote": "1间卧室；77.83㎡为两层合计，1楼以车库为主",
       "photos": [
@@ -385,7 +395,7 @@
         {
           "label": "SUUMO",
           "url": "https://suumo.jp/chintai/bc_100535092205/",
-          "observedAt": "2026-11-23T09:25:19+09:00"
+          "observedAt": "2026-11-25T08:57:26+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -440,7 +450,7 @@
       "built": "2007-02",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-23T09:25:20+09:00",
+      "checkedAt": "2026-11-25T08:56:05+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -557,7 +567,7 @@
         {
           "label": "www.minoh-ichiba.jp",
           "url": "https://www.minoh-ichiba.jp/chintai/detail-65ec02af83588c61da811414/",
-          "observedAt": "2026-11-23T09:25:20+09:00"
+          "observedAt": "2026-11-25T08:56:05+09:00"
         },
         {
           "label": "chintai-lab.jp",
@@ -620,7 +630,7 @@
       "built": "2026-11",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-23T09:25:20+09:00",
+      "checkedAt": "2026-11-25T08:56:05+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -769,7 +779,7 @@
         {
           "label": "Able",
           "url": "https://www.able.co.jp/kodate/detail/Detail.do?bk=000000189756760001&prefkey=osaka&w=27220037&cf=0&ct=0&sf=0&st=0&b=06&n=B",
-          "observedAt": "2026-11-23T09:25:20+09:00"
+          "observedAt": "2026-11-25T08:56:05+09:00"
         },
         {
           "label": "SUUMO",
@@ -864,7 +874,7 @@
       "built": "2022-12",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-23T09:25:20+09:00",
+      "checkedAt": "2026-11-25T08:56:06+09:00",
       "parkingYen": 0,
       "photos": [
         {
@@ -1021,7 +1031,7 @@
         {
           "label": "积水住宅官方",
           "url": "https://www.shamaison.com/osaka/area/27220/000327008032_142000/00000002700803200030001/",
-          "observedAt": "2026-11-23T09:25:20+09:00"
+          "observedAt": "2026-11-25T08:56:06+09:00"
         }
       ],
       "sourceUrl": "https://www.shamaison.com/osaka/area/27220/000327008032_142000/00000002700803200030001/"
