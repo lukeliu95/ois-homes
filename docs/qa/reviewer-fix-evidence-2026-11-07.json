@@ -1,0 +1,48 @@
+{
+  "elements": [
+    {
+      "bottom": 434.390625,
+      "selector": "#detail-title",
+      "text": "箕面3丁目 A栋",
+      "top": 401.9921875,
+      "visible": true
+    },
+    {
+      "bottom": 462.390625,
+      "selector": ".detail-rent",
+      "text": "18万日元每月租金 · 管理费无",
+      "top": 401.9921875,
+      "visible": true
+    },
+    {
+      "bottom": 465.7890625,
+      "selector": ".headline-facts",
+      "text": "4LDK · 105.13㎡ · 约15年 · 骑车导航15分钟",
+      "top": 442.390625,
+      "visible": true
+    },
+    {
+      "bottom": 520.7890625,
+      "selector": ".detail-actions .primary-button",
+      "text": "查看原始房源",
+      "top": 479.7890625,
+      "visible": true
+    },
+    {
+      "bottom": 520.7890625,
+      "selector": ".detail-actions .secondary-button",
+      "text": "加入对比",
+      "top": 479.7890625,
+      "visible": true
+    }
+  ],
+  "photo": 581.7890625,
+  "viewport": {
+    "height": 720,
+    "width": 1280
+  },
+  "mobile": {
+    "scrollWidth": 390,
+    "width": 390
+  }
+}

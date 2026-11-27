@@ -1,0 +1,952 @@
+{
+  "scope": "Existing unchanged CSS only; no CSS changes, no whole-rule or whole-file suppression.",
+  "cssSha256": "d0da29fe71a3e42e31d8a1fe3b890e678496466365cffd4839eba8397fec9745",
+  "findingsReviewed": 118,
+  "scopedValueExceptions": 26,
+  "triage": [
+    {
+      "rule": "design-system-color",
+      "line": 81,
+      "value": "#efd7d5",
+      "context": "  outline: 2px solid var(--red);   outline-offset: 4px; } ::selection {   background: #efd7d5;   color: #40181b;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-color",
+      "line": 82,
+      "value": "#40181b",
+      "context": "  outline-offset: 4px; } ::selection {   background: #efd7d5;   color: #40181b; }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 123,
+      "value": "21px",
+      "context": "  display: inline-flex;   align-items: center;   gap: 9px;   text-decoration: none;   font-size: 21px;   font-weight: 720;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-radius",
+      "line": 136,
+      "value": "9px",
+      "context": "  display: grid;   place-items: center;   width: 34px;   height: 34px;   border-radius: 9px;   background: var(--red);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 157,
+      "value": "13px",
+      "context": "  justify-content: center;   gap: 7px;   padding: 7px 0;   min-height: 36px;   font-size: 13px;   font-weight: 500;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 165,
+      "value": "11px",
+      "context": ".text-button:hover {   color: var(--red); } .favorites-filter span {   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 210,
+      "value": "13px",
+      "context": ".school-anchor > svg:first-child {   color: var(--red); } .school-anchor strong {   font-size: 13px;   font-weight: 600;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 239,
+      "value": "11px",
+      "context": "  min-width: 0; } .price-field legend, .select-field > span {   font-size: 11px;   font-weight: 550;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 271,
+      "value": "13px",
+      "context": "  min-width: 125px; } .select-field select {   width: 100%;   font-size: 13px;   background: #fff;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 305,
+      "value": "16px",
+      "context": "  align-items: baseline;   gap: 14px; } .results-toolbar strong {   font-size: 16px;   font-weight: 650;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-color",
+      "line": 344,
+      "value": "#b4b1a9",
+      "context": "  background: #fafaf8; } .listing-item.selected {   background: #f5f4f0;   border-color: #b4b1a9; }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 369,
+      "value": "23px",
+      "context": "  flex-direction: column;   gap: 3px; } .listing-price {   font-size: 23px;   font-weight: 650;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 376,
+      "value": "11px",
+      "context": "  letter-spacing: -0.02em;   font-variant-numeric: tabular-nums; } .listing-price small {   font-size: 11px;   font-weight: 400;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 382,
+      "value": "13px",
+      "context": "  letter-spacing: 0;   margin-left: 4px; } .listing-info > strong {   font-size: 13px;   font-weight: 600;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 388,
+      "value": "11px",
+      "context": "  line-height: 1.5;   margin-top: 3px; } .listing-info > span:not(.listing-price) {   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 414,
+      "value": "11px",
+      "context": ".listing-foot label {   display: flex;   align-items: center;   gap: 7px;   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 434,
+      "value": "11px",
+      "context": "  color: var(--red); } .listing-disclaimer {   color: var(--muted);   font-size: 11px;   line-height: 1.8;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 449,
+      "value": "11px",
+      "context": "  font-size: 12px;   font-weight: 550; } .pending-tip p {   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 454,
+      "value": "11px",
+      "context": "  color: var(--muted);   margin: 5px 0; } .pending-tip button {   font-size: 11px;   white-space: normal;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 468,
+      "value": "11px",
+      "context": "  display: flex;   justify-content: space-between;   gap: 15px;   align-items: center;   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-color",
+      "line": 479,
+      "value": "#4f5c4d",
+      "context": "  align-items: center;   gap: 5px; } .listing-status {   color: #4f5c4d; }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 505,
+      "value": "10px",
+      "context": "  border-bottom-color: var(--ink);   font-weight: 650; } .gallery-controls button span {   font-size: 10px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 512,
+      "value": "10px",
+      "context": "  margin-left: 3px; } .image-hint {   margin-left: auto;   font-size: 10px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 549,
+      "value": "10px",
+      "context": "  background: #fff;   padding: 6px 9px;   border-radius: 5px;   color: var(--ink);   font-size: 10px; }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-color",
+      "line": 581,
+      "value": "rgba(20, 20, 18, 0.5)",
+      "context": "} .gallery-thumbs > button > span:not(.image-unavailable) {   position: absolute;   inset: 0;   background: rgba(20, 20, 18, 0.5);   color: #fff;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 603,
+      "value": "10px",
+      "context": "  right: 151px;   bottom: 12px;   background: #fff;   border-radius: 5px;   font-size: 10px;   padding: 6px 9px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 648,
+      "value": "11px",
+      "context": ".route-caption > a {   display: flex;   align-items: center;   gap: 5px;   font-size: 11px; }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 652,
+      "value": "11px",
+      "context": "  font-size: 11px; } .route-caption p {   flex: 1 0 100%;   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 680,
+      "value": "13px",
+      "context": "  color: var(--muted); } .detail-heading .headline-facts {   color: var(--ink);   font-size: 13px;   line-height: 1.8;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 696,
+      "value": "13px",
+      "context": "  letter-spacing: -0.025em;   font-variant-numeric: tabular-nums; } .detail-rent > strong > span {   font-size: 13px;   letter-spacing: 0;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 704,
+      "value": "10px",
+      "context": "} .detail-rent small {   display: block;   margin-top: 6px;   font-size: 10px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 722,
+      "value": "20px",
+      "context": "  flex-direction: column;   gap: 4px; } .key-facts strong {   font-size: 20px;   font-weight: 600;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 729,
+      "value": "11px",
+      "context": "  font-variant-numeric: tabular-nums;   line-height: 1.3; } .key-facts strong small {   font-size: 11px;   font-weight: 450;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 734,
+      "value": "10px",
+      "context": "  font-weight: 450;   margin-left: 3px; } .key-facts > div > span {   font-size: 10px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-color",
+      "line": 775,
+      "value": "#3f503d",
+      "context": "  background: #e9e7e1; } .secondary-button.is-compared {   background: #e9ece6;   color: #3f503d; }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 778,
+      "value": "10px",
+      "context": "  background: #e9ece6;   color: #3f503d; } .ad-observed {   font-size: 10px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 807,
+      "value": "13px",
+      "context": "  min-height: 215px;   max-width: 100%; } .detail-panel h3 {   font-size: 13px;   font-weight: 600;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-color",
+      "line": 837,
+      "value": "#56534d",
+      "context": "} .attention-list {   padding-left: 17px;   margin: 7px 0 0;   color: #56534d;   max-width: 95ch;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 856,
+      "value": "11px",
+      "context": "  justify-content: space-between;   gap: 15px;   padding: 9px 0;   border-bottom: 1px solid var(--line);   font-size: 11px; }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 876,
+      "value": "11px",
+      "context": ".commute-heading h3 {   margin: 0; } .commute-heading p {   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 888,
+      "value": "10px",
+      "context": "  color: var(--red);   margin-top: 12px; } .source-time {   font-size: 10px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 908,
+      "value": "10px",
+      "context": "} .source-list small {   display: block;   color: var(--muted);   font-size: 10px;   margin-top: 3px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 915,
+      "value": "11px",
+      "context": ".copy-link {   margin-top: 10px; } .copy-status {   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 924,
+      "value": "10px",
+      "context": "  display: flex;   align-items: center;   gap: 7px 24px;   flex-wrap: wrap;   font-size: 10px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 975,
+      "value": "11px",
+      "context": "  gap: 8px;   background: var(--wash);   padding: 7px 9px;   border-radius: 5px;   font-size: 11px;   max-width: 230px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 984,
+      "value": "11px",
+      "context": "  align-items: center;   gap: 21px; } .tray-actions > .text-button {   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-radius",
+      "line": 991,
+      "value": "13px",
+      "context": ".photo-dialog, .compare-dialog {   padding: 0;   border: 0;   border-radius: 13px;   color: var(--ink);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-color",
+      "line": 998,
+      "value": "rgba(23, 22, 19, 0.7)",
+      "context": "  max-width: calc(100vw - 48px);   max-height: calc(100dvh - 48px); } dialog::backdrop {   background: rgba(23, 22, 19, 0.7); }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1015,
+      "value": "17px",
+      "context": "  padding: 16px 23px;   border-bottom: 1px solid var(--line); } .dialog-header strong {   font-size: 17px;   font-weight: 600;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1020,
+      "value": "11px",
+      "context": "  font-weight: 600;   display: block; } .dialog-header span {   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1062,
+      "value": "11px",
+      "context": ".photo-tools {   display: flex;   align-items: center;   gap: 18px;   font-size: 11px; }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1073,
+      "value": "11px",
+      "context": ".photo-tools {   gap: 8px; } .photo-tools > .text-button {   font-size: 11px;   margin-right: 8px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1100,
+      "value": "11px",
+      "context": "  vertical-align: top; } .compare-table th:first-child {   width: 135px;   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1116,
+      "value": "16px",
+      "context": "  padding-top: 20px;   padding-bottom: 20px; } .compare-table thead h3 {   font-size: 16px;   font-weight: 600;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1120,
+      "value": "27px",
+      "context": "  font-size: 16px;   font-weight: 600; } .compare-table thead p {   font-size: 27px;   font-weight: 600;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1126,
+      "value": "11px",
+      "context": "  margin-top: 8px;   line-height: 1.2; } .compare-table thead p small {   font-size: 11px;   font-weight: 400;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1146,
+      "value": "11px",
+      "context": ".compare-table td > a {   color: inherit; } .compare-table td p {   font-size: 11px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1154,
+      "value": "10px",
+      "context": ".compare-table td strong {   font-weight: 550; } .compare-note {   font-size: 10px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1161,
+      "value": "10px",
+      "context": "  border-top: 1px solid var(--line);   height: 52px; } .tiny-link {   font-size: 10px;   display: inline-flex;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1172,
+      "value": "11px",
+      "context": "  display: flex;   align-items: center;   justify-content: center;   flex-direction: column;   font-size: 11px;   text-align: center;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1189,
+      "value": "17px",
+      "context": "  color: var(--muted);   margin: 0 auto 14px; } .empty-results h2 {   font-size: 17px;   font-weight: 550;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1210,
+      "value": "25px",
+      "context": "  border-radius: 12px;   padding: 30px; } .empty-detail h2 {   font-size: 25px;   font-weight: 550;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1214,
+      "value": "13px",
+      "context": "  font-size: 25px;   font-weight: 550; } .empty-detail p {   font-size: 13px;   color: var(--muted);",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1304,
+      "value": "10px",
+      "context": "  .listing-info > strong {     font-size: 12px;   }   .listing-info > span:not(.listing-price) {     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1314,
+      "value": "11px",
+      "context": "  .select-field {     min-width: 110px;   }   .pending-filter {     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1331,
+      "value": "21px",
+      "context": "  .detail-heading {     gap: 17px;   }   .detail-heading h2 {     font-size: 21px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1334,
+      "value": "28px",
+      "context": "  .detail-heading h2 {     font-size: 21px;   }   .detail-rent > strong {     font-size: 28px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1343,
+      "value": "18px",
+      "context": "  .key-facts {     gap: 10px;   }   .key-facts strong {     font-size: 18px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1346,
+      "value": "9px",
+      "context": "  .key-facts strong {     font-size: 18px;   }   .key-facts > div > span {     font-size: 9px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1356,
+      "value": "10px",
+      "context": "    grid-template-columns: 1fr;   }   .tray-chip {     max-width: 180px;     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1387,
+      "value": "30px",
+      "context": "    padding-top: 25px;     padding-bottom: 25px;   }   .intro h1 {     font-size: 30px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1411,
+      "value": "11px",
+      "context": "    width: 78px;     height: 121px;   }   .listing-info > strong {     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1414,
+      "value": "9px",
+      "context": "  .listing-info > strong {     font-size: 11px;   }   .listing-info > span:not(.listing-price) {     font-size: 9px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1454,
+      "value": "10px",
+      "context": "    grid-template-columns: 1fr 1fr;     gap: 15px;   }   .key-facts > div > span {     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1460,
+      "value": "11px",
+      "context": "  .detail-tabs {     gap: 15px;   }   .detail-tabs button {     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1481,
+      "value": "18px",
+      "context": "  .header-inner {     height: 60px;   }   .brand {     font-size: 18px;     gap: 6px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1496,
+      "value": "11px",
+      "context": "  .source-code-link {     display: none;   }   .favorites-filter {     font-size: 11px;     gap: 5px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1504,
+      "value": "29px",
+      "context": "    display: block;     padding: 24px 0 20px;   }   .intro h1 {     font-size: 29px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1515,
+      "value": "11px",
+      "context": "    margin-top: 18px;     max-width: none;   }   .school-anchor strong {     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1518,
+      "value": "10px",
+      "context": "  .school-anchor strong {     font-size: 11px;   }   .school-anchor small {     font-size: 10px;     margin-top: 2px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1544,
+      "value": "10px",
+      "context": "    gap: 10px;   }   .price-field legend,   .select-field > span {     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1552,
+      "value": "11px",
+      "context": "    flex: 1 0 calc(50% - 10px);   }   .select-field select {     height: 36px;     font-size: 11px;     padding-left: 7px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1556,
+      "value": "11px",
+      "context": "    font-size: 11px;     padding-left: 7px;   }   .pending-filter {     font-size: 11px;     margin-right: auto;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1563,
+      "value": "11px",
+      "context": "    min-height: 30px;   }   .reset-filter {     min-height: 30px;     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1577,
+      "value": "10px",
+      "context": "    font-size: 14px;   }   .results-toolbar > div > span {     display: block;     font-size: 10px;     margin-top: 2px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1581,
+      "value": "10px",
+      "context": "    font-size: 10px;     margin-top: 2px;   }   .results-toolbar select {     font-size: 10px;     max-width: 125px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1618,
+      "value": "11px",
+      "context": "    width: 82px;     height: 112px;   }   .listing-info > strong {     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1621,
+      "value": "10px",
+      "context": "  .listing-info > strong {     font-size: 11px;   }   .listing-info > span:not(.listing-price) {     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1624,
+      "value": "21px",
+      "context": "  .listing-info > span:not(.listing-price) {     font-size: 10px;   }   .listing-price {     font-size: 21px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1637,
+      "value": "9px",
+      "context": "  .home-detail {     width: 100%;   }   .detail-context {     font-size: 9px;     gap: 8px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1646,
+      "value": "11px",
+      "context": "    gap: 24px;     margin-bottom: 10px;   }   .gallery-controls button {     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1656,
+      "value": "9px",
+      "context": "  .gallery-main {     gap: 0;   }   .expand-label {     font-size: 9px;     padding: 5px 7px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1662,
+      "value": "9px",
+      "context": "    left: 9px;     bottom: 9px;   }   .all-photos {     font-size: 9px;     right: 9px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1671,
+      "value": "22px",
+      "context": "  .detail-heading {     margin-top: 0;   }   .detail-heading h2 {     font-size: 22px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1677,
+      "value": "30px",
+      "context": "  .detail-heading p {     font-size: 12px;   }   .detail-rent > strong {     font-size: 30px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1680,
+      "value": "10px",
+      "context": "  .detail-rent > strong {     font-size: 30px;   }   .detail-rent small {     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1689,
+      "value": "17px",
+      "context": "    padding: 15px 0;     margin-top: 19px;   }   .key-facts strong {     font-size: 17px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1692,
+      "value": "9px",
+      "context": "  .key-facts strong {     font-size: 17px;   }   .key-facts > div > span {     font-size: 9px;     line-height: 1.7;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1696,
+      "value": "9px",
+      "context": "    font-size: 9px;     line-height: 1.7;   }   .key-facts strong small {     font-size: 9px;     margin-left: 2px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1705,
+      "value": "11px",
+      "context": "    margin-top: 16px;   }   .primary-button,   .secondary-button {     font-size: 11px;     padding: 9px 13px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1724,
+      "value": "11px",
+      "context": "    justify-content: space-between;     margin-top: 24px;   }   .detail-tabs button {     font-size: 11px;     padding: 10px 0;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1739,
+      "value": "11px",
+      "context": "    gap: 18px;   }   .overview-row p,   .detail-panel > p {     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1742,
+      "value": "11px",
+      "context": "  .detail-panel > p {     font-size: 11px;   }   .attention-list {     font-size: 11px;     padding-left: 15px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1746,
+      "value": "9px",
+      "context": "    font-size: 11px;     padding-left: 15px;   }   .site-footer {     font-size: 9px;     margin-top: 30px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1759,
+      "value": "11px",
+      "context": "  .tray-homes > svg {     display: none;   }   .tray-homes > strong {     font-size: 11px;     margin: 0;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1766,
+      "value": "11px",
+      "context": "  .tray-actions {     gap: 15px;   }   .tray-actions > .primary-button {     font-size: 11px;     padding-inline: 13px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1770,
+      "value": "10px",
+      "context": "    font-size: 11px;     padding-inline: 13px;   }   .tray-actions > .text-button {     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-radius",
+      "line": 1777,
+      "value": "9px",
+      "context": "  .compare-dialog {     max-width: calc(100vw - 16px);     max-height: calc(100dvh - 20px);     height: calc(100dvh - 20px);     border-radius: 9px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1788,
+      "value": "10px",
+      "context": "  .dialog-header strong {     font-size: 14px;   }   .dialog-header span {     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1802,
+      "value": "10px",
+      "context": "    flex-wrap: wrap;   }   .photo-links {     gap: 14px;     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1809,
+      "value": "10px",
+      "context": "    margin-left: auto;     gap: 3px;   }   .photo-tools > .text-button {     font-size: 10px;     margin-right: 2px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1821,
+      "value": "9px",
+      "context": "    height: calc(100% - 148px);   }   .compare-note {     height: 72px;     font-size: 9px;     padding: 12px 15px;",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1826,
+      "value": "11px",
+      "context": "    padding: 12px 15px;   }   .compare-table {     min-width: 730px;     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1834,
+      "value": "10px",
+      "context": "    padding: 14px;   }   .compare-table th:first-child {     width: 95px;     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1840,
+      "value": "23px",
+      "context": "  .compare-table thead h3 {     font-size: 14px;   }   .compare-table thead p {     font-size: 23px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1857,
+      "value": "11px",
+      "context": "  .listing-disclaimer {     line-height: 1.8;   }   .route-caption {     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1860,
+      "value": "10px",
+      "context": "  .route-caption {     font-size: 11px;   }   .route-caption p {     font-size: 10px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    },
+    {
+      "rule": "design-system-font-size",
+      "line": 1870,
+      "value": "11px",
+      "context": "  .route-pending strong {     font-size: 12px;   }   .route-pending p {     font-size: 11px;   }",
+      "decision": "preserve-existing-design-value",
+      "evidence": "Unchanged from verified production bda92e5; DESIGN.md documents compact secondary type, 13px/9px dialogs, semantic status/focus colors and overlays."
+    }
+  ]
+}

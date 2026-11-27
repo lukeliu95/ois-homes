@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-07T04:21:39.791251+00:00",
+  "title": "Design System: OIS附近住",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "primary",
+        "displayName": "正文深灰",
+        "tonalRamp": [
+          "oklch(15.00% 0.00401 84.59)",
+          "oklch(26.43% 0.00401 84.59)",
+          "oklch(37.86% 0.00401 84.59)",
+          "oklch(49.29% 0.00401 84.59)",
+          "oklch(60.71% 0.00401 84.59)",
+          "oklch(72.14% 0.00401 84.59)",
+          "oklch(83.57% 0.00401 84.59)",
+          "oklch(95.00% 0.00401 84.59)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "辅助灰",
+        "tonalRamp": [
+          "oklch(15.00% 0.00815 88.69)",
+          "oklch(26.43% 0.00815 88.69)",
+          "oklch(37.86% 0.00815 88.69)",
+          "oklch(49.29% 0.00815 88.69)",
+          "oklch(60.71% 0.00815 88.69)",
+          "oklch(72.14% 0.00815 88.69)",
+          "oklch(83.57% 0.00815 88.69)",
+          "oklch(95.00% 0.00815 88.69)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "页面白",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 0.00)",
+          "oklch(26.43% 0.00000 0.00)",
+          "oklch(37.86% 0.00000 0.00)",
+          "oklch(49.29% 0.00000 0.00)",
+          "oklch(60.71% 0.00000 0.00)",
+          "oklch(72.14% 0.00000 0.00)",
+          "oklch(83.57% 0.00000 0.00)",
+          "oklch(95.00% 0.00000 0.00)"
+        ]
+      },
+      "wash": {
+        "role": "neutral",
+        "displayName": "工具浅灰",
+        "tonalRamp": [
+          "oklch(15.00% 0.00397 106.47)",
+          "oklch(26.43% 0.00397 106.47)",
+          "oklch(37.86% 0.00397 106.47)",
+          "oklch(49.29% 0.00397 106.47)",
+          "oklch(60.71% 0.00397 106.47)",
+          "oklch(72.14% 0.00397 106.47)",
+          "oklch(83.57% 0.00397 106.47)",
+          "oklch(95.00% 0.00397 106.47)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "细分隔灰",
+        "tonalRamp": [
+          "oklch(15.00% 0.00678 97.36)",
+          "oklch(26.43% 0.00678 97.36)",
+          "oklch(37.86% 0.00678 97.36)",
+          "oklch(49.29% 0.00678 97.36)",
+          "oklch(60.71% 0.00678 97.36)",
+          "oklch(72.14% 0.00678 97.36)",
+          "oklch(83.57% 0.00678 97.36)",
+          "oklch(95.00% 0.00678 97.36)"
+        ]
+      },
+      "red": {
+        "role": "primary",
+        "displayName": "克制红",
+        "tonalRamp": [
+          "oklch(15.00% 0.15817 23.79)",
+          "oklch(26.43% 0.15817 23.79)",
+          "oklch(37.86% 0.15817 23.79)",
+          "oklch(49.29% 0.15817 23.79)",
+          "oklch(60.71% 0.15817 23.79)",
+          "oklch(72.14% 0.15817 23.79)",
+          "oklch(83.57% 0.15817 23.79)",
+          "oklch(95.00% 0.15817 23.79)"
+        ]
+      },
+      "image-ground": {
+        "role": "neutral",
+        "displayName": "图片底灰",
+        "tonalRamp": [
+          "oklch(15.00% 0.00675 97.35)",
+          "oklch(26.43% 0.00675 97.35)",
+          "oklch(37.86% 0.00675 97.35)",
+          "oklch(49.29% 0.00675 97.35)",
+          "oklch(60.71% 0.00675 97.35)",
+          "oklch(72.14% 0.00675 97.35)",
+          "oklch(83.57% 0.00675 97.35)",
+          "oklch(95.00% 0.00675 97.35)"
+        ]
+      },
+      "control-line": {
+        "role": "neutral",
+        "displayName": "控件边线灰",
+        "tonalRamp": [
+          "oklch(15.00% 0.00848 91.49)",
+          "oklch(26.43% 0.00848 91.49)",
+          "oklch(37.86% 0.00848 91.49)",
+          "oklch(49.29% 0.00848 91.49)",
+          "oklch(60.71% 0.00848 91.49)",
+          "oklch(72.14% 0.00848 91.49)",
+          "oklch(83.57% 0.00848 91.49)",
+          "oklch(95.00% 0.00848 91.49)"
+        ]
+      },
+      "action-secondary": {
+        "role": "neutral",
+        "displayName": "次操作灰",
+        "tonalRamp": [
+          "oklch(15.00% 0.00543 95.10)",
+          "oklch(26.43% 0.00543 95.10)",
+          "oklch(37.86% 0.00543 95.10)",
+          "oklch(49.29% 0.00543 95.10)",
+          "oklch(60.71% 0.00543 95.10)",
+          "oklch(72.14% 0.00543 95.10)",
+          "oklch(83.57% 0.00543 95.10)",
+          "oklch(95.00% 0.00543 95.10)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "headline": {
+        "displayName": "页面主题",
+        "purpose": "桌面主标题；窄屏按现有断点收小。"
+      },
+      "title": {
+        "displayName": "房名",
+        "purpose": "当前房屋名称。"
+      },
+      "rent": {
+        "displayName": "详情租金",
+        "purpose": "突出月租，配合等宽数字。"
+      },
+      "body": {
+        "displayName": "全局正文",
+        "purpose": "全局基线；资料面板另有更紧凑的正文设置。"
+      },
+      "action": {
+        "displayName": "操作文字",
+        "purpose": "主次按钮的短文字。"
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "listing-hover",
+        "value": "background-color 0.12s ease",
+        "purpose": "房源卡片的轻微背景变化。"
+      },
+      {
+        "name": "photo-reveal",
+        "value": "0.18s cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "亮度由0.94恢复到1；减弱动态偏好下停用。"
+      },
+      {
+        "name": "tray-reveal",
+        "value": "0.2s cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "托盘裁剪从inset(15% 0 0)到inset(0)；减弱动态偏好下停用。"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-desktop-min",
+        "value": "1600px"
+      },
+      {
+        "name": "compact-desktop-max",
+        "value": "1180px"
+      },
+      {
+        "name": "narrow-desktop-max",
+        "value": "900px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "640px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "主要操作",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "深色主操作，打开原始房源或开始比较。",
+      "html": "<button class=\"ds-primary\">查看原始房源<svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.65\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M14 3h7v7M21 3 10 14M10 4H4v16h16v-6\"/></svg></button>",
+      "css": ".ds-primary{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:41px;padding:9px 16px;border:0;border-radius:7px;font-size:12px;font-weight:550;text-decoration:none;white-space:nowrap;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.6;cursor:pointer;background:var(--ink,#22211f);color:#fff}.ds-primary:hover{background:#44413b;color:#fff}.ds-primary:focus-visible{outline:2px solid var(--red,#a52b2f);outline-offset:4px;}.ds-primary:disabled{opacity:.44;cursor:not-allowed}"
+    },
+    {
+      "name": "次要操作",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "加入对比；完成状态使用既有浅绿灰底。",
+      "html": "<button class=\"ds-secondary\">加入对比</button>",
+      "css": ".ds-secondary{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:41px;padding:9px 16px;border:0;border-radius:7px;font-size:12px;font-weight:550;text-decoration:none;white-space:nowrap;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.6;cursor:pointer;background:#f1f0ec;color:var(--ink,#22211f)}.ds-secondary:hover{background:#e9e7e1}.ds-secondary:focus-visible{outline:2px solid var(--red,#a52b2f);outline-offset:4px;}.ds-secondary[aria-pressed=\"true\"]{background:#e9ece6;color:#3f503d}.ds-secondary:disabled{opacity:.44;cursor:not-allowed}"
+    },
+    {
+      "name": "收藏图标按钮",
+      "kind": "button",
+      "description": "线条爱心使用明确点击区；选中时红色填充。",
+      "html": "<button class=\"ds-icon\" aria-label=\"收藏此房\" aria-pressed=\"false\"><svg width=\"17\" height=\"17\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.65\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z\"/></svg></button>",
+      "css": ".ds-icon{display:inline-flex;align-items:center;justify-content:center;min-width:36px;min-height:36px;border:0;border-radius:6px;background:transparent;color:var(--ink,#22211f);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.6;cursor:pointer;}.ds-icon:hover{background:var(--image-ground,#eeede8)}.ds-icon:focus-visible{outline:2px solid var(--red,#a52b2f);outline-offset:4px;}.ds-icon[aria-pressed=\"true\"]{color:var(--red,#a52b2f)}.ds-icon[aria-pressed=\"true\"] svg{fill:currentColor}"
+    },
+    {
+      "name": "租金数字输入",
+      "kind": "input",
+      "refersTo": "input-rent",
+      "description": "白色数字框，字段名在上，单位在框外。",
+      "html": "<label class=\"ds-price\"><span>每月租金</span><input type=\"number\" value=\"15\" aria-label=\"最低月租，万日元\"><small>万日元</small></label>",
+      "css": ".ds-price{display:block;color:var(--ink,#22211f);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:14px;line-height:1.6}.ds-price>span{display:block;font-size:11px;font-weight:550;color:var(--muted,#686661);margin-bottom:6px}.ds-price input{font:inherit;width:61px;height:35px;background:#fff;border:1px solid #d3d1cb;border-radius:5px;padding:4px 8px;font-weight:600;line-height:1.3;font-variant-numeric:tabular-nums;caret-color:var(--red,#a52b2f)}.ds-price input:hover{background:#fff}.ds-price input:focus-visible{outline:2px solid var(--red,#a52b2f);outline-offset:4px;}.ds-price small{margin-left:9px;font-size:12px;color:var(--muted,#686661)}"
+    },
+    {
+      "name": "资料标签导航",
+      "kind": "nav",
+      "description": "紧凑文字标签，以深色下划线和字重标明当前项。示例用于呈现样式。",
+      "html": "<nav class=\"ds-tabs\" aria-label=\"房源详细资料\"><button aria-current=\"page\">房屋概况</button><button>费用与租约</button><button>通学信息</button><button>核对来源</button></nav>",
+      "css": ".ds-tabs{display:flex;gap:25px;border-bottom:1px solid var(--line,#e8e7e2)}.ds-tabs button{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.6;cursor:pointer;border:0;border-bottom:2px solid transparent;background:transparent;padding:10px 0;font-size:12px;color:var(--muted,#686661)}.ds-tabs button:hover{background:transparent}.ds-tabs button[aria-current=\"page\"]{border-bottom-color:var(--ink,#22211f);color:var(--ink,#22211f);font-weight:650}.ds-tabs button:focus-visible{outline:2px solid var(--red,#a52b2f);outline-offset:4px;}"
+    },
+    {
+      "name": "对比托盘标签",
+      "kind": "chip",
+      "refersTo": "comparison-chip",
+      "description": "房名加移除图标，不使用大色块胶囊。",
+      "html": "<button class=\"ds-chip\" aria-label=\"移除对比箕面3丁目 A栋\">箕面3丁目 A栋<svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.65\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 6 12 12M18 6 6 18\"/></svg></button>",
+      "css": ".ds-chip{display:flex;align-items:center;gap:8px;background:var(--wash,#f5f5f2);padding:7px 9px;border:0;border-radius:5px;font-size:11px;max-width:230px;color:var(--ink,#22211f);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.6;cursor:pointer;}.ds-chip:hover{background:var(--wash,#f5f5f2)}.ds-chip:focus-visible{outline:2px solid var(--red,#a52b2f);outline-offset:4px;}"
+    },
+    {
+      "name": "空结果容器",
+      "kind": "card",
+      "description": "浅灰平面、居中说明和一个重置入口。",
+      "html": "<section class=\"ds-empty\"><h2>暂时没有符合条件的房子</h2><p>换一个预算或房龄范围试试。</p><button>重置筛选，查看房源</button></section>",
+      "css": ".ds-empty{padding:55px 20px 35px;text-align:center;background:var(--wash,#f5f5f2);border-radius:12px;color:var(--ink,#22211f);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.6}.ds-empty h2{margin:0;font-size:17px;font-weight:550;line-height:1.5}.ds-empty p{font-size:12px;color:var(--muted,#686661);margin:10px 0 21px}.ds-empty button{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:41px;padding:9px 16px;border:0;border-radius:7px;font-size:12px;font-weight:550;text-decoration:none;white-space:nowrap;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.6;cursor:pointer;background:var(--ink,#22211f);color:#fff}.ds-empty button:hover{background:#44413b}.ds-empty button:focus-visible{outline:2px solid var(--red,#a52b2f);outline-offset:4px;}"
+    },
+    {
+      "name": "核心事实条",
+      "kind": "custom",
+      "description": "四组可比较数字，上下分隔、单位小一号。",
+      "html": "<div class=\"ds-facts\"><div><strong>4LDK</strong><span>4间卧室</span></div><div><strong>105.13<small>㎡</small></strong><span>广告面积</span></div><div><strong>15<small>年</small></strong><span>2011年09月建</span></div><div><strong>15<small>分钟</small></strong><span>骑车导航至OIS</span></div></div>",
+      "css": ".ds-facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:17px;padding:17px 0;border-top:1px solid var(--line,#e8e7e2);border-bottom:1px solid var(--line,#e8e7e2);color:var(--ink,#22211f);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.6}.ds-facts>div{display:flex;flex-direction:column;gap:4px}.ds-facts strong{font-size:20px;font-weight:600;letter-spacing:-.015em;font-variant-numeric:tabular-nums;line-height:1.3}.ds-facts small{font-size:11px;font-weight:450;margin-left:3px}.ds-facts span{font-size:10px;color:var(--muted,#686661)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "日光下的找房资料桌",
+    "overview": "这是对现有页面的描述：白色页面像摆在桌上的资料，黑灰文字负责读清事实，真实房屋照片、完整户型和地图负责帮助判断。界面是可以持续操作的找房工具，沿用已有资料册的材料和用户确认的黑灰、少量红色偏好。\n\n视觉系统从实际实现提取，依据是 `src/styles.css`、`src/App.tsx` 和 `.impeccable/review/` 中的最终页面截图。产品事实在 `PRODUCT.md`；首页的具体编排及方向契约在 `.impeccable/surfaces/src-app-tsx.md` 与 `index.html`，不把这一个页面的编排当成所有未来页面的模板。",
+    "keyCharacteristics": [
+      "白底和浅灰工具区，层次靠对齐、间距与细分隔。",
+      "日常操作字体，租金数字比辅助说明醒目。",
+      "真实图片保留内容，户型和地图可看完整原图。",
+      "红色用于品牌、收藏、待核提醒和交互焦点，主要按钮保持深色。"
+    ],
+    "rules": [
+      {
+        "name": "The 克制点色 Rule",
+        "body": "主操作用深灰，红色只强调局部身份、状态和焦点；不把所有可点击项都改成红色。",
+        "section": "colors"
+      },
+      {
+        "name": "The 数字先读 Rule",
+        "body": "同组信息先突出租金和可比较事实，单位与解释降一级；不要让单位与数字争抢视觉重量。",
+        "section": "typography"
+      },
+      {
+        "name": "The 操作不埋 Rule",
+        "body": "当前桌面找房页在1280×720首屏内，选中房名、租金、紧凑核心事实与原广告/对比操作先于大图出现。维护时保留这个已实现的可见性，不把大图重新推到身份与主要操作之前。",
+        "section": "layout"
+      },
+      {
+        "name": "The 平面优先 Rule",
+        "body": "常态容器保持平面；需要区分状态时先用底色、边线、文字和明确的焦点轮廓。",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** 以白色页面、黑灰事实和少量红色状态保持既有视觉语言。",
+      "**Do** 把数字、单位、说明分级，让比较内容在同一位置出现。",
+      "**Do** 让完整户型和路线保留全图，并提供原图与来源入口。",
+      "**Do** 保留明确的键盘焦点、标签选中状态和减弱动态适配。",
+      "**Do** 在当前首页验证1280×720下的房名、租金、紧凑事实与主要操作仍可见。"
+    ],
+    "donts": [
+      "**Don't** 加入蓝紫渐变、表情图标、装饰性眉题或与日常操作无关的展示字体。",
+      "**Don't** 用阴影、侧边高亮竖线和多层封闭框替代已有的间距与细分隔。",
+      "**Don't** 为填满主图画框裁掉户型或地图；不要生成、拼接或改变房屋实拍内容。",
+      "**Don't** 把来源、观测日期和待核说明处理成装饰，或把未知值做成确定的绿色成功状态。",
+      "**Don't** 把本次首页的列宽和资料顺序当成所有未来页面必须照搬的构图。"
+    ]
+  }
+}
