@@ -4,7 +4,7 @@
     "address": "大阪府箕面市小野原西4-4-16",
     "url": "https://sois.kwansei.ac.jp/osaka-international-school/about/contacts-location"
   },
-  "dataAsOf": "2026-11-25T08:57:26+09:00",
+  "dataAsOf": "2026-11-27T09:02:55+09:00",
   "homes": [
     {
       "id": "N002",
@@ -12,14 +12,14 @@
       "neighborhood": "箕面 · 箕面3丁目",
       "layout": "4LDK",
       "bedrooms": 4,
-      "moveIn": "at home写12月20日，Able预计12月中旬，另一中介写协商",
+      "moveIn": "Able预计12月中旬，Housecom预计12月下旬，另一中介写协商",
       "lease": "普通借家 · 2年",
-      "parking": "1台，另1.5万日元/月",
-      "summary": "四间卧室，更接近20万预算。月租加一个车位19.5万日元，其他费用另计。",
+      "parking": "1台，另1.5万日元/月，须随租约签",
+      "summary": "四间卧室，更接近20万预算。月租加须随租约签的一个车位为19.5万日元，其他费用另计。",
       "attention": [
-        "at home指定2026年12月20日，Able预计12月中旬，いい部屋写入住日协商。HOME’S旧广告的11月下旬已结束，实际交付日待确认。",
+        "当前三份广告写12月中旬、12月下旬或协商。曾写12月20日的 at home 原链接已无法打开。同编号转载仍显示该日期，更新日未标。实际交付日待确认。",
         "到校导航15分钟；按12公里/小时加3分钟缓冲，慢骑情景约23分钟。",
-        "先展示at home主广告户型。Able版的房间分配和面积有差异，待核；HOME’S历史参考写4SLDK。"
+        "先展示原 at home 户型。Able 版房间分配和面积有差异，待核。HOME’S 历史参考写4SLDK。"
       ],
       "fees": [
         {
@@ -32,7 +32,7 @@
         },
         {
           "label": "停车",
-          "value": "1台，1.5万日元/月"
+          "value": "1台，1.5万日元/月，须随租约签"
         },
         {
           "label": "每月支持服务",
@@ -55,8 +55,8 @@
           "value": "94,100 / 33,000 / 16,500日元"
         },
         {
-          "label": "保险",
-          "value": "2年20,000日元，最终报价待核"
+          "label": "保险（Housecom来源）",
+          "value": "1年17,900日元，实际保费以合同为准"
         },
         {
           "label": "中介费（Able来源）",
@@ -75,7 +75,7 @@
       "built": "2011-09",
       "status": "verified",
       "statusNote": "已核公开广告和地址级通学证据，实际空室仍需中介确认",
-      "checkedAt": "2026-11-25T08:56:05+09:00",
+      "checkedAt": "2026-11-27T09:01:06+09:00",
       "parkingYen": 15000,
       "photos": [
         {
@@ -89,7 +89,7 @@
         {
           "src": "/media/N002/01.jpg",
           "kind": "floorplan",
-          "caption": "户型图（at home主广告版本）",
+          "caption": "户型图（原 at home 版本）",
           "sourceUrl": "https://www.athome.co.jp/image_files/path/PgYNy2cG_lqABUNwgcDWfA==",
           "width": 640,
           "height": 451
@@ -226,13 +226,13 @@
       "sources": [
         {
           "label": "いい部屋",
-          "url": "https://www.eheya.net/detail/300001823003376000001/",
-          "observedAt": "2026-11-07"
+          "url": "https://www.eheya.net/detail/300001683083007000001/",
+          "observedAt": "2026-11-27T09:02:55+09:00"
         },
         {
           "label": "Able",
           "url": "https://www.able.co.jp/detail/Detail.do?bk=000000763191677001",
-          "observedAt": "2026-11-25T08:56:05+09:00"
+          "observedAt": "2026-11-27T09:01:06+09:00"
         },
         {
           "label": "LIFULL HOME’S",
@@ -240,17 +240,22 @@
           "observedAt": "2026-11-07"
         },
         {
-          "label": "at home（主广告）",
-          "url": "https://www.athome.co.jp/chintai/1106992437/",
-          "observedAt": "2026-11-25T08:59:20+09:00"
+          "label": "SUUMO · Housecom（12月下旬）",
+          "url": "https://suumo.jp/chintai/bc_100537307523/",
+          "observedAt": "2026-11-27T09:04:59+09:00"
         },
         {
-          "label": "いい部屋（当前广告）",
-          "url": "https://www.eheya.net/detail/300001683083007000001/",
-          "observedAt": "2026-11-25T09:01:01+09:00"
+          "label": "at home（原广告现不可访问）",
+          "url": "https://www.athome.co.jp/chintai/1106992437/",
+          "observedAt": "2026-11-27T09:03:41+09:00"
+        },
+        {
+          "label": "いい部屋（历史广告入口）",
+          "url": "https://www.eheya.net/detail/300001823003376000001/",
+          "observedAt": "2026-11-25T09:00:17+09:00"
         }
       ],
-      "sourceUrl": "https://www.athome.co.jp/chintai/1106992437/"
+      "sourceUrl": "https://www.able.co.jp/detail/Detail.do?bk=000000763191677001"
     },
     {
       "id": "N001",
